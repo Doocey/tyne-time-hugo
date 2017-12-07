@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Toby Alderweireld in action for Belgium at the 2014 World Cup](http://www.tynetime.com/wp-content/uploads/2014/08/Toby-Alderweireld-Newcastle.jpg "Alderweireld - Looking to leave Atletico Madrid after falling out of favour")
+![Toby Alderweireld in action for Belgium at the 2014 World Cup](https://www.tynetime.com/wp-content/uploads/2014/08/Toby-Alderweireld-Newcastle.jpg "Alderweireld - Looking to leave Atletico Madrid after falling out of favour")
 
 According to the well-respected Graeme Bailey formerly of Sky Sports, Newcastle are hoping to conclude a deal for Atletico Madrid's Toby Alderweireld before the transfer window closes on Monday. The Magpies slipped to a 3-3 draw against Crystal Palace on Saturday in the dying embers, after it looked like youngster Rolando Aarons had secured the club's first three points of the new Premier League campaign. Despite Mike Williamson scoring his first ever goal in Black and White, it is quite clear that a new centre-back is needed on Tyneside to complement Fabricio Coloccini and eventually, replace him entirely. Mapou Yanga-Mbiwa's future at the club is still up the air after numerous attempts to offload him, and recent reports in France claim he is close to agreeing a loan move back to Ligue 1, which would probably explain why Alan Pardew and Lee Charnley are working on a deal for Alderweireld.
 

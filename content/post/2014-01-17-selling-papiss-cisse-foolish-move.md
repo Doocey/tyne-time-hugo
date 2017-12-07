@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Papiss Cissé mulls over a missed opportunity for Newcastle](http://www.tynetime.com/wp-content/uploads/2014/01/Papiss-Cisse-Newcastle-2014.jpg "Cissé - Still has the quality to become a regular goalscorer again")
+![Papiss Cissé mulls over a missed opportunity for Newcastle](https://www.tynetime.com/wp-content/uploads/2014/01/Papiss-Cisse-Newcastle-2014.jpg "Cissé - Still has the quality to become a regular goalscorer again")
 
 There has been much talk about a possible swap deal this January transfer window which would see Papiss Cissé make the move to Borussia Mönchengladbach in turn for the arrival of long-term Newcastle United target Luuk de Jong on Tyneside. The Dutch forward is reportedly ready for a move away from the Bundesliga and prefers a switch to the Premier League - despite turning down a move to NUFC just a year ago. The 23 year-old made a £12m move to Borussia but has only netted six times in 23 appearances, and the Dutch international is fast becoming a bench-warmer for Lucien Favre's side. With the January transfer window passing the half way mark, our cherished director of football Joe Kinnear is working his socks off to secure a couple of deals before the end of the month — or that is what  we are being told anyway. Despite the negativity, it does look as if de Jong is the primary target this window and the NUFC recruitment team are so desperate to secure his signature that they are willing to let the current #9, Papiss Cissé, depart.
 

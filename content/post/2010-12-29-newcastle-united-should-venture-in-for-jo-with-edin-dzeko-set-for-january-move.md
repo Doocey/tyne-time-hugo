@@ -48,7 +48,7 @@ tags:
   - Tyne Time
 
 ---
-![Manchester City's Jô](http://www.tynetime.com/wp-content/uploads/2010/12/Jo-003.jpg "Jo_Man_City")
+![Manchester City's Jô](https://www.tynetime.com/wp-content/uploads/2010/12/Jo-003.jpg "Jo_Man_City")
 
 #### Jô - Would be an extremely good addition to Newcastle United this January
 

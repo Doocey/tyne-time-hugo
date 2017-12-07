@@ -20,7 +20,7 @@ tags:
   - "St. James' Park"
 ---
 
-![Andros Townsend in action for Newcastle United against Crystal Palace](http://www.tynetime.com/wp-content/uploads/2016/07/Andros-Townsend-Newcastle-United-Palace.jpg "Andros Townsend")
+![Andros Townsend in action for Newcastle United against Crystal Palace](https://www.tynetime.com/wp-content/uploads/2016/07/Andros-Townsend-Newcastle-United-Palace.jpg "Andros Townsend")
 
 Townsend - Gave everything to help try keep NUFC in the Premier League
 
@@ -52,5 +52,5 @@ Hopefully this short post gives some insight to Palace fans about what Townsend 
 
 Comments welcome as always, and feel free to follow me on Twitter [@KevinDoocey][2].
 
- [1]: http://www.tynetime.com/2014/07/08/arsenal-fans-need-know-mathieu-debuchy/
+ [1]: https://www.tynetime.com/2014/07/08/arsenal-fans-need-know-mathieu-debuchy/
  [2]: https://twitter.com/kevindoocey

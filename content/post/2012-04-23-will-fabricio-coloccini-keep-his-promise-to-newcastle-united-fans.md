@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabricio Coloccini in action against Stoke City](http://www.tynetime.com/wp-content/uploads/2012/04/Fabricio-Coloccini-Stoke-City.jpg "Fabricio Coloccini")
+![Fabricio Coloccini in action against Stoke City](https://www.tynetime.com/wp-content/uploads/2012/04/Fabricio-Coloccini-Stoke-City.jpg "Fabricio Coloccini")
 
 #### Coloccini - Made a promise to Newcastle United fans a couple years ago
 

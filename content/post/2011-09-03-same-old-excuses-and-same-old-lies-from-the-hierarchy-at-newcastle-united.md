@@ -50,7 +50,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Derek Llambias and Mike Ashley watch Newcastle United in action](http://www.tynetime.com/wp-content/uploads/2011/09/Derek-Llambias.jpg "Derek-Llambias")
+![Derek Llambias and Mike Ashley watch Newcastle United in action](https://www.tynetime.com/wp-content/uploads/2011/09/Derek-Llambias.jpg "Derek-Llambias")
 
 #### Llambias - Released statement explaining failed striker hunt after window shut
 

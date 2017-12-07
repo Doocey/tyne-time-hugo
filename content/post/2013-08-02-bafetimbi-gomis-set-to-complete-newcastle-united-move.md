@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Bafetimbi Gomis in action for Lyon](http://www.tynetime.com/wp-content/uploads/2013/08/Bafetimbi-Gomis-Newcastle-United.jpg "Gomis - Ready to complete a move to Newcastle United")
+![Bafetimbi Gomis in action for Lyon](https://www.tynetime.com/wp-content/uploads/2013/08/Bafetimbi-Gomis-Newcastle-United.jpg "Gomis - Ready to complete a move to Newcastle United")
 
 I remember when Newcastle United were chasing Bafetimbi Gomis almost five years this summer. Apparently he was available for £9m, and we were in with a good chance of landing him before the 2010 World Cup in South Africa. Instead, he moved to Lyon who this year, are doing their utmost to get rid of the Frenchman. Talks between NUFC and Lyon have gone on for weeks, and it finally seems that there is light at the end of the tunnel with the French club's president confirming that a fee had been agreed, and the player had agreed a contract. The only thing that is preventing Gomis from becoming a Newcastle United  player is agent fees and we have been told that there are a number of representatives at Gomis' camp.
 

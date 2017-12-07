@@ -26,7 +26,7 @@ tags:
   - Yoan Gouffran
 
 ---
-![Yoan Gouffran in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2013/06/Yoan-Gouffran-Newcastle.jpg "Gouffran - Originally a summer target along with Sissoko but acquired in Jan")
+![Yoan Gouffran in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2013/06/Yoan-Gouffran-Newcastle.jpg "Gouffran - Originally a summer target along with Sissoko but acquired in Jan")
 
 From reading across Twitter and various other Newcastle United blogs, its seems like there is a general consensus that Alan Pardew needs to spend big in order to help the club finish in the Top 10 next season. I have heard of cries for Wilfried Bony, Tom Ince, Loic Remy, Stephane Mbia, Victor Wanyama, Gary Hooper and even Shaun Maloney (Seriously?) but the truth is, we do not need to go out and throw millions at clubs. Admittedly, mistakes were made last summer in not luring enough players to Tyneside to maintain our push up the Premier League table but injuries, alongside Alan Pardew's inept tactics were our biggest enemy, in my opinion at least. In January of 2013, Yoan Gouffran, Massadio Haidara, Moussa Sissoko, Mathieu Debuchy, and Mapou Yanga-Mbiwa arrived to  help save the club from relegation and they did exactly that, albeit in a tiring, effort laden fashion. However, people have to remember that these guys have to settle and gel with the team yet - something that I would like to think will be rather evident next season.
 

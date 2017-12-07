@@ -28,7 +28,7 @@ tags:
   - Toon News
 
 ---
-![Hatem Ben Arfa celebrates scoring a wonder-goal against Blackburn](http://www.tynetime.com/wp-content/uploads/2012/03/Hatem-Ben-Arfa-NUFC.jpg "Hatem-Ben-Arfa-NUFC")
+![Hatem Ben Arfa celebrates scoring a wonder-goal against Blackburn](https://www.tynetime.com/wp-content/uploads/2012/03/Hatem-Ben-Arfa-NUFC.jpg "Hatem-Ben-Arfa-NUFC")
 
 #### Ben Arfa - Has raw potential that needs harnessing by Alan Pardew & NUFC
 

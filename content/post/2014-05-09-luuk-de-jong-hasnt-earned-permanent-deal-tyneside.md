@@ -23,7 +23,7 @@ tags:
   - Premier League
 
 ---
-![Luuk de Jong in his photo-shoot after signing for Newcastle](http://www.tynetime.com/wp-content/uploads/2014/05/Luuk-De-Jong-Newcastle.jpg "Luuk - Hasn't shown anything in a Newcastle United shirt to merit an £8m move")
+![Luuk de Jong in his photo-shoot after signing for Newcastle](https://www.tynetime.com/wp-content/uploads/2014/05/Luuk-De-Jong-Newcastle.jpg "Luuk - Hasn't shown anything in a Newcastle United shirt to merit an £8m move")
 
 While any noise about potential arrivals on Tyneside may be welcomed by supporters, there are a few exceptions. Firstly, we want some decent talent at St. James' Park next season in order to compete with the teams above us. As we know, and have been told numerous times - there is plenty of cash in reserve at Newcastle United ready to be spent on the 'right' type of player. Unfortunately, Luuk de Jong is not that type of player. The Dutchman arrived on loan from Germany with the hope of aiding our goal-threat, but the man himself has failed to net once in the handful of appearances he has managed in a Black and White shirt. He made his debut at home to Sunderland and looked off the pace which is understandable for a first game, but there has been very little to get excited about since  then with the ex-Twente forward managing only one assist in his time under Alan Pardew's stewardship.
 

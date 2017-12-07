@@ -41,7 +41,7 @@ tags:
   - West Ham United
 
 ---
-![Demba Ba celebrates after scoring for West Ham in the Premier League](http://www.tynetime.com/wp-content/uploads/2011/06/Demba-Ba-West-Ham.jpg "Demba-Ba-West-Ham")
+![Demba Ba celebrates after scoring for West Ham in the Premier League](https://www.tynetime.com/wp-content/uploads/2011/06/Demba-Ba-West-Ham.jpg "Demba-Ba-West-Ham")
 
 #### Ba - Reports are suggesting we have signed the African for a small amount
 

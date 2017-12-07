@@ -29,7 +29,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Mathieu Debuchy applauds French fans after their victory over Ukraine in Euro 2012.](http://www.tynetime.com/wp-content/uploads/2012/06/Mathieu-Debuchy-France.jpg "Mathieu-Debuchy-France")
+![Mathieu Debuchy applauds French fans after their victory over Ukraine in Euro 2012.](https://www.tynetime.com/wp-content/uploads/2012/06/Mathieu-Debuchy-France.jpg "Mathieu-Debuchy-France")
 
 #### Debuchy - A man in high demand after excellent Euro 2012 showing
 

@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Nathan Dekoké in action for Saint-Étienne](http://www.tynetime.com/wp-content/uploads/2013/12/Nathan-Dekoke.jpg "Dekoké - Newcastle want land young defender in January transfer window")
+![Nathan Dekoké in action for Saint-Étienne](https://www.tynetime.com/wp-content/uploads/2013/12/Nathan-Dekoke.jpg "Dekoké - Newcastle want land young defender in January transfer window")
 
 News emerging from France (where else?!) suggest that Newcastle United director of football Joe Kinnear may not actually be drinking whiskey and relaxing beside the fire this Christmas period, rather instead, lining up moves for January targets. _France Football_ is carrying a story claiming NUFC have tabled an offer for young French defender Nathan Dekoké. The 17 year-old is currently on the books of Saint Étienne but his contract expires in the summer of 2014 meaning he is open to offers. According to the article Newcastle have offered him a deal and could be followed closely by Fulham who are also keeping tabs on his progress. The French club would be due compensation should Dekoké decide to accept an  offer from another club but the fee itself is likely to be minimal.
 

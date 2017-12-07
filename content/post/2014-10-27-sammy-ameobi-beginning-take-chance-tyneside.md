@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Sammy Ameobi scores Newcastle's equaliser against Spurs at White Hart Lane](http://www.tynetime.com/wp-content/uploads/2014/10/Sammy-Ameobi-Newcastle-Spurs.jpg "Ameobi - Rifled home an absolute beauty 7 seconds into the second half at White Hart Lane")
+![Sammy Ameobi scores Newcastle's equaliser against Spurs at White Hart Lane](https://www.tynetime.com/wp-content/uploads/2014/10/Sammy-Ameobi-Newcastle-Spurs.jpg "Ameobi - Rifled home an absolute beauty 7 seconds into the second half at White Hart Lane")
 
 When Newcastle United scampered down the tunnel after a ridiculously poor first half showing against Tottenham Hotspur, Toon fans began to ask the question - what kind of gameplan did NUFC really bring to White Hart Lane? Whatever the idea of the first 45 minutes happened to be, it was nothing short of appalling. We didn't create a chance, and the majority of the players didn't look bothered about representing the shirt they were wearing. The second half however, was brilliant. As many of you will know, I - alongside thousands of other Newcastle fans - find it quite difficult to get excited about the Toon these days, but the second half was refreshing to the say the least. We looked a proper Premier League **team**. The players worked tirelessly, and actually went at the Spurs defence for the kill, a tie which was eventually settled by the highly-talented Ayoze Perez on his first league start.
 

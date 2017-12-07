@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Branimir Hrgota in action Sweden](http://www.tynetime.com/wp-content/uploads/2012/05/Branimir-Hrgota-NUFC.jpg "Branimir-Hrgota-NUFC")
+![Branimir Hrgota in action Sweden](https://www.tynetime.com/wp-content/uploads/2012/05/Branimir-Hrgota-NUFC.jpg "Branimir-Hrgota-NUFC")
 
 #### Hrgota - Hightly rated in Sweden as a natural goalscorer and future star
 

@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew during a Newcastle United Premier League match](http://www.tynetime.com/wp-content/uploads/2011/10/Alan-Pardew-NUFC-2011.jpg "Alan-Pardew-NUFC-2011")
+![Alan Pardew during a Newcastle United Premier League match](https://www.tynetime.com/wp-content/uploads/2011/10/Alan-Pardew-NUFC-2011.jpg "Alan-Pardew-NUFC-2011")
 
 #### Pardew - Has managed to coax Modibo Maiga to Tyneside despite summer failure
 

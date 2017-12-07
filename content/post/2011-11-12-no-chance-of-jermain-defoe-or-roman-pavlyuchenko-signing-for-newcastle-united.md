@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Jermain Defoe & Roman Pavlyuchenko get ready to tip off away at Blackpool](http://www.tynetime.com/wp-content/uploads/2011/11/Jermain-Defoe-Roman-Pavlyuchenko-Spurs.jpg "Jermain-Defoe-Roman-Pavlyuchenko-Spurs")
+![Jermain Defoe & Roman Pavlyuchenko get ready to tip off away at Blackpool](https://www.tynetime.com/wp-content/uploads/2011/11/Jermain-Defoe-Roman-Pavlyuchenko-Spurs.jpg "Jermain-Defoe-Roman-Pavlyuchenko-Spurs")
 
 #### Linked - Defoe & Pavlyuchenko both linked to Newcastle United this week
 

@@ -31,7 +31,7 @@ tags:
   - Wilfried Zaha
 
 ---
-![Wilfried Zaha in action for Crystal Palace in the nPower Championship](http://www.tynetime.com/wp-content/uploads/2012/01/Wilfried-Zaha-Newcastle-United.jpg "Wilfried-Zaha-Newcastle-United")
+![Wilfried Zaha in action for Crystal Palace in the nPower Championship](https://www.tynetime.com/wp-content/uploads/2012/01/Wilfried-Zaha-Newcastle-United.jpg "Wilfried-Zaha-Newcastle-United")
 
 #### Zaha - Future could be decided by end of January after Palace's cup exit
 

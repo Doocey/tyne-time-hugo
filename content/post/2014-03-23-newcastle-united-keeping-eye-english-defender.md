@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Steven Caulker in action for Cardiff City](http://www.tynetime.com/wp-content/uploads/2014/03/Steven-Caulker-Cardiff-City.jpg "Caulker - Arguably one of the best English central defenders in the Premier League")
+![Steven Caulker in action for Cardiff City](https://www.tynetime.com/wp-content/uploads/2014/03/Steven-Caulker-Cardiff-City.jpg "Caulker - Arguably one of the best English central defenders in the Premier League")
 
 First things first, how good was it to see Papiss Cissé end his barren spell in front of goal with a fine header in stoppage time against Crystal Palace on Saturday? The #9 took his chance remarkably well given previous guilt-edge efforts at goal in the previous 92 minutes, so let's hope its the start of a scoring spree from the undoubtedly talented Senegalese forward. We are now entering the stage of the Premier League season when contenders for both the title and relegation emerge at opposite ends of the table. This season sees a handful of clubs linger just above the relegation zone with very little points difference between them - clubs as high up as Swansea are still in real danger of being dragged into a final day melee. One of the clubs that have struggled to come to terms with the Premier League is Cardiff City, and new boss Ole Gunnar Solskjaer is facing a tough task in his first gig in England to keep the Welsh outfit afloat. On Saturday the  Bluebirds suffered a 3-6 defeat to Liverpool, and although the visitors stuck six goals past them, Cardiff did lead twice in the game.
 

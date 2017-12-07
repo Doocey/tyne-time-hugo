@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Luke James of Hartlepool appeals for a decision during a match](http://www.tynetime.com/wp-content/uploads/2012/05/Luke-James-Hartlepool.jpg "Luke-James-Hartlepool")
+![Luke James of Hartlepool appeals for a decision during a match](https://www.tynetime.com/wp-content/uploads/2012/05/Luke-James-Hartlepool.jpg "Luke-James-Hartlepool")
   
 #### James - Newcastle United building for the future and looking towards English
 

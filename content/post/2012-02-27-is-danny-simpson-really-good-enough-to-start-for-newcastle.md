@@ -38,7 +38,7 @@ tags:
   - Tyne Time
 
 ---
-![Danny Simpson in action for Newcastle United against Fulham](http://www.tynetime.com/wp-content/uploads/2012/02/Danny-Simpson-Newcastle.jpg "Danny-Simpson-Newcastle-United")
+![Danny Simpson in action for Newcastle United against Fulham](https://www.tynetime.com/wp-content/uploads/2012/02/Danny-Simpson-Newcastle.jpg "Danny-Simpson-Newcastle-United")
 
 #### Simpson - Starting to shows signs of becoming a quite average right-back
 

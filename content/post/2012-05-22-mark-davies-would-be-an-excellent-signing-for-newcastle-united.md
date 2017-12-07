@@ -24,7 +24,7 @@ tags:
   - NUFC Blog
 
 ---
-![Mark Davies in Bolton Wanderers final Premier League game of 2012](http://www.tynetime.com/wp-content/uploads/2012/05/Mark-Davies-Bolton-Wanderers.jpg "Mark-Davies-Bolton-Wanderers")
+![Mark Davies in Bolton Wanderers final Premier League game of 2012](https://www.tynetime.com/wp-content/uploads/2012/05/Mark-Davies-Bolton-Wanderers.jpg "Mark-Davies-Bolton-Wanderers")
 
 #### Davies - Very talented football that would be a snip at anything under £4m
 

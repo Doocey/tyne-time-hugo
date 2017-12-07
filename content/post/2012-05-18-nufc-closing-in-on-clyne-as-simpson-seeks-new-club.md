@@ -18,7 +18,7 @@ tags:
   - nufc news
 
 ---
-![Nathaniel Clyne in action for Crystal Palace](http://www.tynetime.com/wp-content/uploads/2012/05/nathaniel-clyne.jpg "Nathaniel Clyne - Carling Cup Fourth Round")
+![Nathaniel Clyne in action for Crystal Palace](https://www.tynetime.com/wp-content/uploads/2012/05/nathaniel-clyne.jpg "Nathaniel Clyne - Carling Cup Fourth Round")
   
 #### Clyne - In high demand with Manchester United looking to poach the youngster
 

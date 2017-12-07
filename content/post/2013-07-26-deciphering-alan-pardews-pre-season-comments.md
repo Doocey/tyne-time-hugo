@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew and his European beard](http://www.tynetime.com/wp-content/uploads/2013/05/alan-pardew-beard.jpg "Pardew - Pre-season work should bear fruits in Premier League opening")
+![Alan Pardew and his European beard](https://www.tynetime.com/wp-content/uploads/2013/05/alan-pardew-beard.jpg "Pardew - Pre-season work should bear fruits in Premier League opening")
 
 Newcastle United's Portuguese pre-season tour seems to have went pretty well in terms of preparation for the upcoming season if a whole host of Northern journalists are to be believed. Fitness levels are extremely high - a result of **four** hour long training sessions led by Alan Pardew in relative heat, while there seems to be a stern and focused mentality. Such results offer immense encouragement to Newcastle United fans who have grown tired of countless transfer rumours, and little end product, as of yet. Shola Ameobi scored Newcastle United's two goals in their outings against both Rio Ave and Pacos Ferreira. Make of that what you will folks. However, comments from our manager about last season sparked me into writing this very  article as they quite frankly left me _astounded_.
 

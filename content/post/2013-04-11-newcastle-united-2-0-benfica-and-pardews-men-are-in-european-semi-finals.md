@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Papiss Cissé celebrates after scoring the winner against Stoke City](http://www.tynetime.com/wp-content/uploads/2013/04/Papiss-Cisse-Stoke.jpg "Cissé - How suiting would it be if he popped up with a last gasp decider")
+![Papiss Cissé celebrates after scoring the winner against Stoke City](https://www.tynetime.com/wp-content/uploads/2013/04/Papiss-Cisse-Stoke.jpg "Cissé - How suiting would it be if he popped up with a last gasp decider")
 
 When Newcastle United began their European adventure away in sunny Greece against Atromitos, not too many would have guessed that just months later the north east giants would be a stones throw away from a European semi-final. Having dispatched of the Greek outfit at home, we were then handed a hardish group but excelled when we needed to without flexing our muscles that much. Then came Metalist Kharkiv which Shola decided to sort out in Ukraine on his own. Moneybags Anzhi soon followed and Papiss Cissé put paid to the Russian's  chances in the second leg at home in the 93rd minute, having recorded a solid 0-0 draw away from home.
 

@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United celebrate Ryan Taylor's winning free-kick against Sunderland](http://www.tynetime.com/wp-content/uploads/2011/12/Happy-Christmas-Newcastle-United.jpg "Happy-Christmas-Newcastle-United")
+![Newcastle United celebrate Ryan Taylor's winning free-kick against Sunderland](https://www.tynetime.com/wp-content/uploads/2011/12/Happy-Christmas-Newcastle-United.jpg "Happy-Christmas-Newcastle-United")
 
 #### Christmas - Enjoy what's been a good year for Alan Pardew and Newcastle Utd
 
@@ -38,4 +38,4 @@ Put the feet up, and get ready for Boxing Day where we'll be looking to get back
 
 Doocey 
 
-[![Santa Hat](http://www.tynetime.com/wp-content/uploads/2011/12/santa_hat-150x150.png "santa_hat")](http://www.tynetime.com/wp-content/uploads/2011/12/santa_hat.png)
+[![Santa Hat](https://www.tynetime.com/wp-content/uploads/2011/12/santa_hat-150x150.png "santa_hat")](https://www.tynetime.com/wp-content/uploads/2011/12/santa_hat.png)

@@ -50,7 +50,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheick Tiote in action against West Ham, in a 1-2 Newcastle United win at Upton Park.](http://www.tynetime.com/wp-content/uploads/2011/02/CheikTiote.jpg "Cheick Tiote")
+![Cheick Tiote in action against West Ham, in a 1-2 Newcastle United win at Upton Park.](https://www.tynetime.com/wp-content/uploads/2011/02/CheikTiote.jpg "Cheick Tiote")
 
 #### Tioté - Very important again tonight but needs to watch his discipline
 

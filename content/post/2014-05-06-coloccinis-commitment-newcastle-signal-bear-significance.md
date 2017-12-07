@@ -23,7 +23,7 @@ tags:
   - "St. James' Park"
 
 ---
-![Fabricio Coloccini in action for Newcastle United against Cardiff City](http://www.tynetime.com/wp-content/uploads/2014/05/Fabricio-Coloccini-Newcastle-Cardiff.jpg "olo - Confirms that his future remains on Tyneside after sorting personal issues")
+![Fabricio Coloccini in action for Newcastle United against Cardiff City](https://www.tynetime.com/wp-content/uploads/2014/05/Fabricio-Coloccini-Newcastle-Cardiff.jpg "olo - Confirms that his future remains on Tyneside after sorting personal issues")
 
 In a timely boost for all associated with Newcastle United, captain Fabricio Coloccini today confirmed that he will be staying at St. James' Park for next season, at least. The Argentinian centre-back was widely expected to depart Tyneside for a return to his home nation, but all has been put to bed as the ball-playing defender announced to the _Shields Gazette_ that he is already looking forward to the next campaign in a Newcastle jersey. It is worth noting that despite the undoubted positive news this represents for the club, the only team that looked to sign Fabricio, San Lorenzo, parted company with one of their employees, who also happened to be Coloccini's father; Osvaldo earlier this year. One would have to assume that any potential move to the Buenos Aires  outfit is now almost definitely off as his father was a leading influence in trying to seal a move for the ex-Deportivo man.
 

@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew and his European beard](http://www.tynetime.com/wp-content/uploads/2013/05/alan-pardew-beard.jpg "Pardew - Looks to have the backing of Mike Ashley for another term at least")
+![Alan Pardew and his European beard](https://www.tynetime.com/wp-content/uploads/2013/05/alan-pardew-beard.jpg "Pardew - Looks to have the backing of Mike Ashley for another term at least")
 
 Back at the start of December 2012, a couple of days after Newcastle United had fielded a side with Nile Ranger up front away at Bordeaux in the Europa League, a survey was carried out. The question was simple, is Alan Pardew the man to bring Newcastle United forward as a club? 95% of voters claimed he was. Fast forward five months and NUFC have staved off the threat of relegation, just about. Anything I see on Twitter is usually negative towards Pardew, but Brian McNally - the Mirror's North East correspondent - claimed last night that from his gatherings, support of Pards was now at 50%. Half want him gone, the either half think he is the man to bring success to Tyneside. Regardless of what we think, the Chronicle have today revealed what we probably expected, indeed that Pardew is likely to continue as Newcastle United manager for another season at least, ticking one more  year off his figurative 8 year deal. Everyone will mention how bad our performances have been towards the end of the season and rightly so, but the optimists among us will also revert to the fact Manchester United held on to Ferguson after a very poor season by their standards, and the rest we know is history; history that usually includes MUFC's name on the Premier League trophy umpteen times.
 

@@ -46,7 +46,7 @@ tags:
   - Tyne Time
 
 ---
-![A frustrated Stephen Ireland in action for Aston Villa](http://www.tynetime.com/wp-content/uploads/2011/03/Stephen-Ireland.jpg "Stephen-Ireland")
+![A frustrated Stephen Ireland in action for Aston Villa](https://www.tynetime.com/wp-content/uploads/2011/03/Stephen-Ireland.jpg "Stephen-Ireland")
 
 #### Ireland - Can be a quality player under Alan Pardew at Newcastle United
 

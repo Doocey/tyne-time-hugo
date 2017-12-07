@@ -44,7 +44,7 @@ tags:
   - Tyne Time
 
 ---
-![Patrick van Aanholt](http://www.tynetime.com/wp-content/uploads/2010/12/chelsea_1722831c.jpg "van Aanholt - Would be a worthy signing in January as back-up to Jose Enrique")
+![Patrick van Aanholt](https://www.tynetime.com/wp-content/uploads/2010/12/chelsea_1722831c.jpg "van Aanholt - Would be a worthy signing in January as back-up to Jose Enrique")
 
 A lot of people aren't really sure of Alan Pardew yet, and one of the areas he can send out a message to Newcastle United fans is in the transfer market. In 10 or so days times, the January transfer window will open for business. Teams will enquire for players, other will try their utmost to hang on to their key men. Indeed that's what I expect us to do this January, try keep Andy Carroll, Joey Barton and  some of our youngsters at NUFC for the remainder of the season. Reports keep coming about teams weighing up bids for Andy Carroll this window, but as much as Andy says he wants to remain a Newcastle United player, we really don't know what the story will be come the New Year. Quite frankly, we do not know what Mike Ashley will do next, it could be **anything**.
 

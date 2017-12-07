@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Moussa Sissoko scores a belter against West Brom in the Premier League](http://www.tynetime.com/wp-content/uploads/2014/01/Moussa-Sissoko-Newcastle-United-EPL.jpg "Sissoko - Beginning to show his ability in a Black and White jersey this season")
+![Moussa Sissoko scores a belter against West Brom in the Premier League](https://www.tynetime.com/wp-content/uploads/2014/01/Moussa-Sissoko-Newcastle-United-EPL.jpg "Sissoko - Beginning to show his ability in a Black and White jersey this season")
 
 There has been few home debuts more memorable that Moussa Sissoko's against Chelsea in February 2013. Jonas Gutierrez had given NUFC a first half lead but two stunning goals from Frank Lampard and Juan Mata turned the tie in favour of the Blues. Then came Moussa to the rescue. A quick break from midfield set Yoan Gouffran behind the back four and he tried his luck with a strong left-footed effort that Petr Cech could only parry perfectly into the path of Sissoko to tap into an empty net. St. James' Park went bezerk. However, it was to get better — a minute from full-time Davide Santon made a threatening run forward before pulling back to Sissoko who drilled a low attempt from outside the area past Cech for a second time. The Frenchman sprinted to the Newcastle bench where he was mauled by the entire Magpies squad. When the game did resume, Chelsea threw  everyone forward but the might Toon held out for what was a precious win at the time.
 

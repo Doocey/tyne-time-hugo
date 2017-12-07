@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Sir Bobby Robson](http://www.tynetime.com/wp-content/uploads/2013/04/Benfica-St.James-Park.jpg "Benfica - Fans, staff and manager pay tribute to Sir Bobby")
+![Sir Bobby Robson](https://www.tynetime.com/wp-content/uploads/2013/04/Benfica-St.James-Park.jpg "Benfica - Fans, staff and manager pay tribute to Sir Bobby")
 
 It will take some time for Newcastle United fans to forget that 91st minute goal Benfica's Salvio tapped home to well and truly end our European escapade. The moment the ball hit the net the home faithful put their head in their hands and a sense of realisation set in. Having dominated the most important period of the game and pressured the Benfica back four almost in submission, we just couldn't find that elusive second goal. Our vigorous search for it meant we were left a little light at the back and after some quick exchanges in midfield by the Portuguese outfit Salvio the Argentinian latched on to a low ball into the box to send his side into the European semi-finals. Heartbreaking, tough to take, annoying, perhaps undeserving  - all words that could be associated with Benfica's progression to the next round, but at the end of the night George Jesus' side left St. James' Park with the best wishes of the Toon faithful.
 

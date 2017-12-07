@@ -25,7 +25,7 @@ tags:
   - Premier League
 
 ---
-![Steven Taylor heartbroken on the pitch at Villa Park following relegation](http://www.tynetime.com/wp-content/uploads/2012/05/Aston-Villa-Relegated-NUFC.jpg "Aston-Villa-Relegated-NUFC")
+![Steven Taylor heartbroken on the pitch at Villa Park following relegation](https://www.tynetime.com/wp-content/uploads/2012/05/Aston-Villa-Relegated-NUFC.jpg "Aston-Villa-Relegated-NUFC")
 
 #### Taylor - One of few players that day to show a genuine despair at relegation
 

@@ -40,7 +40,7 @@ We all know, or should do that Hatem Ben Arfa hasn't been outstanding at Marseil
 
 When Ben Arfa is motivated and in solemn mood, he can be a really great winger. However, more often than not, his bad attitude has got in the way of performances and he's had a number of bust-up's with fellow team-mates including Djbril Cisse. (who?!)
 
-In fact, Tyne Time were one of if not the, first 'blogs to [report](http://www.tynetime.com/2010/08/03/newcastle-united-have-cash-offer-for-ben-arfa-rejected-but-talks-continue/ "report") on our rejected bid for Ben Arfa five days ago. We bid £400,000 for a season long loan for the man who cost Marseille an initial €10m with future fees. However,  the French club want the guts of £1m before the allow the lad land on English soil.
+In fact, Tyne Time were one of if not the, first 'blogs to [report](https://www.tynetime.com/2010/08/03/newcastle-united-have-cash-offer-for-ben-arfa-rejected-but-talks-continue/ "report") on our rejected bid for Ben Arfa five days ago. We bid £400,000 for a season long loan for the man who cost Marseille an initial €10m with future fees. However,  the French club want the guts of £1m before the allow the lad land on English soil.
 
 Indeed it's quite encouraging to see that Ben Arfa wants to play in England, according to reports anyway. We know AC Milan were interested in him, but can't arrange a deal at the minute, whilst Hoffenheim were also in the hunt, and willing to offer his value of about €8m.
 

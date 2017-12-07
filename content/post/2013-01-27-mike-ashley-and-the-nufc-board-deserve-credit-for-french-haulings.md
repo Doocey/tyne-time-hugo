@@ -42,7 +42,7 @@ tags:
   - Yoan Gouffran
 
 ---
-![Newcastle owner Mike Ashley alongside MD Derek Llambias attend a game](http://www.tynetime.com/wp-content/uploads/2012/07/Mike-Ashley-Derek-Llambias.jpg "Ashley - Introduced a ruthlessness to the transfer market for the first time")
+![Newcastle owner Mike Ashley alongside MD Derek Llambias attend a game](https://www.tynetime.com/wp-content/uploads/2012/07/Mike-Ashley-Derek-Llambias.jpg "Ashley - Introduced a ruthlessness to the transfer market for the first time")
 
 When Adam le Fondre smashed home his second goal of the game at a bitter St.James' Park, a cold, hard realisation reverberated all the way from the Milburn Stand to the desks of Newcastle United's hierarchy. NUFC were sinking, and well and truly mired in a relegation battle for the second time in four years. Something needed to be done about it, the same mistakes made in 2009 could not be repeated in 2013. Newcastle United needed new players, and by the quantity or else, Pardew and his questionable tactics could find the northeast outfit dumped into the nPower Championship, and miss out on that lucrative pot of gold that is  set to kick in, when the Premier Leagues closes in the summer.
 

@@ -31,7 +31,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Mathieu Debuchy celebrates after scoring against Iceland in a friendly](http://www.tynetime.com/wp-content/uploads/2012/06/Mathieu-Debuchy-Newcastle-United.jpg "Mathieu Debuchy")
+![Mathieu Debuchy celebrates after scoring against Iceland in a friendly](https://www.tynetime.com/wp-content/uploads/2012/06/Mathieu-Debuchy-Newcastle-United.jpg "Mathieu Debuchy")
 
 #### Debuchy - A good friend of Cabaye's and supposedly fancies move to NUFC
 

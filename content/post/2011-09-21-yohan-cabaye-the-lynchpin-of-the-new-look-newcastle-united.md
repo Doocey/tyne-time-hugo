@@ -43,7 +43,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Yohan Cabaye in action for Newcastle United at Villa Park](http://www.tynetime.com/wp-content/uploads/2011/09/Yohan-Cabaye-Newcastle-United.jpg "Yohan-Cabaye-Newcastle-United")
+![Yohan Cabaye in action for Newcastle United at Villa Park](https://www.tynetime.com/wp-content/uploads/2011/09/Yohan-Cabaye-Newcastle-United.jpg "Yohan-Cabaye-Newcastle-United")
 
 #### Cabaye - Class act and another shrewd piece of business by Newcastle United
 

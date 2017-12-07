@@ -48,7 +48,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa](http://www.tynetime.com/wp-content/uploads/2010/12/Hatem-Ben-Arfa-006.jpg "Hatem-Ben-Arfa-006")
+![Hatem Ben Arfa](https://www.tynetime.com/wp-content/uploads/2010/12/Hatem-Ben-Arfa-006.jpg "Hatem-Ben-Arfa-006")
 
 #### Ben Arfa - Wants to play for Newcastle United and is looking for permanent deal
 

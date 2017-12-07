@@ -44,7 +44,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew watches on as Newcastle United play Arsenal](http://www.tynetime.com/wp-content/uploads/2011/08/Alan-Pardew-NUFC-2011.jpg "Alan-Pardew-NUFC-2011")
+![Alan Pardew watches on as Newcastle United play Arsenal](https://www.tynetime.com/wp-content/uploads/2011/08/Alan-Pardew-NUFC-2011.jpg "Alan-Pardew-NUFC-2011")
 
 #### Pardew - Clock is ticking as NUFC desperately try to lure to players to St. James'
 

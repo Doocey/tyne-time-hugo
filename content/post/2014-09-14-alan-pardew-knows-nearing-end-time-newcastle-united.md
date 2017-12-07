@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew grimly watches Newcastle fall to Southampton](http://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Newcastle-Southampton.jpg "Pardew - Knows that his time is limited on Tyneside & relationship with supporters is irreparable")
+![Alan Pardew grimly watches Newcastle fall to Southampton](https://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Newcastle-Southampton.jpg "Pardew - Knows that his time is limited on Tyneside & relationship with supporters is irreparable")
 
 I have often felt some sort of empathy towards Newcastle United managers in the past who have been shown the door at St. James' Park. In fact, in years gone-by, 'revolving door' became a common buzzword on Tyneside when talking about managers. Realistically, Sir Bobby Robson should never have been sacked in 2004 after the club drifted just outside the Champions League places. From then on, things just got worse. His replacement Graeme Souness couldn't hack it in the North-East, although certain personalities in the dressing-room made it even more difficult for the Scot to succeed. Then came along Glenn Roeder who did a decent job overall, but inevitably he didn't have the quality to bring the club to the next level. Then came Sam Allardyce, and then **Mike Ashley** appeared. He fired Sam, recruited Keegan before forcing his resignation, appointing Alan Shearer, the he was eventually replaced by the gentlemanly Chris Hughton.
 

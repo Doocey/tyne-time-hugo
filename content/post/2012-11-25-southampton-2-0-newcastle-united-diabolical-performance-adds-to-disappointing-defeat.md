@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew issues instructions on the sideline at St.Mary's](http://www.tynetime.com/wp-content/uploads/2012/11/Alan-Pardew-Southampton.jpg "Alan-Pardew-Southampton")
+![Alan Pardew issues instructions on the sideline at St.Mary's](https://www.tynetime.com/wp-content/uploads/2012/11/Alan-Pardew-Southampton.jpg "Alan-Pardew-Southampton")
 
 #### Pardew - Tactical inefficiency costing Newcastle United for 3rd game running
 

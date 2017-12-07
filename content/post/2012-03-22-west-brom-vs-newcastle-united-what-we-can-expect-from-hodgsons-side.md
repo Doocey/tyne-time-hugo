@@ -30,7 +30,7 @@ tags:
   - West Brom vs. Newcastle United
 
 ---
-![Andy Carroll attepting an overhead kick against West Brom](http://www.tynetime.com/wp-content/uploads/2012/03/Andy-Carroll-West-Brom.jpg "Andy-Carroll-West-Brom")
+![Andy Carroll attepting an overhead kick against West Brom](https://www.tynetime.com/wp-content/uploads/2012/03/Andy-Carroll-West-Brom.jpg "Andy-Carroll-West-Brom")
 
 #### Brom - Happened to be Chris Hughton's final game in charge of NUFC
 

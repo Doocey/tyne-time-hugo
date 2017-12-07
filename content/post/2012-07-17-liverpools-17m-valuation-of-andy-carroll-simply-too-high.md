@@ -31,7 +31,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll takes a breather during a match for Liverpool](http://www.tynetime.com/wp-content/uploads/2012/07/Andy-carroll-Liverpool.jpg "Andy-carroll-Liverpool")
+![Andy Carroll takes a breather during a match for Liverpool](https://www.tynetime.com/wp-content/uploads/2012/07/Andy-carroll-Liverpool.jpg "Andy-carroll-Liverpool")
 
 #### Carroll - Wants to come home and his return is a a real possibility
 

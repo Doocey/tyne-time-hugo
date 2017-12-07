@@ -42,7 +42,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll](http://www.tynetime.com/wp-content/uploads/2010/12/Andy-Carroll-006.jpg "Andy-Carroll-006")
+![Andy Carroll](https://www.tynetime.com/wp-content/uploads/2010/12/Andy-Carroll-006.jpg "Andy-Carroll-006")
 
 #### Carroll - Scored yet again today and continues to be linked with Toon exit
 

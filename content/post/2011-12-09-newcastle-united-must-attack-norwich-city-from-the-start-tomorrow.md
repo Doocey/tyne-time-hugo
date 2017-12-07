@@ -40,7 +40,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa training in Benton, Newcastle](http://www.tynetime.com/wp-content/uploads/2011/12/Hatem-Ben-Arfa-NUFC.jpg "Hatem-Ben-Arfa-NUFC")
+![Hatem Ben Arfa training in Benton, Newcastle](https://www.tynetime.com/wp-content/uploads/2011/12/Hatem-Ben-Arfa-NUFC.jpg "Hatem-Ben-Arfa-NUFC")
 
 #### Ben Arfa - His creativity and pace crucial for NUFC tomorrow at Carrow Road
 

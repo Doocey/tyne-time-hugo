@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Luuk de Jong plays during a Europa League game against Fulham](http://www.tynetime.com/wp-content/uploads/2012/06/Luuk-de-Jong-Holland.jpg "Luuk-de-Jong-Holland")
+![Luuk de Jong plays during a Europa League game against Fulham](https://www.tynetime.com/wp-content/uploads/2012/06/Luuk-de-Jong-Holland.jpg "Luuk-de-Jong-Holland")
 
 #### de Jong - Wants to play his football in the Premier League
 

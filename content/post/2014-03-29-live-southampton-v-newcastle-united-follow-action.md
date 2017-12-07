@@ -25,7 +25,7 @@ tags:
   - Tyne Time
 
 ---
-![Southampton v Newcastle United Live Updates](http://www.tynetime.com/wp-content/uploads/2014/03/Southampton-v-Newcastle-Live.jpeg)
+![Southampton v Newcastle United Live Updates](https://www.tynetime.com/wp-content/uploads/2014/03/Southampton-v-Newcastle-Live.jpeg)
 
 Southampton have been one of the most impressive sides in the Premier League season, if you are to believe the mass media. Well today our own Newcastle United make the trek to Hampshire looking to extend the gap above Mauricio Pochettino's men to four points. Alan Pardew - fresh from his three game stadium ban - will resume his duties from the posh-seats in the St. Mary's Stadium while assistant manager John Carver will be his man on the ground prowling the touchlines. NUFC's leading goalscorer Loic Rémy will sit out yet another game with injury, while Tim Krul will also be forced to watch from the sidelines after impaling himself in the disappointing midweek defeat to Everton. The hosts will be without Nathaniel Clyne however the powerful Rickie Lambert will lead the line as the Saints look to continue their fine home record against the Toon. The Saints are unbeaten  in the last 19 of 20 home games against Newcastle — maybe today that will change?
 

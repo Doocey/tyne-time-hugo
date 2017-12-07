@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Rémy Cabella in action for Montpellier in Ligue 1](http://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-2014.jpg "Cabella - Eager for Newcastle move but Toon still pondering improved bid")
+![Rémy Cabella in action for Montpellier in Ligue 1](https://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-2014.jpg "Cabella - Eager for Newcastle move but Toon still pondering improved bid")
 
 The infamous 'line' everyone associated with Newcastle United talks about is yet again proving to be the club's achilles heel in the quest to sign talented midfielder Rémy Cabella. The 23 year-old Frenchman has long been admired by the NUFC faithful including Graham Carr, and it was thought that he was all set for a January move to the club, only for both parties to scupper tentative negotiations headed by two questionable characters in Montpellier owner Louis Nicollin and indeed then NUFC DoF, Joe Kinnear. Media reports from France even suggested that Montpellier had agreed a deal to sell Cabella to Alan Pardew's side in the summer, rather than January, in order to keep Rémy for the club's relegation scrap in Ligue 1. Such an agreement looks a bit frail now, doesn't it?
 
@@ -33,7 +33,7 @@ However, such deliberation on behalf of finances has always been Newcastle's dow
 
 **NUFC have no reason to penny-pinch with Cabella deal**
 
-As you might have read over the past few weeks, clubs in the Premier League received a hefty boost in their TV rights income. Newcastle received about £77m in TV revenues for the past season, a rise of over **£30m** on previous seasons. In that increment alone, we could buy 3 [Rémy Cabella's](http://www.tynetime.com/2014/01/06/remy-cabella-newcastle-fans-need-know-midfielder/ "remy cabella profile") never-mind just one.
+As you might have read over the past few weeks, clubs in the Premier League received a hefty boost in their TV rights income. Newcastle received about £77m in TV revenues for the past season, a rise of over **£30m** on previous seasons. In that increment alone, we could buy 3 [Rémy Cabella's](https://www.tynetime.com/2014/01/06/remy-cabella-newcastle-fans-need-know-midfielder/ "remy cabella profile") never-mind just one.
 
 With that extra cash influx, there is absolutely _no excuses_ in our pursuit of Cabella. This guy is a French international, and a very talented midfielder - the club's prized asset. However, NUFC make almost insulting bids to his club, with £6.5m the latest submission. Stupid, and downright disappointing.
 

@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll in action for West Ham](http://www.tynetime.com/wp-content/uploads/2014/07/Andy-Carroll-West-Ham-2014.jpg "Carroll - Linked with a move back to Newcastle United in past 48 hours")
+![Andy Carroll in action for West Ham](https://www.tynetime.com/wp-content/uploads/2014/07/Andy-Carroll-West-Ham-2014.jpg "Carroll - Linked with a move back to Newcastle United in past 48 hours")
 
 Newcastle United have made a blistering start to the summer transfer market with 6 new quality signings. Mathieu Debuchy completed his long-awaited move to Arsenal on Thursday in a £12m move, as Newcastle announced his replacement, Daryl Janmaat, simultaneously. One World Cup finalist out, another one in. With the club have completed the signing of a much-needed creative midfielder in Siem de Jong and indeed Rémy Cabella - the attention now turns to a key striker. Emmanuel Rivière signed the dotted line at St. James' in recent days however, it is unlikely that NUFC want to settle with him, an injured Papiss Cissé, and an untested summer recruit, Ayoze Perez as their main options up front this season. We need a marquee forward so to speak, and although I am not who lives for big money transfers, we will need to stump up a solid wad of cash if we want to sign a standout forward. First things first - Andy Carroll is not _this_ forward.
 

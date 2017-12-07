@@ -37,7 +37,7 @@ tags:
   - West Ham United
 
 ---
-![Nile Ranger smiles on in training at NUFC](http://www.tynetime.com/wp-content/uploads/2011/07/Nile-Ranger.jpg "Nile Ranger")
+![Nile Ranger smiles on in training at NUFC](https://www.tynetime.com/wp-content/uploads/2011/07/Nile-Ranger.jpg "Nile Ranger")
 
 #### Ranger - Has a lot of potential and can become a top player at St.James' Park
 

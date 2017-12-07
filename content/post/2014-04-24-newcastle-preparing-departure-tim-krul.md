@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Tim Krul waves to fellow teammates during Newcastle's encounter with Manchester City](http://www.tynetime.com/wp-content/uploads/2014/04/Tim-Krul-Newcastle-Manchester-City.jpg "Krul - Reportedly considering a move away from St. James' Park this summer")
+![Tim Krul waves to fellow teammates during Newcastle's encounter with Manchester City](https://www.tynetime.com/wp-content/uploads/2014/04/Tim-Krul-Newcastle-Manchester-City.jpg "Krul - Reportedly considering a move away from St. James' Park this summer")
 
 Few Newcastle United fans will forget Tim Krul's European debut against Palermo in the old UEFA Cup. A team which featured the likes of Alberto Luque and Antoine Sibierski travelled to Italy with the hope of pulling off a memorable result and they did exactly that, with Tim Krul the sole reason behind the famous victory. At just 17 years of age, Krul replaced an injured Steve Harper between the sticks and made a name for himself by contributing a handful of physic-defying saves. I will always remember the reaction of Palermo's star midfielder Fábio Simplício as he was denied in front of goal for a third time. After saving everything thrown in his direction, the referee sounded the final whistle to mark a solid 1-0 victory for Glenn Roeder's men with Alberto Luque the unlikely match-winner.
 

@@ -19,7 +19,7 @@ tags:
   - Tyne Time
 
 ---
-![Remy - Managed to get out of bed to attend medical](http://www.tynetime.com/wp-content/uploads/2013/08/Loic-Remy-Newcastle-United.jpg "Remy - Managed to get out of bed to attend medical | Credit: Tim McGuiness")
+![Remy - Managed to get out of bed to attend medical](https://www.tynetime.com/wp-content/uploads/2013/08/Loic-Remy-Newcastle-United.jpg "Remy - Managed to get out of bed to attend medical | Credit: Tim McGuiness")
 
 Loic Rémy has officially arrived at Newcastle United to complete a medical ahead of a season-long loan with the option of buying the Frenchman at any point. The deal will mark Kinnear's first major transfer achievement, although many would argue that loaning a player from the Championship is not big feat. Despite the overhanging court case - this move represents smart business from Newcastle United and Rémy is rather versatile, he can player either up front or on the wings. As Newcastle United fans, we have been a bit desperate for any positive transfer news at all and the above picture is proof that the Frenchman is just one medical  away from becoming a Magpie.
 

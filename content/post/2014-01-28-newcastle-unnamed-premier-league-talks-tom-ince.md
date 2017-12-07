@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Tom Ince in action for Blackpool](http://www.tynetime.com/wp-content/uploads/2014/01/Tom-Ince-Blackpool.jpg "Ince - In talks with a handful of clubs ahead of a potential January transfer")
+![Tom Ince in action for Blackpool](https://www.tynetime.com/wp-content/uploads/2014/01/Tom-Ince-Blackpool.jpg "Ince - In talks with a handful of clubs ahead of a potential January transfer")
 
 As the transfer window ticks towards its conclusion, Newcastle fans are saying their goodbyes to Yohan Cabaye as the French midfield maestro seals a dream move to PSG. The fee in question for Yo is reportedly an initial £20m, with another £3m in add-ons based on performances and achievements. His move was inevitable and we wish him the best of luck with the French outfit, thankfully we do not have to face him in the Premier League any time soon. Anyway, this brings me to Tom Ince. The English international is in talks with a handful of clubs this January ahead of a possible move, with Stoke City, Sunderland, and Swansea three known interested parties. The other mega-rich club in France - Monaco - have also expressed an interest in signing him, however they plan on  commencing talks in the summer when the 21 year-old is out of contract.
 

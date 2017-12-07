@@ -27,7 +27,7 @@ tags:
   - West Ham United
 
 ---
-![FC Twente's Douglas celebrates after scoring from the Dutch side](http://www.tynetime.com/wp-content/uploads/2012/07/Douglas-FCTwente-Newcastle.jpg "Douglas-FCTwente-Newcastle")
+![FC Twente's Douglas celebrates after scoring from the Dutch side](https://www.tynetime.com/wp-content/uploads/2012/07/Douglas-FCTwente-Newcastle.jpg "Douglas-FCTwente-Newcastle")
 
 #### Douglas - In high demand but Newcastle United lead the race for the Brazilian
 

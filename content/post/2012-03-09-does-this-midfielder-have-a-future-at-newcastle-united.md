@@ -36,7 +36,7 @@ tags:
   - Tyne Time
 
 ---
-![Dan Gosling in action for Newcastle United in America](http://www.tynetime.com/wp-content/uploads/2012/03/Dan-Gosling-NUFC.jpg "Dan-Gosling-NUFC")
+![Dan Gosling in action for Newcastle United in America](https://www.tynetime.com/wp-content/uploads/2012/03/Dan-Gosling-NUFC.jpg "Dan-Gosling-NUFC")
 
 #### Gosling - Can he challenge Cabaye or even Guthrie for a first team position?
 

@@ -23,7 +23,7 @@ tags:
   - Tom Ince
 
 ---
-![England's Tom Ince in action for the Three Lions](http://www.tynetime.com/wp-content/uploads/2013/07/Tom-Ince-Blackpool.jpg "Ince - Waiting for an offer from a bigger club after Cardiff rejection")
+![England's Tom Ince in action for the Three Lions](https://www.tynetime.com/wp-content/uploads/2013/07/Tom-Ince-Blackpool.jpg "Ince - Waiting for an offer from a bigger club after Cardiff rejection")
 
 There has been very little transfer news about Newcastle United in the last few days. The only real story is our interest in PSV’s young Dutch keeper Jeroen Zoet – nothing to do with the first team, more so the development squad and the ongoing recruitment drive for young players that could have big futures ahead of them. Alan Pardew has admitted his interest in Aston Villa’s Darren Bent, and indeed Loic Remy of Queens Park Rangers and I suppose that is a start – we know who exactly the manager wants. However; who AP wants and who the Englishman will largely come down to a certain Joe Kinnear meaning our manager might not get what he asked for this summer, but only time will tell. A long-term target of the club is a certain  Tom Ince of Blackpool and only in the last 48 hours has the English rejected a move to Cardiff City, bringing him back on the market.
 

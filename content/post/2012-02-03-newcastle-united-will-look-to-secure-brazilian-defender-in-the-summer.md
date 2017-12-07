@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Douglas in action for FC Twente in a Europa League tie against Fulham](http://www.tynetime.com/wp-content/uploads/2012/02/Douglas-FC-Twente.jpg "Douglas-FC-Twente")
+![Douglas in action for FC Twente in a Europa League tie against Fulham](https://www.tynetime.com/wp-content/uploads/2012/02/Douglas-FC-Twente.jpg "Douglas-FC-Twente")
 
 #### Douglas - Didn't make the move to NUFC in January for various reasons
 

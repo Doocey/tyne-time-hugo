@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Luuk de Jong in action for FC Twente](http://www.tynetime.com/wp-content/uploads/2012/06/luuk-de-jong.jpg "luuk-de-jong")
+![Luuk de Jong in action for FC Twente](https://www.tynetime.com/wp-content/uploads/2012/06/luuk-de-jong.jpg "luuk-de-jong")
 
 #### de Jong - £8m bid submitted for the Dutchman to replace Ba?
 
@@ -33,7 +33,7 @@ In the last few minutes,SkySports have reported on a bit of Newcastle United tra
 
 Mind you, only today Alan Pardew said he hoped Demba would stay at Newcastle.
 
-It goes without saying that reports from SkySports do not always mean that a deal will happen, but I'd be fairly certain that Ba's days are numbered at SJP. [I mentioned just a few days ago that his departure was imminent](http://www.tynetime.com/2012/06/14/no-bids-received-for-ba-but-move-away-from-newcastle-united-looks-imminent/) as it seems his countless, and nameless agents would like a decent wedge in their pockets, right before Ba hits the dreaded 30 years of age mark.
+It goes without saying that reports from SkySports do not always mean that a deal will happen, but I'd be fairly certain that Ba's days are numbered at SJP. [I mentioned just a few days ago that his departure was imminent](https://www.tynetime.com/2012/06/14/no-bids-received-for-ba-but-move-away-from-newcastle-united-looks-imminent/) as it seems his countless, and nameless agents would like a decent wedge in their pockets, right before Ba hits the dreaded 30 years of age mark.
 
 More to follow on this..
 

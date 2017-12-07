@@ -25,7 +25,7 @@ tags:
   - Tyne Time
 
 ---
-![Jack Colback battle with Yohan Cabaye in Sunderland's test against Newcastle](http://www.tynetime.com/wp-content/uploads/2014/06/Jack-Colback-Sunderland-Newcastle.jpg "Colback - Looks set to make controversial switch to Newcastle in the coming days")
+![Jack Colback battle with Yohan Cabaye in Sunderland's test against Newcastle](https://www.tynetime.com/wp-content/uploads/2014/06/Jack-Colback-Sunderland-Newcastle.jpg "Colback - Looks set to make controversial switch to Newcastle in the coming days")
 
 There are many supporters on both sides of the deal questioning why exactly Newcastle United have agreed to sign midfielder Jack Colback. A Sunderland academy graduate, Colback has reportedly signed a lengthy deal with bitter rivals Newcastle, rebuffing Sunderland's offer of a new and improved contract. Not only that, but the 24 year-old also turned down a staggering £50k a week to join West Ham, according to reputable sources in London. That alone likely reaffirms the well-known, but often questioned, claim that Colback is indeed an avid Toon fan. As many fans will know too well, it has been some time since a player has swapped the red and white of Sunderland to join Newcastle - and for right reason one might say. That poses the very important question, what exactly do the Magpies' scouting and recruitment see in Colback, and what can he offer an already plentiful rank of midfielders on Tyneside?
 
@@ -37,7 +37,7 @@ The other man to catch my eye was **Jack Colback** so when I heard that Newcast
 
 Many Newcastle and Sunderland fans will be at a loss to explain what exactly it is Colback offers to any side, but hopefully I can examine that in the new few paragraphs. It is worth mentioning that Swansea, and indeed Everton, both expressed an interest in signing him - and to be quite honest, I am surprised Martinez did not get his man. Colback's desire to stay in the North-East had a big part to play in that regard.
 
-![Jack-Colback-Newcastle-Sunderland-Profile](http://www.tynetime.com/wp-content/uploads/2014/06/Jack-Colback-Newcastle-Sunderland-Profile.png)
+![Jack-Colback-Newcastle-Sunderland-Profile](https://www.tynetime.com/wp-content/uploads/2014/06/Jack-Colback-Newcastle-Sunderland-Profile.png)
 
 **Style of play:**
 

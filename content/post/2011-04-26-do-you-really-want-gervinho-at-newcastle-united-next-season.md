@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Gervinho looks on during an international match with The Netherlands](http://www.tynetime.com/wp-content/uploads/2011/04/Gervinho-Newcastle-United.jpg "Gervinho-Newcastle-United")
+![Gervinho looks on during an international match with The Netherlands](https://www.tynetime.com/wp-content/uploads/2011/04/Gervinho-Newcastle-United.jpg "Gervinho-Newcastle-United")
 
 #### Gervinho - Strong links between him and Newcastle since Hughton's time
 

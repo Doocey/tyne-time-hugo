@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Paul Scharner scores against Newcastle United](http://www.tynetime.com/wp-content/uploads/2012/10/Paul-Scharner-Newcastle-United.jpg "Paul-Scharner-Newcastle-United")
+![Paul Scharner scores against Newcastle United](https://www.tynetime.com/wp-content/uploads/2012/10/Paul-Scharner-Newcastle-United.jpg "Paul-Scharner-Newcastle-United")
 
 Newcastle United will tomorrow take on a West Brom side looking to add to their already impressive points tally of 14, following a summer of changes at the Hawthorns. In their last outing at St.James' Park; Roy Hodgson led his side to a 2-3 win, despite the best efforts of Demba Ba who scored a brace that night. Hodgson as we know, is now England manager and Steve Clarke, formerly of Chelsea, has taken the reins at the Midlands club. Clarke's arrival has had a very positive impact and Brom have made a brilliant start to their Premier League campaign , emerging as one of the toughest sides to score against at the moment. Indeed, their stern defence made Manchester City resort to a last-minute goal from Eden Dzeko to clinch the win. In other-words, Brom aren't coming to Newcastle Upon-Tyne to roll over.
 
@@ -48,7 +48,7 @@ Ameobi (Sammy) was very impressive against Club Brugge on Thursday and I think w
 
 With all that considered, I've come up with the starting eleven I believe will KO against Steve Clarke's side tomorrow.
 
-![NUFC v WBFC](http://www.tynetime.com/wp-content/uploads/2012/10/Newcastle-United-vs-West-Brom-Line-Up.jpg "Newcastle-United-vs-West-Brom-Line-Up")
+![NUFC v WBFC](https://www.tynetime.com/wp-content/uploads/2012/10/Newcastle-United-vs-West-Brom-Line-Up.jpg "Newcastle-United-vs-West-Brom-Line-Up")
 
 The GK, and the back four are obvious choices for me, with perhaps Steven Taylor the only minor uncertainty in the centre. I think he's fit to go however, and will likely start ahead of Mike Williamson. Tim Krul made his return against Sunderland at the Stadium of Light, and will without doubt line-out tomorrow where he can be sure to be a tad busier than a week ago.
 

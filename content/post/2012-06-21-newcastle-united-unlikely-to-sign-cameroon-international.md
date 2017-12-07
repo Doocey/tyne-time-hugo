@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Henri Bedimo on international duty with Cameroon](http://www.tynetime.com/wp-content/uploads/2012/06/Henri-Bedimo.jpg "Henri-Bedimo")
+![Henri Bedimo on international duty with Cameroon](https://www.tynetime.com/wp-content/uploads/2012/06/Henri-Bedimo.jpg "Henri-Bedimo")
 
 #### Bedimo - Can't see him joining Newcastle United this summer as rumours spread
 

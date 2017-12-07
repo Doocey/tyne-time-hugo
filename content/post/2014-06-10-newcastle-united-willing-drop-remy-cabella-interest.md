@@ -22,7 +22,7 @@ tags:
   - Remy Cabella Montpellier
 
 ---
-![Rémy Cabella warms-up for Montpellier ahead of a Ligue 1 tie](http://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-Ligue-1.jpg "Cabella - Montpellier looking to hold out for a larger fee after WC inclusion")
+![Rémy Cabella warms-up for Montpellier ahead of a Ligue 1 tie](https://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-Ligue-1.jpg "Cabella - Montpellier looking to hold out for a larger fee after WC inclusion")
 
 There are a few reports swirling around that Newcastle United are ready to drop their interest in Montpellier midfielder Rémy Cabella after fruitless negotiations between officials from both clubs. It was understood that Cabella had agreed personal terms with Newcastle and that a compromise has been reached between both sides regarding a fee, however; the midfielder was called up to France's 2014 World Cup squad in Brazil after Franck Ribery was ruled out of the tournament. His inclusion prompted Montpellier to increase their valuation of Cabella, and that brings us to where we are now - a stand-off between the North East outfit and the ex-Ligue 1 champions. With that, reports from the local media on Tyneside claim that Newcastle are willing to drop their interest and pursue other targets, with Ajax's Siem de Jong looking like the next port of call.
 

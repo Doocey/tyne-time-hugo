@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Mauricio Isla in action for Chile at the 2014 World Cup](http://www.tynetime.com/wp-content/uploads/2014/07/Mauricio-Isla-Chile-Newcastle.jpg "Isla - Reached the Last 16 of 2014 World Cup with his nation in Brazil")
+![Mauricio Isla in action for Chile at the 2014 World Cup](https://www.tynetime.com/wp-content/uploads/2014/07/Mauricio-Isla-Chile-Newcastle.jpg "Isla - Reached the Last 16 of 2014 World Cup with his nation in Brazil")
 
 According to Chilean newspaper _El Mercurio_, Newcastle United have reached an agreement with Juventus over their Chilean full-back, Mauricio Isla. For many of you that watched the 2014 World Cup in-depth, you will have recognised his name, and more than likely, will know him from his endeavours with the Italian champions. The news breaks from a Chilean paper in a report which they claim Newcastle have agreed a $14m fee (£8m) for the 26 year-old and barring something spectacular, he will sign the dotted line on Tyneside in the coming days. The news comes out of nowhere in fairness, and I am not sure how reliable that particular media outlet is, however, we do know that Newcastle were keeping tabs on him, before they eventually completed a deal for Mathieu Debuchy's replacement, Daryl Janmaat.
 

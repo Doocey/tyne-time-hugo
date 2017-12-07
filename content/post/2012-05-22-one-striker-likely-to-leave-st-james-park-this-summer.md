@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Nile Ranger control a ball in training at Benton, Newcastle](http://www.tynetime.com/wp-content/uploads/2012/05/Nile-Ranger-NUFC-2012.jpg "Nile-Ranger-NUFC-2012")
+![Nile Ranger control a ball in training at Benton, Newcastle](https://www.tynetime.com/wp-content/uploads/2012/05/Nile-Ranger-NUFC-2012.jpg "Nile-Ranger-NUFC-2012")
 
 #### Ranger - Lot of raw potential but a poor attitude to accompany it
 

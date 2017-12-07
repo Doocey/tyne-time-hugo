@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa in action for Newcastle against Southampton](http://www.tynetime.com/wp-content/uploads/2014/03/Hatem-Ben-Arfa-Southampton.jpg "Southampton - An excellent side that have excellent with large English contingent")
+![Hatem Ben Arfa in action for Newcastle against Southampton](https://www.tynetime.com/wp-content/uploads/2014/03/Hatem-Ben-Arfa-Southampton.jpg "Southampton - An excellent side that have excellent with large English contingent")
 
 If there is one major travesty to happen between now and the summer its the possibility or rather probability of Danny Welbeck getting the nod to go to the 2014 World Cup in Brazil ahead of Southampton's Jay Rodriguez. The Manchester United man has been in pretty dire form all season in an ultimately shocking campaign for David Moyes' men while Rodriguez has enjoyed the form of his life netting 13 goals in a spritely Southampton outfit led by the ambitious Mauricio Pochettino. The Englishman has proven a menace for defences across the division assisted by the ever-present Adam Lallana who will surely make Roy Hodgson's squad. Another man - Luke Shaw has drawn plaudits from across the league with some fine performances and it is easy to see why; the defender has the potential to become one of the best left-backs in Europe. With that all said and  done, our French legion (and Alan Pardew) travel to St. Mary's on Saturday to try make amends for a torrid showing in the same venue last season.
 
@@ -39,7 +39,7 @@ Ahead of tomorrows game, **Tyne Time** is takes a look at the possible/probable 
 
 **Formation**
 
-![Newcastle United formation vs Southampton](http://www.tynetime.com/wp-content/uploads/2014/03/Newcastle-Line-Up-Southampton.jpg "Dummett likely to get nod ahead of Santon; Elliot GK")
+![Newcastle United formation vs Southampton](https://www.tynetime.com/wp-content/uploads/2014/03/Newcastle-Line-Up-Southampton.jpg "Dummett likely to get nod ahead of Santon; Elliot GK")
 
 Davide Santon is regarded as 'touch and go' ahead of the tie against the Saints on Saturday, but I'd be pretty sure that Dummett will retain his place - it is unlikely that Santon will be rushed back into the fold, particularly against a pacy, attacking side such as Southampton.
 

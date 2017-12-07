@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Steven N'Zonzi in action for Blackburn Rovers](http://www.tynetime.com/wp-content/uploads/2012/05/Steven-Nzonzi-Newcastle-United.jpg "Steven-Nzonzi-Newcastle-United")
+![Steven N'Zonzi in action for Blackburn Rovers](https://www.tynetime.com/wp-content/uploads/2012/05/Steven-Nzonzi-Newcastle-United.jpg "Steven-Nzonzi-Newcastle-United")
   
 #### N'Zonzi - A whole host of clubs track the midfielder after Blackburn's relegation
 

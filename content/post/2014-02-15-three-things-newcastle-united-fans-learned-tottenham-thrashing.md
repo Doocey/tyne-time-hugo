@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Steve Stone and Alan Pardew watch on as Spurs take the lead against Newcastle](http://www.tynetime.com/wp-content/uploads/2014/02/Steve-Stone-Alan-Pardew.jpg "NUFC - Spurs defeat compounded by an absolutely dismal performance ")
+![Steve Stone and Alan Pardew watch on as Spurs take the lead against Newcastle](https://www.tynetime.com/wp-content/uploads/2014/02/Steve-Stone-Alan-Pardew.jpg "NUFC - Spurs defeat compounded by an absolutely dismal performance ")
 
 Many neutrals say that at Newcastle United, both successes and failures are exaggerated on Tyneside. Sadly enough, plenty of fans from across England believe the majority of Newcastle supporters expect a Champions League challenge each season, and a close run in the respective, domestic cups as well. While there are a minority of those fans who still believe that the club are capable of producing a campaign like that of Kevin Keegan's tenure at St. James' Park, the vast majority know what to expect, and their expectations are reasonable. Maybe the 5th place finish two seasons ago irked such aspirations for possible Champions League football next season, but any sane fan will know that with Mike Ashley as the club's owner — this is little chance of us having a 'right go'  at the Top 6 and pushing that little bit further in the transfer market to bolster such hopes. This was well and truly compounded by the mauling of Tottenham Hotspur on Tuesday evening.
 

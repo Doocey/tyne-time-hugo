@@ -33,7 +33,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Vurnon Anita in action for Ajax](http://www.tynetime.com/wp-content/uploads/2012/06/Vurnon-Anita-Ajax.jpg "Vurnon-Anita-Ajax")
+![Vurnon Anita in action for Ajax](https://www.tynetime.com/wp-content/uploads/2012/06/Vurnon-Anita-Ajax.jpg "Vurnon-Anita-Ajax")
 
 #### Anita - Highly rated by the Newcastle scouting team and likely to arrive
 

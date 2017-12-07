@@ -27,7 +27,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Luuk de Jong in action for FC Twente](http://www.tynetime.com/wp-content/uploads/2012/06/luuk-de-jong.jpg "luuk-de-jong")
+![Luuk de Jong in action for FC Twente](https://www.tynetime.com/wp-content/uploads/2012/06/luuk-de-jong.jpg "luuk-de-jong")
 
 #### de Jong - Newcastle are still hoping to land the forward despite £10m valuation
 

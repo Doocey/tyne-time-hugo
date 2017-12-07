@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Roberto Rosales finds some humour during a league game for FC Twente](http://www.tynetime.com/wp-content/uploads/2012/05/Roberto-Rosales-FC-Twente.jpg "Roberto-Rosales-FC-Twente")
+![Roberto Rosales finds some humour during a league game for FC Twente](https://www.tynetime.com/wp-content/uploads/2012/05/Roberto-Rosales-FC-Twente.jpg "Roberto-Rosales-FC-Twente")
   
 #### Rosales - A possible replacement for the departing Danny Simpson
 

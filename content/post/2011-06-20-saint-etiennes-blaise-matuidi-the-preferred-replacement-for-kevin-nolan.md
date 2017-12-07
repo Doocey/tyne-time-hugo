@@ -40,7 +40,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Blaise Matuidi in action for Saint-Étienne in the Ligue 1](http://www.tynetime.com/wp-content/uploads/2011/06/Blaise-Matuidi.jpg "Blaise-Matuidi")
+![Blaise Matuidi in action for Saint-Étienne in the Ligue 1](https://www.tynetime.com/wp-content/uploads/2011/06/Blaise-Matuidi.jpg "Blaise-Matuidi")
 
 #### Matuidi - Being targeted by Alan Pardew as a replacement for Kevin Nolan
 

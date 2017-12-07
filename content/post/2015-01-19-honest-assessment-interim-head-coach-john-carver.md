@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![John Carver down through the years at Newcastle United](http://www.tynetime.com/wp-content/uploads/2015/01/John-Carver-Newcastle-United.jpg "Carver - Been at Newcastle United during Sir Bobby's era and indeed Pardew's reign")
+![John Carver down through the years at Newcastle United](https://www.tynetime.com/wp-content/uploads/2015/01/John-Carver-Newcastle-United.jpg "Carver - Been at Newcastle United during Sir Bobby's era and indeed Pardew's reign")
 
 Few Newcastle United fans will forget Sir Bobby Robson's era. It was filled with great memories, from De Kuip to the San Siro - Stadium of Light to Elland Road. During the height of his reign, we were one of strongest teams in the Premier League and at one stage, looked like a contender for the title. Those were the days; Alan Shearer in his finest form, a back four that didn't concede goals by the bucket load, but more importantly, a club that every single NUFC fan could be proud of, led by a gentleman who also happened to be an incredibly astute coach. One man who worked alongside Bobby was John Carver and twelve of years on, the 50 year-old finds himself as the club's head coach for the month of January, I'm sure SBR would be proud of him, to a certain extent. There have been dark days in Carver's blotted copy book no doubt, but it is only fair we assess his performance over the past year.
 

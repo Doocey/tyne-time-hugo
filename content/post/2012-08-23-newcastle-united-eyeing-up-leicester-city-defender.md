@@ -31,7 +31,7 @@ tags:
   - Tyne Time
 
 ---
-![Liam Moore in action for Leicester City](http://www.tynetime.com/wp-content/uploads/2012/08/Liam-Moore-Leicester-City.jpg "Liam-Moore-Leicester-City")
+![Liam Moore in action for Leicester City](https://www.tynetime.com/wp-content/uploads/2012/08/Liam-Moore-Leicester-City.jpg "Liam-Moore-Leicester-City")
 
 #### Moore - Talented central defender with one year left on his contract
 

@@ -21,7 +21,7 @@ tags:
   - Rafa Benitez
   - Tyne Time
 ---
-![Gini Wijnaldum celebrates scoring his fourth goal against Norwich City](http://www.tynetime.com/wp-content/uploads/2016/04/Gini-Wijnaldum-Norwich.jpg "Gini Wijnaldum")
+![Gini Wijnaldum celebrates scoring his fourth goal against Norwich City](https://www.tynetime.com/wp-content/uploads/2016/04/Gini-Wijnaldum-Norwich.jpg "Gini Wijnaldum")
 
 I remember the very day Steve McClaren was appointed Newcastle United manager. There was a strong feeling of disappointment on my part, and indeed the majority of other Newcastle United supporters. It just didn't make sense from a footballing point of view, but marked a very predictable move by Managing Director, Lee Charnley. Mr. Charnley has been at the club for longer than you might imagine, indeed resident pre-Ashley era. Now, there is little doubt that the man is likely a very committed worker, and a thorough professional. In fact, he is probably a very intelligent man, but everyone and their dog could see his lack of footballing nous. The appointment of McClaren cemented that opinion, and it has all come back to haunt this brilliant football club.
 
@@ -31,7 +31,7 @@ It was a surprisingly smart move from Charnley to approach Benitez, but many fea
 
 Supporters know that this squad is good enough to be Top 10. The squad is littered with internationals, from France's Moussa Sissoko, to Daryl Janmaat, Georginio Wijnaldum, and Tim Krul of the Netherlands. 2015 brought about major personnel change at NUFC, with a huge transfer outlay both in the summer gone and January of this year. There are no excuses for this poor form or lack of desire that has been prevalent all season.
 
-![Jack Colback & Andros Townsend celebrate NUFC's equaliser vs. Sunderland](http://www.tynetime.com/wp-content/uploads/2016/04/Jack-Colback-Andros-Townsend.jpg)
+![Jack Colback & Andros Townsend celebrate NUFC's equaliser vs. Sunderland](https://www.tynetime.com/wp-content/uploads/2016/04/Jack-Colback-Andros-Townsend.jpg)
 
 After mediocre performances against Leicester City and Sunderland that resulted in a gaining a solitary point - Newcastle United need to start winning. Draws at this stage of the season aren't good enough given the position we find ourselves in. 3pts on Saturday has to be the aim. We cannot go there and defend - it's make or break time on Tyneside and Benitez knows that.
 

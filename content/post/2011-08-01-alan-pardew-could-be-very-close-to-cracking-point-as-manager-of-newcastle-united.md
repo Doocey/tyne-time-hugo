@@ -42,7 +42,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Alan Pardew looks on from the dug-out at St.James' Park](http://www.tynetime.com/wp-content/uploads/2011/08/Alan-Pardew-NUFC.jpg "Alan-Pardew-NUFC")
+![Alan Pardew looks on from the dug-out at St.James' Park](https://www.tynetime.com/wp-content/uploads/2011/08/Alan-Pardew-NUFC.jpg "Alan-Pardew-NUFC")
 
 #### Pardew - Get the feeling all is not well under the covers at St.James' Park
 

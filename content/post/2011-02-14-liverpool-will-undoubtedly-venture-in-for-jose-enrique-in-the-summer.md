@@ -51,7 +51,7 @@ tags:
   - Tyne Time
 
 ---
-![Jose Enrique vents his emotions in the Tyne Wear derby between Newcastle United & Sunderland](http://www.tynetime.com/wp-content/uploads/2011/02/Jose-Enrique.jpg "Jose Enrique a very very talented wing back that has gathered admirers")
+![Jose Enrique vents his emotions in the Tyne Wear derby between Newcastle United & Sunderland](https://www.tynetime.com/wp-content/uploads/2011/02/Jose-Enrique.jpg "Jose Enrique a very very talented wing back that has gathered admirers")
 
 
 In his first real season in the Premier League Jose Enrique has shown his critics why Newcastle United splashed out £6.25m on him during Sam Allardyce's short reign at St.James' Park. Enrique has turned in world class performances for the majority of the season and unsurprisingly, has attracted interest from some of the top clubs in England and indeed throughout Europe. It is believed  an initial enquiry from AC Milan for Jose was turned down rather abruptly during the January transfer window but with only 18 months let on his contract; clubs are circling like vultures, eyeing up the soon-to-be Spanish international.

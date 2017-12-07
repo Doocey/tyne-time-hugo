@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle's Mathieu Debuchy celebrates scoring against rivals Sunderland](http://www.tynetime.com/wp-content/uploads/2014/07/Mathieu-Debuchy-Newcastle-Goal-Sunderland.jpg "Debuchy - Medical completed with Arsenal ahead of big career move for Frenchman")
+![Newcastle's Mathieu Debuchy celebrates scoring against rivals Sunderland](https://www.tynetime.com/wp-content/uploads/2014/07/Mathieu-Debuchy-Newcastle-Goal-Sunderland.jpg "Debuchy - Medical completed with Arsenal ahead of big career move for Frenchman")
 
 Back in January 2013 when Newcastle United completed the signing of Mathieu Debuchy from Lille in a £5m deal - I wondered how the club had pulled it off. It wasn't the fact that he had been linked with a switch to Newcastle for months previous but such a deal never materialised, nor was it the fact that player was eager to join. Even with all that going in the favour of NUFC, it still surprised me when he signed the dotted line at St. James' Park. Why? Debuchy was a consistent starter for France at the European Championships in Poland Ukraine in 2012 and was one of their stand-out performers, just behind Yohan Cabaye. The French were finally eliminated at the hands of eventual competition winners Spain in a narrow 0-1 loss, but they went home with a sense of pride having put a strong tournament performance in comparison to the embarrassment of 2010.
 

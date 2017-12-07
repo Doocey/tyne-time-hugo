@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Erik Pieters in action for PSV](http://www.tynetime.com/wp-content/uploads/2011/08/Erik-Pieters-PSV1.jpg "Erik-Pieters-PSV")
+![Erik Pieters in action for PSV](https://www.tynetime.com/wp-content/uploads/2011/08/Erik-Pieters-PSV1.jpg "Erik-Pieters-PSV")
 
 #### Pieters - Eager to join Newcastle with Pardew also desperate to replace Enrique
 

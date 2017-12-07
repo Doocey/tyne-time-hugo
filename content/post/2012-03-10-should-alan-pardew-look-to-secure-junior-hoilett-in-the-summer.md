@@ -33,7 +33,7 @@ tags:
   - Wolverhampton Wanderers
 
 ---
-![Junior Hoilett in action for Blackburn Rovers on Saturday](http://www.tynetime.com/wp-content/uploads/2012/03/Junior-Hoilett-Blackburn-Rovers.jpg "Junior Hoilett")
+![Junior Hoilett in action for Blackburn Rovers on Saturday](https://www.tynetime.com/wp-content/uploads/2012/03/Junior-Hoilett-Blackburn-Rovers.jpg "Junior Hoilett")
 
 #### Hoilett - Out of contract in the summer and NUFC could do with a new winger
 

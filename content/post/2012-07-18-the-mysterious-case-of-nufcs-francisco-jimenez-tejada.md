@@ -33,7 +33,7 @@ tags:
   - Xisco
 
 ---
-![Xisco takes a drink at a Newcastle United training session](http://www.tynetime.com/wp-content/uploads/2012/07/Xisco-Newcastle-United-2012.jpg "Xisco-Newcastle-United-2012")
+![Xisco takes a drink at a Newcastle United training session](https://www.tynetime.com/wp-content/uploads/2012/07/Xisco-Newcastle-United-2012.jpg "Xisco-Newcastle-United-2012")
 
 #### Xisco - Clearly not in Alan Pardew's plans for the 2012/13 Premier League season
 

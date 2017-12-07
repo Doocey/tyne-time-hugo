@@ -31,7 +31,7 @@ tags:
 Start updating here
 
 <div id="attachment_4127" style="width: 465px" class="wp-caption aligncenter">
-  <a href="http://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg"><img class="size-full wp-image-4127" title="Douglas-FC-Twente" src="http://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg" alt="Douglas applauds the FC Twente crowd after their league match" width="465" height="274" srcset="http://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg 465w, http://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1-300x176.jpg 300w" sizes="(max-width: 465px) 100vw, 465px" /></a>
+  <a href="https://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg"><img class="size-full wp-image-4127" title="Douglas-FC-Twente" src="https://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg" alt="Douglas applauds the FC Twente crowd after their league match" width="465" height="274" srcset="https://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1.jpg 465w, https://www.tynetime.com/wp-content/uploads/2012/08/Douglas-FC-Twente1-300x176.jpg 300w" sizes="(max-width: 465px) 100vw, 465px" /></a>
 
   <p class="wp-caption-text">
     Douglas - A wanted man with Fulham joining NUFC the race for his signature

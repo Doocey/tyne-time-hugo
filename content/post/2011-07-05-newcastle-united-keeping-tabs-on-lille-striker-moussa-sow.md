@@ -41,7 +41,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Moussa Sow celebrates after scoring a goal for Lille](http://www.tynetime.com/wp-content/uploads/2011/07/Moussa-Sow-Lille.jpg "Moussa-Sow-Lille")
+![Moussa Sow celebrates after scoring a goal for Lille](https://www.tynetime.com/wp-content/uploads/2011/07/Moussa-Sow-Lille.jpg "Moussa-Sow-Lille")
 
 #### Sow - Alan Pardew & Graham Carr also scouting the 25 year-old Frenchman
 

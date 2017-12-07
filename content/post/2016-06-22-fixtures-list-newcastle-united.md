@@ -23,7 +23,7 @@ tags:
   - Rafa Benitez
 ---
 
-![Rafa Benitez issues instructions at Newcastle United](http://www.tynetime.com/wp-content/uploads/2016/06/Rafa-Benitez-Newcastle-United.jpg "Rafa Benitez")
+![Rafa Benitez issues instructions at Newcastle United](https://www.tynetime.com/wp-content/uploads/2016/06/Rafa-Benitez-Newcastle-United.jpg "Rafa Benitez")
 
 Over the past few seasons, Newcastle United fans have often looked forward to release of season fixtures. For me, it was always an immediate glance to the month of December to see what teams we faced. Then, a quick scan of April and May before forming an opinion on whether Newcastle United would be safe from the threat of relegation from the Premier League (And the they say NUFC fans are deluded!). However, this time our focus as supporters is not on the Premier League but rather the Sky Bet Championship - the second tier of English football. First up, a Friday night trek to London to face Fulham - a club that should serve as a stark warning to Newcastle & Mike Ashley of what a club can become if it doesn't sign the right players and fails to return to the top flight at the first time of asking. The game will be televised on Sky Sports, so I suppose that may soften the introduction to the Championship for fans who won't be able to make the trip to Craven Cottage. The extensive fixture list (included below) marks a pretty stern test for the month of September but other than that, a balanced schedule that will hopefully see the club finishing off the season in style against Barnsley at St. James' Park. However, the release of the fixture list is only the start of what is sure to be a hectic few months on Tyneside.
 
@@ -35,7 +35,7 @@ Newcastle United FC will be an obvious port of call for plenty Premier League te
 
 Not only will there be a number of exits, but our manager, the gentlemanly **Rafa Benitez** will be hoping to lure a few of his own targets to Newcastle United. According to the man himself, work is well under way to sign a few players that will have the quality & fight to help this club back to the highest level. As ever at NUFC - any potential deals are being kept private but we do know that Rafa and Graham Carr are working closely to find the correct type of player.
 
-![Newcastle United's Moussa Sissoko in action against Tottenham](http://www.tynetime.com/wp-content/uploads/2016/06/Moussa-Sissoko-Newcastle-Spurs.jpg "Moussa Sissoko")
+![Newcastle United's Moussa Sissoko in action against Tottenham](https://www.tynetime.com/wp-content/uploads/2016/06/Moussa-Sissoko-Newcastle-Spurs.jpg "Moussa Sissoko")
 
 ### Exodus & Incomings
 

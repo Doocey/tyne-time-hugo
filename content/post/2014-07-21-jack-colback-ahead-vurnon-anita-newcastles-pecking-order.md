@@ -23,7 +23,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Newcastle's Vurnon Anita celebrates after scoring against Hull](http://www.tynetime.com/wp-content/uploads/2014/07/Vurnon-Anita-Newcastle-Hull.jpg "Anita - Celebrates after scoring a rare goal in a 4-1 rout of Hull City last season")
+![Newcastle's Vurnon Anita celebrates after scoring against Hull](https://www.tynetime.com/wp-content/uploads/2014/07/Vurnon-Anita-Newcastle-Hull.jpg "Anita - Celebrates after scoring a rare goal in a 4-1 rout of Hull City last season")
 
 While in my usual routine of browsing Twitter ([@KevinDoocey](https://twitter.com/kevindoocey "doocey twitter") if you're not following!) I noticed a large number of Newcastle United fans detailing out their preferred starting eleven ahead of the upcoming Premier League season. Most people had a similar forward featuring the likes of Rémy Cabella, Siem de Jong and indeed Emmanuel Rivière. However, when it came to our midfield line-up, there were a few differences. What caught my eye was the quantity of people who had Jack Colback starting ahead of Vurnon Anita in a holding position. Firstly, when Colback made the short trip from Wearside to sign the dotted line at St. James' Park, the _majority_ of Newcastle fans were not impressed. They claimed he wasn't any improvement to the current line-up, although, admittedly, a superior option to the departed Dan Gosling. So, when I sifted through my timeline and saw Colback's name of Anita, it not only confused me, but surprised me.
 

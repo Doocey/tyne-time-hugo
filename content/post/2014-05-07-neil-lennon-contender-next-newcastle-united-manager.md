@@ -22,7 +22,7 @@ tags:
   - Premier League
 
 ---
-![Neil Lennon looks on from the sidelines at Celtic Park](http://www.tynetime.com/wp-content/uploads/2014/05/Neil-Lennon-Celtic.jpg "Lennon - Will surely look to test his credentials in the Premier League in the future?")
+![Neil Lennon looks on from the sidelines at Celtic Park](https://www.tynetime.com/wp-content/uploads/2014/05/Neil-Lennon-Celtic.jpg "Lennon - Will surely look to test his credentials in the Premier League in the future?")
 
 While Newcastle United prepare for their daunting trip to Anfield on Sunday, it is well reported that Mike Ashley will sit down with current manager Alan Pardew and thrash out details of how the 2013/14 Premier League campaign unfolded. Many of the reputable news outlets are insistent that Pardew's future will be under major review when this meeting takes place, and that more than likely he could relieved of his duties as manager. With that in mind - and it is fair to say almost all Newcastle fans would like to see a new boss, it is worth considering the potential replacements. While David Moyes, Frank de Boer (wishful thinking), Tony Pulis (hopefully not), Steve Bruce, and Michael Laudrup have all been mentioned as possibilities for the role, I want to take a look at a man who has  not really been associated with the Magpies.
 

@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabricio Coloccini and Alan Pardew shake hands following Newcastle United's draw at Old Trafford](http://www.tynetime.com/wp-content/uploads/2012/02/Fabricio-Coloccini-Newcastle-United.jpg "Fabricio-Coloccini-Newcastle-United")
+![Fabricio Coloccini and Alan Pardew shake hands following Newcastle United's draw at Old Trafford](https://www.tynetime.com/wp-content/uploads/2012/02/Fabricio-Coloccini-Newcastle-United.jpg "Fabricio-Coloccini-Newcastle-United")
 
 #### Coloccini - We need to make sure we sign this guy down for the rest of his career
 

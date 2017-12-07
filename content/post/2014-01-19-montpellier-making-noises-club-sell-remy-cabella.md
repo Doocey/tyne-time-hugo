@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Rémy Cabella in action for Montpellier in Ligue 1](http://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-2014.jpg "Cabella - Eager for Newcastle move but Toon still pondering improved bid")
+![Rémy Cabella in action for Montpellier in Ligue 1](https://www.tynetime.com/wp-content/uploads/2014/06/Remy-Cabella-Montpellier-2014.jpg "Cabella - Eager for Newcastle move but Toon still pondering improved bid")
 
 Usually when Newcastle United go about their business in the transfer window it is done in an efficient, often professional manner with little information leaked to the media by sources at St. James' Park. Over the last two years Graham Carr has spearheaded a large recruitment drive that has seen over 10 players of French nationality arrive at Newcastle. When Alan Pardew's side signed so many French, and no fewer than five in the January transfer window a year ago this month, people questioned whether it would work. The large French contingent would surely fall foul of each other when the chips were down, and shirk the challenge of fighting tooth and nail in a Black and White jersey, right? Well they might have had a case this time last season when Newcastle eventually limped to Premier League safety in the closing stages, but one could easily forget how close the Magpies  came grabbing a spot in the Europa League Final. In truth we should have beaten Benfica over the two legs and any Geordie would have fancied their chances against Fenerbache in the next round, followed by an all English final clash against Chelsea - but hey, there is no point dwelling on what might have been.
 

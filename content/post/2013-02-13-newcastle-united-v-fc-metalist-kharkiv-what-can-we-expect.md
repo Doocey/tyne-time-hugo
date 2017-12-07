@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Metalist celebrate after scoring against Manchester City](http://www.tynetime.com/wp-content/uploads/2013/02/Metalist-Kharkiv-NUFC.jpg "Metalist - Not be underestimated when they visit St.James' Park")
+![Metalist celebrate after scoring against Manchester City](https://www.tynetime.com/wp-content/uploads/2013/02/Metalist-Kharkiv-NUFC.jpg "Metalist - Not be underestimated when they visit St.James' Park")
 
 One would almost forget about Newcastle United's European campaign as Pardew's men attempt to stave off the threat of relegation, but on Thursday, Ukranian outfit Metalist Kharkiv visit St.James' Park in first leg of the knockout phases of the Europa League. Metalist have been on vacation following a winter break and their European adventure is likely to be a priority for them as they sit snug in fourth spot in their domestic league. NUFC on the other-hand linger in 16th, and could do without such cup runs if I'm being honest . Regardless, a spot in the Europa league marked a success last season and on Thursday, the lads will be hoping to continue an unbeaten record at home in Europe stemming back to 2005. The real question is what to expect from the Ukranians?
 

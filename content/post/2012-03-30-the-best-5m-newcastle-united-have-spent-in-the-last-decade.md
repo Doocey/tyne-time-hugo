@@ -31,7 +31,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa in action for Newcastle United against West Brom](http://www.tynetime.com/wp-content/uploads/2012/03/Hatem-Ben-Arfa-West-Brom.jpg "hatem ben arfa")
+![Hatem Ben Arfa in action for Newcastle United against West Brom](https://www.tynetime.com/wp-content/uploads/2012/03/Hatem-Ben-Arfa-West-Brom.jpg "hatem ben arfa")
 
 #### Ben Arfa - Starting to show his raw potential in a Newcastle United shirt
 
@@ -57,4 +57,4 @@ Chris Hughton, Graham Carr, Norman Wooster, Alan Pardew & even Mike Ashley: Well
 
 Comments welcome 🙂
 
- [1]: http://www.tynetime.com/2012/03/06/hatem-ben-arfa-has-the-potential-to-rip-apart-the-premier-league/ "hatem ben arfa "
+ [1]: https://www.tynetime.com/2012/03/06/hatem-ben-arfa-has-the-potential-to-rip-apart-the-premier-league/ "hatem ben arfa "

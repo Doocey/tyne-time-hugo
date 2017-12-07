@@ -38,7 +38,7 @@ tags:
   - Wigan Athletic
 
 ---
-![Charles N'Zogbia celebrates scoring for Wigan against Arsenal](http://www.tynetime.com/wp-content/uploads/2011/06/Charles-NZogbia.jpg "Charles-NZogbia")
+![Charles N'Zogbia celebrates scoring for Wigan against Arsenal](https://www.tynetime.com/wp-content/uploads/2011/06/Charles-NZogbia.jpg "Charles-NZogbia")
 
 #### N'Zogbia - Seems like he wants to return to St. James' Park again
 
@@ -64,4 +64,4 @@ Realistically speaking, we have more chance of landing N'Zogbia - if we're luck 
 
 Comments welcome as always 🙂
 
- [1]: http://www.tynetime.com/2011/06/09/newcastle-united-set-for-most-exciting-summer-transfer-window-in-years/
+ [1]: https://www.tynetime.com/2011/06/09/newcastle-united-set-for-most-exciting-summer-transfer-window-in-years/

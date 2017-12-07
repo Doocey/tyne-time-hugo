@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Loic Remy particpates in a training session with France](http://www.tynetime.com/wp-content/uploads/2012/07/Loic-Remy-France.jpg "Loic-Remy-France")
+![Loic Remy particpates in a training session with France](https://www.tynetime.com/wp-content/uploads/2012/07/Loic-Remy-France.jpg "Loic-Remy-France")
 
 #### Rémy - A long term target of Newcastle United dating back to that 2009 season
 

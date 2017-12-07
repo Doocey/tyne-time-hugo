@@ -29,7 +29,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Yohan Cabaye celebrates opening the scoring against Stoke City](http://www.tynetime.com/wp-content/uploads/2012/04/527509_406654452692312_119415838082843_1400138_1510671496_n.jpg "Yohan-Cabaye-Stoke-City")
+![Yohan Cabaye celebrates opening the scoring against Stoke City](https://www.tynetime.com/wp-content/uploads/2012/04/527509_406654452692312_119415838082843_1400138_1510671496_n.jpg "Yohan-Cabaye-Stoke-City")
 
 #### Cabaye - Played his best 90 minutes in a Black and White shirt today scoring twice
 
@@ -43,6 +43,6 @@ Can we manage Champions League football? With four games left, it is firmly in o
 
 In the meantime - here's the Premier League table:
 
-![Pl Table - NUFC 4th](http://www.tynetime.com/wp-content/uploads/2012/04/Premier-League-Table.jpg "Premier League Table")
+![Pl Table - NUFC 4th](https://www.tynetime.com/wp-content/uploads/2012/04/Premier-League-Table.jpg "Premier League Table")
 
 And if you haven't seen them already - here's highlights of all the goals at SJP today, enjoy:

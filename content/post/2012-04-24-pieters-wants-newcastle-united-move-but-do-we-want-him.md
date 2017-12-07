@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Erik Pieters smirks during a interview with the media](http://www.tynetime.com/wp-content/uploads/2011/08/Erik-Pieters-PSV1.jpg "Erik-Pieters-PSV")
+![Erik Pieters smirks during a interview with the media](https://www.tynetime.com/wp-content/uploads/2011/08/Erik-Pieters-PSV1.jpg "Erik-Pieters-PSV")
 
 #### Pieters - Eager to join Newcastle according to his agent
 

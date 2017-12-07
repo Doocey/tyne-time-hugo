@@ -23,7 +23,7 @@ tags:
   - Rolando Aarons
 
 ---
-![Rolando Aarons in a training session with Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/07/Rolando-Aarons-Newcastle-United.jpg "In training keeping 2014 World Cup star Tim Krul on his toes")
+![Rolando Aarons in a training session with Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/07/Rolando-Aarons-Newcastle-United.jpg "In training keeping 2014 World Cup star Tim Krul on his toes")
 
 In a summer that has been dominated - and thankfully so - by in the impressive, swift action taken by Newcastle United's in the transfer window, the club's latest pre-season outing in New Zealand against saw 18 year-old Rolando Aarons earn a starting role. The Jamaican winger was named in a line-up dominated by new faces, including summer arrivals Jack Colback, Siem de Jong, and indeed Emmanuel Rivière. It was very pleasing to see manager Alan Pardew start the midfielder in such an encounter, an early indication of the intentions to _finally_ bring through some youth on Tyneside. Thankfully, it seems that there could well be a very good crop of young players coming through, as fellow 18 year-old Adam Armstrong scored an excellent goal in their 4-0 demolition of their opponents Sydney FC, on Sunday morning.
 

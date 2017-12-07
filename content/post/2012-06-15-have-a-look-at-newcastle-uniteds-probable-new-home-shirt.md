@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United's new jersey for the coming season](http://www.tynetime.com/wp-content/uploads/2012/06/NewcastleHome-Jersey-2012-13.jpg "NewcastleHome-Jersey-2012-13")
+![Newcastle United's new jersey for the coming season](https://www.tynetime.com/wp-content/uploads/2012/06/NewcastleHome-Jersey-2012-13.jpg "NewcastleHome-Jersey-2012-13")
 
 #### Puma - Some absolutely shocking 'designs' on the home jersey for next season
 
@@ -30,11 +30,11 @@ The weirdest thing about it all is however, that (as you can see below)  it has 
 
 Here's the jersey, continued from the picture above:
 
-![NUFC Kit](http://www.tynetime.com/wp-content/uploads/2012/06/Bottom-of-NUFC-Home-Jersey-300x270.jpg "Bottom-of-NUFC-Home-Jersey")
+![NUFC Kit](https://www.tynetime.com/wp-content/uploads/2012/06/Bottom-of-NUFC-Home-Jersey-300x270.jpg "Bottom-of-NUFC-Home-Jersey")
 
 I really do not understand how the likes of these 'designs' get the go ahead. The bottom of it looks appalling bad, and the front part is extremely basic to say the very least. Mind you, it bears some resemblance to this particular home jersey we had not very long ago:
 
-![Michael Owen](http://www.tynetime.com/wp-content/uploads/2012/06/Michael-Owen-NUFC.jpg "Michael-Owen-NUFC")
+![Michael Owen](https://www.tynetime.com/wp-content/uploads/2012/06/Michael-Owen-NUFC.jpg "Michael-Owen-NUFC")
 
 I don't really like the look of the above photo either, for many reasons!
 

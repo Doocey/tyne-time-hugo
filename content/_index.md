@@ -4,7 +4,6 @@ author: Kevin Doocey
 type: page
 date: 2008-03-23T16:56:03+00:00
 description: "The latest Newcastle United news, reports, rumours, and opinions surrounding events at St. James' Park."
-images: [images/hello.png]
 ---
 
 # This is Tyne Time

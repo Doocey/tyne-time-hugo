@@ -30,7 +30,7 @@ tags:
   - Victor Anita
 
 ---
-![Junior Hoilett celebrates after scoring for Blackburn Rovers](http://www.tynetime.com/wp-content/uploads/2012/06/Junior-Hoilett-Newcastle-United.jpg "Junior Hoilett")
+![Junior Hoilett celebrates after scoring for Blackburn Rovers](https://www.tynetime.com/wp-content/uploads/2012/06/Junior-Hoilett-Newcastle-United.jpg "Junior Hoilett")
 
 #### Hoilett - Would be a fantastic free transfer as contract ends in hours
 

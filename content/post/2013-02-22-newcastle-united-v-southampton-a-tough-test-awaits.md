@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew during a game in charge of NUFC](http://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Three points against Southampton at St.James' absolutely crucial")
+![Alan Pardew during a game in charge of NUFC](https://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Three points against Southampton at St.James' absolutely crucial")
 
 As most of might have expected, Metalist Kharkiv proved a pretty tricky test with Shola Ameobi settling the tie with a second leg penalty half an hour before full-time. There had been plenty talk about extra time and penalties up until KO, and it looked very much as if such predictions were not too far off the mark. However, Shola stepped up to brilliantly slot away yet another European goal for himself, and ensure a last 16 tie against Russian outfit Anzhi Makhachkala. On Sunday however, we will face an entirely different test, one which bears more importance than our escapades in the Ukraine. Mauricio Pochettino's Saints visit St.James' hoping to distance themselves even further from the dreaded relegation zone, while Pardew  will be hoping to restore a sizeable gap between the Magpies and the doomed.
 

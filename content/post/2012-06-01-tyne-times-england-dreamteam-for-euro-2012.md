@@ -27,7 +27,7 @@ tags:
   - Wayne Rooney
 
 ---
-![Roy Hodgson conducts a training session with England](http://www.tynetime.com/wp-content/uploads/2012/06/roy-hodgson-england-training.jpg "roy-hodgson-england-training")
+![Roy Hodgson conducts a training session with England](https://www.tynetime.com/wp-content/uploads/2012/06/roy-hodgson-england-training.jpg "roy-hodgson-england-training")
 
 #### Hodgson - Euro 2012 is only the start of a potentially successful England tenure
 
@@ -39,7 +39,7 @@ We may not see the fruits of his labour for a couple of years, and more importan
 
 It has often been touted as the poisoned chalice, but with the right man at the fore and hardworking team players at his disposal - England could surpass their performances in past major tournaments, and some day - might even win a medal!
 
-![TyneTime's selection for England's best 11](http://www.tynetime.com/wp-content/uploads/2012/06/dreamteam.jpg "England-DreamTeam-NUFC")
+![TyneTime's selection for England's best 11](https://www.tynetime.com/wp-content/uploads/2012/06/dreamteam.jpg "England-DreamTeam-NUFC")
 
 Bench: Ruddy, Perch, Smalling, Welbeck, Ox-C, J.Cole, Holt
 

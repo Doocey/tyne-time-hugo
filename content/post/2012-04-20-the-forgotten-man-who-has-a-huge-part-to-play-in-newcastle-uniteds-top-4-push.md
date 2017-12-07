@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Shola Ameobi in training at Benton](http://www.tynetime.com/wp-content/uploads/2012/04/Shola-Ameobi-NUFC-2012.jpg "Shola-Ameobi-NUFC-2012")
+![Shola Ameobi in training at Benton](https://www.tynetime.com/wp-content/uploads/2012/04/Shola-Ameobi-NUFC-2012.jpg "Shola-Ameobi-NUFC-2012")
 
 #### Ameobi - Joint longest serving Newcastle United player in the current squad
 

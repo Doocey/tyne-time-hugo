@@ -38,7 +38,7 @@ tags:
   - Tyne Time
 
 ---
-![Clint Dempsey salutes the crowd after scoring his 10th goal for Fulham](http://www.tynetime.com/wp-content/uploads/2011/05/Clint-Dempsey-Fulham.jpg "Clint-Dempsey-Fulham-FC")
+![Clint Dempsey salutes the crowd after scoring his 10th goal for Fulham](https://www.tynetime.com/wp-content/uploads/2011/05/Clint-Dempsey-Fulham.jpg "Clint-Dempsey-Fulham-FC")
 
 #### Dempsey - A brilliant player that has scored over 10 goals this season
 

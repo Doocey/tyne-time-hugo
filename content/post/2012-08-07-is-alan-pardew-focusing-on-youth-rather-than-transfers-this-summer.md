@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Mehdi Abeid scores for Newcastle United](http://www.tynetime.com/wp-content/uploads/2012/08/Mehdi-Abeid-NUFC.jpg "Mehdi-Abeid-NUFC")
+![Mehdi Abeid scores for Newcastle United](https://www.tynetime.com/wp-content/uploads/2012/08/Mehdi-Abeid-NUFC.jpg "Mehdi-Abeid-NUFC")
 
 Abeid - Expect to see a lot of this guy in the coming Premier League season
 

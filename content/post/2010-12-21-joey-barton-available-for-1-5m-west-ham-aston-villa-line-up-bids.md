@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Joey Barton](http://www.tynetime.com/wp-content/uploads/2010/12/Joey-Barton-006.jpg "Joey-Barton")
+![Joey Barton](https://www.tynetime.com/wp-content/uploads/2010/12/Joey-Barton-006.jpg "Joey-Barton")
 
 #### Barton - Newcastle have set an asking fee of £1.5m for the midfielder
 

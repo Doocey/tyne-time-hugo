@@ -26,9 +26,9 @@ tags:
   - Premier League
   - Steve McClaren
   - Toon News
-image: http://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg
+image: https://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg
 ---
-![Steve McClaren looks dejected as Newcastle United are beaten by West Ham](http://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg)
+![Steve McClaren looks dejected as Newcastle United are beaten by West Ham](https://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg)
 
 #### McClaren - Failing to make the transition from Championship to Premier League
 
@@ -54,4 +54,4 @@ This is where you land as football club when you appoint **Lee Charnley** as Man
 
 Comments welcome as always, and be sure to follow me on Twitter [@KevinDoocey](https://twitter.com/kevindoocey) if you fancy it.
 
- [1]: http://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/
+ [1]: https://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/

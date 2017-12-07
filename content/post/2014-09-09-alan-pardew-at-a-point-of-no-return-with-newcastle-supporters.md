@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew looks on during Newcastle's Premier League encounter](http://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Newcastle-2014-Premier-League.jpg "Pardew - A very unpopular man amongst majority of Newcastle United fans the past 12 months")
+![Alan Pardew looks on during Newcastle's Premier League encounter](https://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Newcastle-2014-Premier-League.jpg "Pardew - A very unpopular man amongst majority of Newcastle United fans the past 12 months")
 
 There are very few professions in the world that people often pray/beg/call for the sacking of an individual from his day job. Politics and football are an exception, and these are two things Mr. Alan Pardew is well used to both at Newcastle United since taking control in 2010. One could be forgiven for looking in from the outside and coming to the conclusion that Newcastle fans can never be pleased; after all Pardew was the same guy who led the Magpies to brink of Champions League football in 2011/12 only to miss out in the final two games. It could also be argued that Pardew is working in a difficult workplace under a stringent ownership led by the one and only decision maker: Mike Ashley. However, while all that is true — Pardew has done nothing but anger, disappoint and ultimately dishearten even the most optimistic of NUFC fans in the past 18 months or so.
 

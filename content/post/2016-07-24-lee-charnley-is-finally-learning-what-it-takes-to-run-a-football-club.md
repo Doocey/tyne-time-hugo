@@ -13,7 +13,7 @@ categories:
 permalink: "/2016/07/24/lee-charnley-is-finally-learning-what-it-takes-to-run-a-football-club/"
 ---
 
-![Lee Charnley and Mike Ashley look on during a Premier League game](http://www.tynetime.com/wp-content/uploads/2016/07/Lee-Charnley-NUFC-Championship.jpg "Charnley - Beginning to learn how to run a football club properly but at the cost of relegation")
+![Lee Charnley and Mike Ashley look on during a Premier League game](https://www.tynetime.com/wp-content/uploads/2016/07/Lee-Charnley-NUFC-Championship.jpg "Charnley - Beginning to learn how to run a football club properly but at the cost of relegation")
 
 Lee Charnley is name most Newcastle United supporters have come to know in recent years, and mostly for the wrong reasons. He has been labelled a 'puppet' for the regime under Mike Ashley as the 38 year-old sat through two relegations behind the scenes at St. James' Park. Inexperienced and overloaded with responsibility, it was Lee Charnley who gave the thumbs up to appoint Steve McClaren in a predictably disastrous season, and he was also entrusted with the decision to either fire or stay loyal to McClaren in a key point of Newcastle's 2015/16 Premier League season - a decision, coupled with the former, which led to Newcastle's demise into the second tier of English football. Whilst having genuine fears for his job as Managing Director this summer, Ashley kept faith with Charnley and handed him the keys to Newcastle United Football Club. The former executive understudy is now the most senior decision maker at St. James' Park, with only the Ashley himself having more control.
 
@@ -41,6 +41,6 @@ Charnley is learning, and not before time. The real lessons however, will be kno
 
 Comments welcome as always, a free to give yours truly a follow on Twitter [@KevinDoocey][3].
 
- [1]: http://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/
- [2]: http://www.tynetime.com/2016/06/22/fixtures-list-newcastle-united/
+ [1]: https://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/
+ [2]: https://www.tynetime.com/2016/06/22/fixtures-list-newcastle-united/
  [3]: https://twitter.com/kevindoocey

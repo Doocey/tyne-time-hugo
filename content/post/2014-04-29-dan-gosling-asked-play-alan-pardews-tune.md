@@ -24,7 +24,7 @@ tags:
   - Premier League
 
 ---
-![Dan Gosling in action for Newcastle United against Manchester United](http://www.tynetime.com/wp-content/uploads/2014/04/Dan-Gosling-Newcastle-Manchester.jpg "Gosling - Anonymous in a poor Newcastle United showing at the Emirates on Monday")
+![Dan Gosling in action for Newcastle United against Manchester United](https://www.tynetime.com/wp-content/uploads/2014/04/Dan-Gosling-Newcastle-Manchester.jpg "Gosling - Anonymous in a poor Newcastle United showing at the Emirates on Monday")
 
 If you had told any Newcastle United fan in September that come the end of the month of April, 2014, Yohan Cabaye would be plying his football in France, and Dan Gosling would be his replacement in midfield, then I think there would be a few raised eyebrows. Unfortunately that is exactly how things have panned out at St. James' Park. Mr. Gosling has made a dramatic return to the first team and on Monday night he started yet again in a midfield that might have as well stayed back on Tyneside as Arsenal romped to an easy three nil victory. The worst thing is, as many others have alluded to - it's not one bit surprising. The lack of creativity, confusion on the ball and indeed the real absence of any game-plan marked a dour evening in London. To make things worse, our manager Alan Pardew continued to baffle his critics with a deplorable post-match interview that summed up  his 2014 as boss: clueless.
 

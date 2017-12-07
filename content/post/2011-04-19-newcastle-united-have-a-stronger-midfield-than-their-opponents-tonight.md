@@ -46,7 +46,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheik Tioté takes a breather against Arsenal.](http://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tioté.jpg "Cheik Tioté - Newcastle")
+![Cheik Tioté takes a breather against Arsenal.](https://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tioté.jpg "Cheik Tioté - Newcastle")
 
 #### Tioté - Will be crucial tonight if he can keep his discipline for the 90 minutes
 

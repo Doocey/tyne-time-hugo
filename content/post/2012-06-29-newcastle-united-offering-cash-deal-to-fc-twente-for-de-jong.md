@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Mike Ashley and Derek Llambias watch Newcastle United at St.James' Park](http://www.tynetime.com/wp-content/uploads/2012/06/Mike-Ashley-Derek-Llambias-NUFC.jpg "Mike-Ashley-Derek-Llambias-NUFC")
+![Mike Ashley and Derek Llambias watch Newcastle United at St.James' Park](https://www.tynetime.com/wp-content/uploads/2012/06/Mike-Ashley-Derek-Llambias-NUFC.jpg "Mike-Ashley-Derek-Llambias-NUFC")
 
 #### Llambias - Has flown over with Lee Charnley to agree a fee for FC Twente's #9
 

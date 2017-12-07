@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Mike Ashley watches from the stands as Newcastle take on Southampton](http://www.tynetime.com/wp-content/uploads/2014/04/Mike-Ashley-Newcastle-2014.jpg "Ashley - Is not making sounds of an owner about to sell Newcastle United FC")
+![Mike Ashley watches from the stands as Newcastle take on Southampton](https://www.tynetime.com/wp-content/uploads/2014/04/Mike-Ashley-Newcastle-2014.jpg "Ashley - Is not making sounds of an owner about to sell Newcastle United FC")
 
 While every Newcastle United fan, women, child and dog hope to see the news that Mike Ashley has agreed a deal to sell the club to an ambitious owner, such a dream looks like it is a far away prospect according to recent developments at St. James' Park. Manager Alan Pardew's future has been called into question over recent form, and based on results from the turn of the year Pardew should be jobless, there is no debating that. However, local paper _The Journal_ ran an interesting story today regarding the future of the ex-Palace midfielder and how Mike Ashley will hold an inquiry should the club finish outside the targeted Top 10 places. Currently the Magpies sit 9th, but Crystal Palace (!), and even Stoke City are looking to make up ground and usurp AP's men for a top-half finish with the incentive
 

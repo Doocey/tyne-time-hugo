@@ -23,7 +23,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Alan Pardew looks on from the sidelines](http://www.tynetime.com/wp-content/uploads/2013/11/Alan-Pardew-Sideline.jpg "Pardew - Deployed the correct tactics against Chelsea last Saturday")
+![Alan Pardew looks on from the sidelines](https://www.tynetime.com/wp-content/uploads/2013/11/Alan-Pardew-Sideline.jpg "Pardew - Deployed the correct tactics against Chelsea last Saturday")
 
 Tactical awareness is not something most Newcastle supporters will attribute to Alan Pardew and rightly so. Some of the decisions the 52 year-old has made over the course of the last two seasons have left the majority - including myself - bemused. Regressive tactics, alongside some bizarre comments about his side's style of play would pose the question whether Pardew is completely out of his depth in the Newcastle United hot-seat. Such an accusation would be a tad harsh on the ex-Hammers boss who guided the Magpies to a quite unbelievable 5th place finish in the league two seasons ago, a season which saw the men in Black and White play some the best football at St. James' Park in many, many years. Fast  -forward to 2013, and Newcastle travel to White Hart Lane after disposing of title-chasing Chelsea on Tyneside last weekend. The victory over Mourinho's men consumed passion, determination, and to be completely honest:
 

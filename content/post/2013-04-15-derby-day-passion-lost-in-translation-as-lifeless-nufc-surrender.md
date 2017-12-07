@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew looks on during a Premier League game](http://www.tynetime.com/wp-content/uploads/2013/04/Alan-Pardew-Newcastle-Manager.jpg "Pardew - Worst moment of his entire tenure at Newcastle United")
+![Alan Pardew looks on during a Premier League game](https://www.tynetime.com/wp-content/uploads/2013/04/Alan-Pardew-Newcastle-Manager.jpg "Pardew - Worst moment of his entire tenure at Newcastle United")
 
 If you told any neutral across Great Britain that Sunderland would romp to a three nil victory at St.James' Park on Sunday many would have laughed off the suggestion. However, when David Vaughan popped in a ridiculous effort from the edge of the area, you just knew that it was one of _those_ days. High up in St.James' Park, the travelling Mackems could hardly believe their eyes, a three nil victory away at their fiercest rivals. When the final whistle sounded around a packed out stadium, reality set in. From the European Quarter Finals to the lowest of  the low: a loss to Sunderland. While it might sound like SAFC were dominant winners throughout the game, things could have been different should Papiss Cissé's wrongly disallowed goal been awarded, but then again, we'll never know.
 

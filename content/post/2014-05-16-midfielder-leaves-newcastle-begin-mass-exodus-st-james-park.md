@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Dan Gosling scores against Manchester City in the Premier League](http://www.tynetime.com/wp-content/uploads/2014/05/Dan-Gosling-Newcastle-Manchester-City.jpg "Gosling - Only goal in a Newcastle shirt came away against Manchester City in '11")
+![Dan Gosling scores against Manchester City in the Premier League](https://www.tynetime.com/wp-content/uploads/2014/05/Dan-Gosling-Newcastle-Manchester-City.jpg "Gosling - Only goal in a Newcastle shirt came away against Manchester City in '11")
 
 News has emerged that Dan Gosling has agreed a deal to join Championship side Bournemouth in the coming weeks after four rather unsuccessful years on Tyneside. The midfielder arrived at Newcastle with high hopes having been tipped for big things by the Everton faithful, but through injury, various managerial changes, and a tough competition for places, Gosling has resigned himself to finding first team football elsewhere. I wrote about his arrival and how it could turn out to be a great signing on a free, but alas, he has not quite turned out the talented midfielder that I thought he had the potential to become. I wouldn't say I was the only Newcastle fan hoping for a better return on investment upon his arrival, either. Anyway, in an official statement released through the official Newcastle United website, Gosling praised the club's 'amazing fans' before  announcing his desire to do well for his new club.
 

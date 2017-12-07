@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheick Tioté celebrates by sprinting to the substitutes bench](http://www.tynetime.com/wp-content/uploads/2014/10/Cheick-Tiote-Manchester-City.jpg "Tioté - Even he has begun to point the finger at the extremely poor manager in charge of Newcastle United")
+![Cheick Tioté celebrates by sprinting to the substitutes bench](https://www.tynetime.com/wp-content/uploads/2014/10/Cheick-Tiote-Manchester-City.jpg "Tioté - Even he has begun to point the finger at the extremely poor manager in charge of Newcastle United")
 
 When Peter Crouch easily rose above captain Fabricio Coloccini to nod home what turned out to be Stoke City's winner, it was all too familiar for Newcastle United fans. There wasn't despair, no head in hands, no tears. A sense of **acceptance** swept through a wet Brittania Stadium. Then, as per the last few games, chants and banners dominated the TV screens as the majority of Newcastle supporters voiced their anger, and demands to the away dugout. The message was clear, Alan Pardew is finished, his relationship with the real fans of this club, irreparable. Lining out in their third kit, the eleven Toon players on the pitch tried desperately to garner an equaliser. Our right-back, Daryl Janmaat coming closest with a fierce effort from outside the area. Our forward line was blunt, a certain chemistry nowhere to be seen. Rémy Cabella tried to show his creativity by running around Stoke players, but alas, nothing gave. At half-time, in typical Pardew style, he didn't go offensive, merely replaced an anonymous cog in the Toon forward line, bringing on an unfit Papiss Cissé for an underwhelming Emmanuel Rivière.
 

@@ -28,7 +28,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Vurnon Anita during training](http://www.tynetime.com/wp-content/uploads/2013/09/Vurnon-Anita-Newcastle-United.jpg "Anita - Has improved the team as unit since first team arrival")
+![Vurnon Anita during training](https://www.tynetime.com/wp-content/uploads/2013/09/Vurnon-Anita-Newcastle-United.jpg "Anita - Has improved the team as unit since first team arrival")
 
 There has been quite a bit of talk about Newcastle manager Alan Pardew and his team selection tonight. At the time of writing, his starting eleven not been confirmed but plenty of rumours exist of his tactical possibilities. More worryingly, there are suggestions that Vurnon Anita will be dropped from his starting role in order to make room for Cheick Tiote aka the yellow card machine. Tioté has been resigned to the bench for the past three games and is reportedly 'shocked' to find himself in the dugout. The thing is, there is absolutely nothing shocking about  his relegation to the bench, it was well and truly deserved.
 

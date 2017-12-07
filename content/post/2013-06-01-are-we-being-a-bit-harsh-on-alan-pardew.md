@@ -24,7 +24,7 @@ tags:
   - Tyne Time blog
 
 ---
-![Alan Pardew during a game in charge of NUFC](http://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Feels that Newcastle United's 16th place finish did not reflect ability of squad")
+![Alan Pardew during a game in charge of NUFC](https://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Feels that Newcastle United's 16th place finish did not reflect ability of squad")
 
 Constant excuses and backward tactics are annoying to put up with in any sport, but at Newcastle United, we had to get used to it for about 30 games of the season. From pushing referees, goading opposition managers to a passionate and heartfelt embrace with Newcastle fans after Papiss Cissé fired in a 94th minute winner; Alan Pardew experienced quite a third season managing the biggest club in the north-east. Then came the derby defeat, a terrible performance summed up by a wonder goal from David Vaughan, his first and only goal of the season if I remember correctly. Last but not least was Newcastle's crucial win away at Queens Park Rangers. Another awful performance but aided by even worse defending from the hosts - a mistake from Jose Bosingwa helping Yoan Gouffran  to slide home the goal to keep us in the division. Pardew claims we played well, and even commented in the last few days that apart from the Top 6, we were the best team in the league for the 15 games of the season.
 

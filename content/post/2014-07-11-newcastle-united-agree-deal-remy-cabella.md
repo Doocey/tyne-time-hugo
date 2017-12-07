@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Rémy Cabella in training with France at the 2014 World Cup](http://www.tynetime.com/wp-content/uploads/2014/07/Remy-Cabella-France-World-Cup.jpg "Cabella - Reports from France indicate the sides have reached an agreement over fee")
+![Rémy Cabella in training with France at the 2014 World Cup](https://www.tynetime.com/wp-content/uploads/2014/07/Remy-Cabella-France-World-Cup.jpg "Cabella - Reports from France indicate the sides have reached an agreement over fee")
 
 Finally, after several bouts of negotiation, it appears that Newcastle United have at last, agreed a deal for Montpellier's Rémy Cabella. The Frenchman has been linked with a move to St. James' Park since last year, and this is not the first time that NUFC fans have been assured of a move, however, the difference this time, is that there are a number of reputable French sources claiming that the son of Montpellier owner Louis Nicollin, Laurent, has confirmed that the two sides have reached an agreement over the transfer of their key player. The breakthrough is hardly mind-blowing after almost a year of tussling between the two teams over the fee, but it seems that Newcastle have come close enough to the €15m valuation placed on the 24 year-old by their owner. Such a move represents the biggest fee paid for a player under Mike Ashley since they dished out just shy of £11m for captain Fabricio Coloccini.
 

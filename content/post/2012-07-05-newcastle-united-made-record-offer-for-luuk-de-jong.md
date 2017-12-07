@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle owner Mike Ashley alongside MD Derek Llambias attend a game](http://www.tynetime.com/wp-content/uploads/2012/07/Mike-Ashley-Derek-Llambias.jpg "Newcastle United's owner Mike Ashley with Derek Llambias")
+![Newcastle owner Mike Ashley alongside MD Derek Llambias attend a game](https://www.tynetime.com/wp-content/uploads/2012/07/Mike-Ashley-Derek-Llambias.jpg "Newcastle United's owner Mike Ashley with Derek Llambias")
 
 #### Ashley - Willing to part with his highest ever sum since taking charge of NUFC
 

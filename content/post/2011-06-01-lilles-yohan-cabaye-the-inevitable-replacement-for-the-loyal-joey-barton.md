@@ -39,7 +39,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Yohan Cabaye in action for Lille against Rennes](http://www.tynetime.com/wp-content/uploads/2011/06/Yohan-Cabaye-Lille.jpg "Yohan-Cabaye-Lille")
+![Yohan Cabaye in action for Lille against Rennes](https://www.tynetime.com/wp-content/uploads/2011/06/Yohan-Cabaye-Lille.jpg "Yohan-Cabaye-Lille")
 
 #### Cabaye - Likely to replace Joey Barton as the club looks to offload the POTS
 

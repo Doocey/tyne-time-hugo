@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Romelu Lukaku scores for Everton against Newcastle at Goodison Park](http://www.tynetime.com/wp-content/uploads/2014/07/Romelu-Lukaku-Everton-Newcastle.jpg "Lukaku - Scoring one of many goals against Newcastle United last season")
+![Romelu Lukaku scores for Everton against Newcastle at Goodison Park](https://www.tynetime.com/wp-content/uploads/2014/07/Romelu-Lukaku-Everton-Newcastle.jpg "Lukaku - Scoring one of many goals against Newcastle United last season")
 
 I posed a question on Twitter a couple of days ago about what direction Newcastle United can now go in their pursuit of another forward. Their main targets this summer: Loic Rémy and Alexandre Lacazette have all confirmed that their futures lie elsewhere, and Borussia Dortmund's Pierre Emerick-Aubameyang, who has long been admired by officials at St. James' Park, does not look any closer to an exit from the Bundesliga despite reports that he could be obtained for as little as £7m this summer. This leads me to another man who Alan Pardew has wanted for quite some time: **Romelu Lukaku** of Chelsea. The Belgian was subject to an loan-bid from Newcastle last season only for the club to be told that he wasn't allowed to leave. As we know all know, Lukaku later pushed through a loan-move which saw him end up at Goodison Park and do very well.
 

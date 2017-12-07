@@ -34,7 +34,7 @@ tags:
   - Watford
 
 ---
-![Adrian Mariappa in action for Watford in the nPower Championship](http://www.tynetime.com/wp-content/uploads/2012/01/Adrian-Mariappa-Watford.jpg "Adrian-Mariappa-Watford")
+![Adrian Mariappa in action for Watford in the nPower Championship](https://www.tynetime.com/wp-content/uploads/2012/01/Adrian-Mariappa-Watford.jpg "Adrian-Mariappa-Watford")
 
 #### Mariappa - Being linked with a £3m move to Newcastle United before deadline
 

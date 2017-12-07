@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Tim Krul in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/01/Tim-Krul-Newcastle-Rating.jpg "Krul - How has the Dutchman fared out between the sticks so far?")
+![Tim Krul in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/01/Tim-Krul-Newcastle-Rating.jpg "Krul - How has the Dutchman fared out between the sticks so far?")
 
 It it easy to quickly move on to the coming Premier League fixtures and focus on the future as a football fan, but sometimes looking back can yield some interesting and often crucial analysis which can help benefit future performances. Managers across the world usually re-watch entire game footage to point out areas which need improvement in future fixtures and this applies to many team sports. As a Newcastle United fan, I thought it might be useful to look at each individual player that has donned a Black and White shirt this season so far and give them a sort of 'Midterm Report' as I like to call it. In the following series, starting with the goalkeeper Tim Krul I plan to give a balance and concise report on his performances from the beginning of the Premier League  season all the way through to mid January (his last game against West Ham). Each report contains a brief overview, a few stats, and a rating (gold number). Hopefully by the end, you as readers can offer your own insights and opinions on each player and collectively we can get a general consensus of our season so far.
 

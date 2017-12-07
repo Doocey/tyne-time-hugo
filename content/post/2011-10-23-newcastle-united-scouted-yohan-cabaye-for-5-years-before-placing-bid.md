@@ -41,7 +41,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Yohan Cabaye makes a tackle on Aston Villa's Alan Hutton in the Premier League](http://www.tynetime.com/wp-content/uploads/2011/10/Yohan-Cabaye-NUFC-Villa.jpg "Yohan-Cabaye-NUFC-Villa")
+![Yohan Cabaye makes a tackle on Aston Villa's Alan Hutton in the Premier League](https://www.tynetime.com/wp-content/uploads/2011/10/Yohan-Cabaye-NUFC-Villa.jpg "Yohan-Cabaye-NUFC-Villa")
 
 #### Cabaye - Turning out to be a contender for Premier League signing of the season
 

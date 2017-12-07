@@ -25,7 +25,7 @@ tags:
   - World Cup 2014
 
 ---
-![Shola Ameobi in action against Manchester City](http://www.tynetime.com/wp-content/uploads/2014/04/Shola-Ameobi-Newcastle-United-2014.jpg "Ameobi - Will not be staying on at St. James' Park after 14 years in Black and White")
+![Shola Ameobi in action against Manchester City](https://www.tynetime.com/wp-content/uploads/2014/04/Shola-Ameobi-Newcastle-United-2014.jpg "Ameobi - Will not be staying on at St. James' Park after 14 years in Black and White")
 
 If it was ever in doubt, Shola Ameobi all but confirmed that he is to leave Newcastle United when his contract runs out at the end of the season in a radio interview with _BBC Newcastle_. The Nigerian international scored the opener in Saturday's defeat to Swansea City in what may prove to be his final ever goal in a Black and White jersey. Ameobi has been on the books at NUFC for a staggering 14 years, and I say _staggering_ because in that time he failed to convince many that he actually is a striker. Some awful misses, poor passes and all-round questionable application in games make up much of Shola's career at Newcastle, but let's be honest - he is still a figure we love on Tyneside, even if it because of his at-one-time annual scoring spree against rivals Sunderland. In today's interview, the 32 year-old did not restrain himself from commenting on the  situation at the club at this moment in time.
 

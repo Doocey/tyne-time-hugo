@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Mike Ashley and Joe Kinnear sit in the stands watching Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/02/Mike-Ashley-Joe-Kinnear-Newcastle.jpg "Kinnear - Arrived into the director of football hot-seat brimming with confidence")
+![Mike Ashley and Joe Kinnear sit in the stands watching Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/02/Mike-Ashley-Joe-Kinnear-Newcastle.jpg "Kinnear - Arrived into the director of football hot-seat brimming with confidence")
 
 I think we all remember the day Joe Kinnear announced that he was to become Newcastle United's director of football. I heard the news and quickly assumed that his role was simply a 'favour for a mate' to get the Irishman back into a paying job and help him live comfortably, granted by owner Mike Ashley. Kinnear managed Newcastle in an ill-fated season at St. James' Park in which the famous football club suffered relegation to the Coca Cola Championship (npower) and although it may be contrary to the vast opinion among Newcastle fans, I do believe that the ex-Tottenham Hotspur footballer would have kept the club in the Premier League should he have been able to stay on as manager. However, he was still a pretty brutal manager — outdated tactics the highlight of his  short stint at the club.
 

@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Gael Bigirimana celebrates a derby win for Coventry City](http://www.tynetime.com/wp-content/uploads/2012/05/gael-bigirimana-newcastle-united.jpg "gael-bigirimana-newcastle-united")
+![Gael Bigirimana celebrates a derby win for Coventry City](https://www.tynetime.com/wp-content/uploads/2012/05/gael-bigirimana-newcastle-united.jpg "gael-bigirimana-newcastle-united")
 
 #### Bigirimana - Looks a bit like wor Tioté and plays a similar role
 

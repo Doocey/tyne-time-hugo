@@ -26,7 +26,7 @@ tags:
   - VfB Stuttgart
 
 ---
-![Serdar Tasci](http://www.tynetime.com/wp-content/uploads/2012/05/Serdar-Tasci-Stuggart.jpg "Serdar-Tasci-Stuggart")
+![Serdar Tasci](https://www.tynetime.com/wp-content/uploads/2012/05/Serdar-Tasci-Stuggart.jpg "Serdar-Tasci-Stuggart")
 
 #### Tasci - 25 year old German centre-back held in high regard
 

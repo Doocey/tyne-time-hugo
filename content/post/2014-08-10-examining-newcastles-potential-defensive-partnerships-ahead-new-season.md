@@ -23,7 +23,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabricio Coloccini in action against Real Sociedad](http://www.tynetime.com/wp-content/uploads/2014/08/Fabricio-Coloccini-Newcastle-Real-Sociedad.jpg "Coloccini - Sporting a rare Newcastle United Members jersey against Real Sociedad")
+![Fabricio Coloccini in action against Real Sociedad](https://www.tynetime.com/wp-content/uploads/2014/08/Fabricio-Coloccini-Newcastle-Real-Sociedad.jpg "Coloccini - Sporting a rare Newcastle United Members jersey against Real Sociedad")
 
 Newcastle United finished off their pre-season campaign with a narrow 1-0 victory over Spanish side Real Sociedad at St. James' Park courtesy of a goal from Moussa Sissoko two minutes from time. The game - streamed live by the visitors on their officials club website - fans who did not have the pleasure of attending the game in person, were able to watch Newcastle's new signings in action on the hallowed turf of St. James' as the Toon get ready to host Manchester City in a weeks time. Although the summer transfer window marked a successful recruitment drive from the club, many suggest that a new centre-back is needed to shore up a leaky back-line. Fabricio Coloccini, Mike Williamson, Steven Taylor, and Mapou Yanga-Mbiwa make up the four senior central defenders at the club, and truth be told - there is only one proven, quality first teamer among the aforementioned names. Add to that the fact that manager Alan Pardew tried his best of sell Mbiwa this window, only for a number of sides to cool their interest in recent weeks.
 

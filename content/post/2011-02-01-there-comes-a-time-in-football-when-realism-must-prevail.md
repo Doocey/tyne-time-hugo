@@ -45,7 +45,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll subject to a £25m bid from Tottenham Hotpsurs.](http://www.tynetime.com/wp-content/uploads/2011/01/andy-carroll.jpg "Andy Carroll in action for NUFC")
+![Andy Carroll subject to a £25m bid from Tottenham Hotpsurs.](https://www.tynetime.com/wp-content/uploads/2011/01/andy-carroll.jpg "Andy Carroll in action for NUFC")
 
 #### Carroll - Off to Anfield whether pushed or shoved out of St. James' Park
 

@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Mehdi Abeid in action for Panathinaikos](http://www.tynetime.com/wp-content/uploads/2014/04/Mehdi-Abeid-Panathinaikos.jpg "Abeid - In flying form for Panathinaikos as he loan spell comes to a close")
+![Mehdi Abeid in action for Panathinaikos](https://www.tynetime.com/wp-content/uploads/2014/04/Mehdi-Abeid-Panathinaikos.jpg "Abeid - In flying form for Panathinaikos as he loan spell comes to a close")
 
 When I learned that Dan Gosling was to make an appearance in midfield for Newcastle United against Manchester United in his second only start for the club last Saturday it made me think of other midfielders on the books at St. James' Park that we've not seen much of. Romain Amalfitano, Haris Vuckic, Gael Bigirimana are just three faces that have failed to make the cut at Newcastle just yet, albeit Haris is on loan at Rotherham. The Slovenian has not featured as much as NUFC would have hoped which is disappointing, but in his 17 games so far he has netted 4 times - not _too_ shabby. Amalfitano's case is a curious one - we clearly signed the wrong Amalfitano as Romain's brother, Morgan, has been in fine form for West Bromwich Albion in their attempts to stay afloat in the Premier League. Bigirimana's situation is slightly less perplexing as he is continuing to grow and develop his game, however; why there has been such a drop in form from  scoring one week in the Premier League to lining out for the Development squad is another matter.
 

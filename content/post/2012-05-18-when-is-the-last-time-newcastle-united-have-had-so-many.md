@@ -29,7 +29,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Hatem Ben Arfa and Yohan Cabaye in training with the French squad](http://www.tynetime.com/wp-content/uploads/2012/05/Ben-Arfa-Cabaye-NUFC.jpg "Ben-Arfa-Cabaye-NUFC")
+![Hatem Ben Arfa and Yohan Cabaye in training with the French squad](https://www.tynetime.com/wp-content/uploads/2012/05/Ben-Arfa-Cabaye-NUFC.jpg "Ben-Arfa-Cabaye-NUFC")
   
 #### Benny - Making the French squad a testament to his work since the horrid broken leg
 

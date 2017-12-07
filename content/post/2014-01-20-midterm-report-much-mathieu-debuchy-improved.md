@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Mathieu Debuchy salutes in Newcastle United supporters](http://www.tynetime.com/wp-content/uploads/2014/01/Mathieu-Debuchy-Newcastle-EPL.jpg "Debuchy - Had a difficult start in a Newcastle United jersey a year ago")
+![Mathieu Debuchy salutes in Newcastle United supporters](https://www.tynetime.com/wp-content/uploads/2014/01/Mathieu-Debuchy-Newcastle-EPL.jpg "Debuchy - Had a difficult start in a Newcastle United jersey a year ago")
 
 Mathieu Debuchy was a player that Newcastle had tried to bring to St. James' Park before the 2012 European Championship. Just a few minutes into the illustrious footballing tournament is was easy to see why. In the right-back position for France Mathieu was quick, well versed tactically and loved to get forward from right-back to aid his teammates — an ideal candidate for the Premier League. Against England Debuchy performed admirably and his good form continued throughout the rest of the tournament until the French were eliminated in the last 16 by eventual champions, Spain. As Newcastle struggled for form in the league throughout the second half of 2012, immediate action was taken to rectify a leaky defence. Debuchy was courted and after a long, drawn out transfer process all speculation  was put to bed when the man signed the dotted line in Jauary 2013 to complete a £5m move. The question is: how has it fared out for him so far?
 

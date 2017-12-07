@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Romain Amalfitano holds a Newcastle United jersey at St.James' Park](http://www.tynetime.com/wp-content/uploads/2012/05/Romain-Amafitano-Newcastle-United.jpg "Romain-Amafitano-Newcastle-United")
+![Romain Amalfitano holds a Newcastle United jersey at St.James' Park](https://www.tynetime.com/wp-content/uploads/2012/05/Romain-Amafitano-Newcastle-United.jpg "Romain-Amafitano-Newcastle-United")
 
 #### Amalfitano - Has signed for Newcastle United but won't move until July 1st
 
@@ -43,6 +43,6 @@ Here's NUFC announcement, where Amalfitano above, had this to say:
 
 It's great to have him on board, and it'll be interesting to see how we go about settling him in. Here is Romain, having his photo taken at St.James' Park:
 
-![Romain Amalfitano holds a Newcastle United jersey](http://www.tynetime.com/wp-content/uploads/2012/05/amalfitano.jpeg "amalfitano-holds-nufc-jersey")
+![Romain Amalfitano holds a Newcastle United jersey](https://www.tynetime.com/wp-content/uploads/2012/05/amalfitano.jpeg "amalfitano-holds-nufc-jersey")
 
 Amalfitano - Delighted to be a Newcastle United player

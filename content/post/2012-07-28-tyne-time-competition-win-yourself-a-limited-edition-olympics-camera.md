@@ -15,7 +15,7 @@ tags:
   - Tyne Time competition
 
 ---
-![flagtagscompetition](http://www.tynetime.com/wp-content/uploads/2012/07/flagtagscompetition.jpg "flagtagscompetition")
+![flagtagscompetition](https://www.tynetime.com/wp-content/uploads/2012/07/flagtagscompetition.jpg "flagtagscompetition")
 
 #### Olympics - Team GB will be hoping to please the home crowds in the football
 

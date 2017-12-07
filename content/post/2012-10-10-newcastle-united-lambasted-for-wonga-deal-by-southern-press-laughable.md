@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United sign sponsorship deal with Wonga](http://www.tynetime.com/wp-content/uploads/2012/10/Newcastle-United-Wonga.gif "Newcastle-United-Wonga")
+![Newcastle United sign sponsorship deal with Wonga](https://www.tynetime.com/wp-content/uploads/2012/10/Newcastle-United-Wonga.gif "Newcastle-United-Wonga")
 
 ### Wonga - Providing the youth academy and city in general with generous funding
 

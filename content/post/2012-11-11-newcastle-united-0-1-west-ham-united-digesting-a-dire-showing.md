@@ -34,7 +34,7 @@ tags:
   - WHFC
 
 ---
-![Kevin Nolan celebrates after scoring against his old club](http://www.tynetime.com/wp-content/uploads/2012/11/Kevin-Nolan-West-Ham-United.jpg "Nolan - Came back to haunt NUFC with a classic poachers effort before the break")
+![Kevin Nolan celebrates after scoring against his old club](https://www.tynetime.com/wp-content/uploads/2012/11/Kevin-Nolan-West-Ham-United.jpg "Nolan - Came back to haunt NUFC with a classic poachers effort before the break")
 
 There are a lot of Newcastle United fans overreacting right now, following a disappointing defeat to West Ham United. However, to say that Newcastle United performed quite miserably today would be a slight understatement. Up against old boys Kevin Nolan and Andy Carroll, it was almost written in the script that one of them would net against us, but to grab the three points is another matter.
 
@@ -52,7 +52,7 @@ Here's a quick mock-up of how NUFC lined up, from the starting line-up to the fi
 
 Obviously Danny Simpson is at RB when Obertan came on, but you should be able to make sense of it.
 
-![Newcastle United Tactics](http://www.tynetime.com/wp-content/uploads/2012/11/Newcastle-United-vs-West-Ham-Tactics.jpg "Newcastle-United-vs-West-Ham-Tactics")
+![Newcastle United Tactics](https://www.tynetime.com/wp-content/uploads/2012/11/Newcastle-United-vs-West-Ham-Tactics.jpg "Newcastle-United-vs-West-Ham-Tactics")
 
 #### Stagnant in midfield; dislocated up-front.
 

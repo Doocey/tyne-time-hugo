@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Bafetimbi Gomis celebrates scoring for Lyon](http://www.tynetime.com/wp-content/uploads/2014/05/Bafetimbi-Gomis-Lyon-2014.jpg "Gomis - Talking to a total of five Premier League clubs ahead of summer move")
+![Bafetimbi Gomis celebrates scoring for Lyon](https://www.tynetime.com/wp-content/uploads/2014/05/Bafetimbi-Gomis-Lyon-2014.jpg "Gomis - Talking to a total of five Premier League clubs ahead of summer move")
 
 Newcastle United's interest in Bafetimbi Gomis dates back before 2008 when the club looked to sign him before the European Championship however he eventually made the short move to Lyon, from St. Etienne. Fast forward six years and under much different management, Newcastle are still eager to bring him to Tyneside. Last summer's transfer window saw the club come close to signing the Frenchman, but eventually the move fell apart due to a mixture of greed on part of Gomis' agents and indeed then Director of Football, Joe Kinnear's inability to recognise the fashion in which the modern transfer market operates. As we approach the 2014 World Cup, NUFC are hoping to secure some quick moves and once again Gomis seems to be near the top of the list. This makes me wonder, how good do both Newcastle and indeed the four other Premier League  clubs really believe Bafe can be in the top flight of English football?
 

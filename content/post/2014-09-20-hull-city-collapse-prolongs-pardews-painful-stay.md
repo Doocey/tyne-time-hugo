@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew paints a distressed figure on the sideline at St. James' Park](http://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Hull-City.jpg "Pardew - Has publicly thanked players for helping temporarily save his job after mounting two goal comeback")
+![Alan Pardew paints a distressed figure on the sideline at St. James' Park](https://www.tynetime.com/wp-content/uploads/2014/09/Alan-Pardew-Hull-City.jpg "Pardew - Has publicly thanked players for helping temporarily save his job after mounting two goal comeback")
 
 The atmosphere promised to be toxic. That very word had been bandied around the offices of every media outlet covering Newcastle United ahead of their home encounter with Hull City. The SackPardew campaign had gone down seamlessly and was going nicely up until kick-off. As crowds filtered into St. James' Park, security guards confiscated hundreds of banners and posters, despite the protesters being given a written go-ahead from the club and the local police. In true Mike Ashley style, promises were broken and in the end, the protest did not achieve its full capacity within the stadium. The 5th minute was greeted with some murmurs for the crowd, whilst at various intervals during the game, Pardew was reminded of his place. However, even when trailing 0-2, Newcastle supporters never caused huge uproar. Dare I say, it probably didn't even reach the levels of the side's last win at St. James' Park, when they saw off a beleaguered Cardiff City.
 

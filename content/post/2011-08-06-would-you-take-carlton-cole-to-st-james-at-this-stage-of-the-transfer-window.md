@@ -41,7 +41,7 @@ tags:
   - West Ham United
 
 ---
-![Carlton Cole in action for West Ham United in the Premier League](http://www.tynetime.com/wp-content/uploads/2011/08/Carlton-Cole-West-Ham.jpg "Carlton-Cole-West-Ham")
+![Carlton Cole in action for West Ham United in the Premier League](https://www.tynetime.com/wp-content/uploads/2011/08/Carlton-Cole-West-Ham.jpg "Carlton-Cole-West-Ham")
 
 #### Cole - Would you pair him up front with new summer signing Demba Ba?
 

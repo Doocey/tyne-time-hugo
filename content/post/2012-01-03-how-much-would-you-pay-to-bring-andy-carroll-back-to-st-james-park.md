@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll in action for Newcastle United against Aston Villa](http://www.tynetime.com/wp-content/uploads/2012/01/Andy-Carroll-LFC.jpg "Andy-Carroll-LFC")
+![Andy Carroll in action for Newcastle United against Aston Villa](https://www.tynetime.com/wp-content/uploads/2012/01/Andy-Carroll-LFC.jpg "Andy-Carroll-LFC")
 
 #### Carroll - What price would you pay to bring the Geordie back to Tyneside?
 

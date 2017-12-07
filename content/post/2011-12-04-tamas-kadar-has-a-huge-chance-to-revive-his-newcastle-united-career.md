@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Tamás Kádár and James Perch in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2011/12/Tamas-Kadar-James-Perch-Newcastle.jpg "Tamas-Kadar-James-Perch-Newcastle")
+![Tamás Kádár and James Perch in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2011/12/Tamas-Kadar-James-Perch-Newcastle.jpg "Tamas-Kadar-James-Perch-Newcastle")
 
 #### Duo - Chance for Perch and Kádár to stake their claims in the NUFC first team
 

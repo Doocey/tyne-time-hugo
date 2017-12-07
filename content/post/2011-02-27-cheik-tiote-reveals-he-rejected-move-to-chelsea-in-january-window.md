@@ -45,7 +45,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheik Tioté takes a breather against Arsenal.](http://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tioté.jpg "Cheik Tioté - Newcastle")
+![Cheik Tioté takes a breather against Arsenal.](https://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tioté.jpg "Cheik Tioté - Newcastle")
 
 #### Tioté - Opted to stay at Newcastle United in January despite Chelsea interest
 

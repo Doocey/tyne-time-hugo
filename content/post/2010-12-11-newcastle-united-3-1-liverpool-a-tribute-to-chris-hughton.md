@@ -39,7 +39,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll scored again for Newcastle United against Liverpool](http://www.tynetime.com/wp-content/uploads/2010/12/AndyCarrollvChelsea.jpg "Big Andy")
+![Andy Carroll scored again for Newcastle United against Liverpool](https://www.tynetime.com/wp-content/uploads/2010/12/AndyCarrollvChelsea.jpg "Big Andy")
 
 #### Carroll - Scored a peach of a goal today in a very good win dedicated to Chris
 

@@ -43,9 +43,9 @@ Papiss Cissé celebrating in the Black and White Stripes - there's no better sig
 
 It's basic and it's meant to be.
 
-![Tyne Time's wallpaper of Newcastle United strike Papiss Cissé](http://www.tynetime.com/wp-content/uploads/2012/04/PCWP2-150x150.jpg "Papiss Cissé Wallpaper")
+![Tyne Time's wallpaper of Newcastle United strike Papiss Cissé](https://www.tynetime.com/wp-content/uploads/2012/04/PCWP2-150x150.jpg "Papiss Cissé Wallpaper")
 
-» [Papiss Cissé Wallpaper](http://www.tynetime.com/wp-content/uploads/2012/04/PCWP2.jpg) «
+» [Papiss Cissé Wallpaper](https://www.tynetime.com/wp-content/uploads/2012/04/PCWP2.jpg) «
 
 (If you've a pop-up blocked enabled, you won't see the full-sized wallpaper - instead, right-click and 'Save As')
 

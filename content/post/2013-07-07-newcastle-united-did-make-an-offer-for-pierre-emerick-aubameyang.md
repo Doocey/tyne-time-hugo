@@ -20,7 +20,7 @@ tags:
   - Premier League
 
 ---
-![Pierre Emerick Aubameyang in action for Saint Etienne](http://www.tynetime.com/wp-content/uploads/2013/07/Pierre-Emerick-Aubameyang.jpg "Aubameyang - Newcastle did attempt to get the Gabon forward")
+![Pierre Emerick Aubameyang in action for Saint Etienne](https://www.tynetime.com/wp-content/uploads/2013/07/Pierre-Emerick-Aubameyang.jpg "Aubameyang - Newcastle did attempt to get the Gabon forward")
 
 It hardly came as surprising news when we learned that Pierre-Emerick Aubameyang opted to join Jurgen Klopp's Borussia Dortmund. The lure of Champions League football - a requirement which his representatives set in stone ahead of any potential move - was enough to bring him to Germany. Of course, in fairness, there's not too many players in Europe that would opt for a move to Tyneside ahead of Borussia, let's be honest. The real question was whether we actually made any attempt to get the Gabon man. Many will say we didn't, but it is well publicised in France over the last couple of days that the club did indeed offer big money to try convince the pacy forward to come to St. James' Park, but as said; Champions  League football swayed the deal.
 

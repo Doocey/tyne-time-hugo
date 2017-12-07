@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Mathieu Debuchy battles for possession with Germany's Mario Gotze](http://www.tynetime.com/wp-content/uploads/2014/07/Mathieu-Debuchy-France-Germany.jpg "Debuchy - Likely to secure move away from Newcastle with Arsenal preparing offer")
+![Mathieu Debuchy battles for possession with Germany's Mario Gotze](https://www.tynetime.com/wp-content/uploads/2014/07/Mathieu-Debuchy-France-Germany.jpg "Debuchy - Likely to secure move away from Newcastle with Arsenal preparing offer")
 
 In a rather turgid affair, Germany secured a hard-fought 1-0 victory over France to progress to the semi-finals of the 2014 World Cup courtesy of a first half header from Mats Hummels. The Borussia Dortmund defender rose above Rafael Varane to brilliantly nod home the opening goal of the game, as France showed little fighting spirit to force their way back into the game. In turn, France's exit sees Mathieu Debuchy and Moussa Sissoko return home to Newcastle, but for how long is the real question. Debuchy has been strongly linked with a move to Arsenal, and it seems as if he will make a decisive choice on his club for next season when he touches back down on Tyneside. Sissoko has also been linked with a move away, and will surely have impressed many with a solid performance at the competition which saw him net against the Swiss. While much of the talk has been dominated by Arsenal's interest in Debuchy, the return home of& _Les Bleus_ will also, fingers crossed, well and truly kick-start Newcastle's recruitment drive.
 

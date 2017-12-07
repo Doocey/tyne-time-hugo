@@ -18,7 +18,7 @@ tags:
   - Premier League
 
 ---
-![Gabriel Obertan celebrates scoring against Leicester City](http://www.tynetime.com/wp-content/uploads/2014/10/Gabriel-Obertan-Newcastle-Leicester.jpg "Obertan- Scored an impressive solo effort in a relatively poor display from the Toon on Saturday")
+![Gabriel Obertan celebrates scoring against Leicester City](https://www.tynetime.com/wp-content/uploads/2014/10/Gabriel-Obertan-Newcastle-Leicester.jpg "Obertan- Scored an impressive solo effort in a relatively poor display from the Toon on Saturday")
 
 I couldn't help but have a good laugh to myself when I heard that Mike Ashley had visited the home dressing-room after Saturday's 1-0 victory over Leicester City to congratulate the players on securing their first Premier League win of the season. It just proved to countless NUFC and myself - something we already knew: Mike Ashley has no understanding of the game. When Leicester City failed to take their chances in front of goal and Gabriel Obertan eventually went on to score a fine solo effort to secure all three points, it was an almost **embarrassing** victory. I don't mean that in any disrespect to Leicester City, but the fashion in which Alan Pardew's side went about securing victory had me shaking my head in disbelief.
 

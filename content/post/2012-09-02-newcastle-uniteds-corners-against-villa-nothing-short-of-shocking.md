@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa celebrates after scoring a wonder goal against Villa](http://www.tynetime.com/wp-content/uploads/2012/09/Hatem-Ben-Arfa-Aston-Villa.jpg "Hatem-Ben-Arfa-Aston-Villa")
+![Hatem Ben Arfa celebrates after scoring a wonder goal against Villa](https://www.tynetime.com/wp-content/uploads/2012/09/Hatem-Ben-Arfa-Aston-Villa.jpg "Hatem-Ben-Arfa-Aston-Villa")
 
 #### Ben Arfa - Stunning strike to save NUFC's blushes on a below par day for the Toon
 

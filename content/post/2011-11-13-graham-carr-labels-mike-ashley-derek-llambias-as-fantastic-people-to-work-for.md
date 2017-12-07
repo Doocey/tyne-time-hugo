@@ -36,7 +36,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Cheik Tioté and Yohan Cabaye in action for Newcastle United in St.James' Park](http://www.tynetime.com/wp-content/uploads/2011/11/Cheik-Tiote-Yohan-Cabaye.jpg "Cheik-Tiote-Yohan-Cabaye")
+![Cheik Tioté and Yohan Cabaye in action for Newcastle United in St.James' Park](https://www.tynetime.com/wp-content/uploads/2011/11/Cheik-Tiote-Yohan-Cabaye.jpg "Cheik-Tiote-Yohan-Cabaye")
 
 #### Signings - Tioté and Yohan Cabaye signings advised by chief scout Graham Carr
 

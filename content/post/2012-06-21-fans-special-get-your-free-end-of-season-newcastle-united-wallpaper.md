@@ -19,7 +19,7 @@ tags:
   - Tyne Time
 
 ---
-![Shola Ameobi smiling at a Newcastle United training session](http://www.tynetime.com/wp-content/uploads/2012/06/Shola-Ameobi-NUFC-training.jpg "Shola-Ameobi-NUFC-training")
+![Shola Ameobi smiling at a Newcastle United training session](https://www.tynetime.com/wp-content/uploads/2012/06/Shola-Ameobi-NUFC-training.jpg "Shola-Ameobi-NUFC-training")
 
 #### Ameobi - Seems extremely pleased with the news of a free wallpaper!
 
@@ -33,7 +33,7 @@ To the others, here's a little wallpaper to remind you of the season we've had.
 
 Newcastle United fans can download this wallpaper simply by entering the link below and right-clicking & saving when shown the content.
 
-[Newcastle United Wallpaper](http://www.tynetime.com/wp-content/uploads/2012/06/topdogs.jpg "Free Newcastle United Wallpaper")
+[Newcastle United Wallpaper](https://www.tynetime.com/wp-content/uploads/2012/06/topdogs.jpg "Free Newcastle United Wallpaper")
 
 Note, TyneTime doesn't usually touch on the matter of SAFC but it's all a bit of fun at the end of the day isn't it? If you give it, you gotta take it too.
 

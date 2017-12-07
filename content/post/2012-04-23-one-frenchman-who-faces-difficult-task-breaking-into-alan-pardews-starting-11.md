@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Gabriel Obertan in action for Newcastle United at Blackburn](http://www.tynetime.com/wp-content/uploads/2012/04/Gabriel-Obertan-Newcastle-United.jpg "Gabriel-Obertan-Newcastle-United")
+![Gabriel Obertan in action for Newcastle United at Blackburn](https://www.tynetime.com/wp-content/uploads/2012/04/Gabriel-Obertan-Newcastle-United.jpg "Gabriel-Obertan-Newcastle-United")
 
 #### Obertan - Faces stern competition in fight for first team place at St.James' Park
 

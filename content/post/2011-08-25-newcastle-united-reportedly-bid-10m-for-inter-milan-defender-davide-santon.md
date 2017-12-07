@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Davide Santon in action for Inter Milan against Manchester United](http://www.tynetime.com/wp-content/uploads/2011/08/Davide-Santon-Inter-Milan.jpg "Davide-Santon-Inter-Milan")
+![Davide Santon in action for Inter Milan against Manchester United](https://www.tynetime.com/wp-content/uploads/2011/08/Davide-Santon-Inter-Milan.jpg "Davide-Santon-Inter-Milan")
 
 #### Santon - Would be a real statement of intent from NUFC if they pulled it off
 

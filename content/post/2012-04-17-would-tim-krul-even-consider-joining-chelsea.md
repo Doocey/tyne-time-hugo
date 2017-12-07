@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Tim Krul issues instructions to his back four](http://www.tynetime.com/wp-content/uploads/2012/04/Tim-Krul-NUFC.jpg "Tim-Krul-NUFC")
+![Tim Krul issues instructions to his back four](https://www.tynetime.com/wp-content/uploads/2012/04/Tim-Krul-NUFC.jpg "Tim-Krul-NUFC")
 
 #### Krul - One of the top performing keepers in the Premier League this season
 

@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Carlos Bacca celebrates after scoring for Sevilla](http://www.tynetime.com/wp-content/uploads/2014/07/Carlos-Bacca-Sevilla.jpg "Bacca - Linked with move to Premier League with NUFC and Everton interested")
+![Carlos Bacca celebrates after scoring for Sevilla](https://www.tynetime.com/wp-content/uploads/2014/07/Carlos-Bacca-Sevilla.jpg "Bacca - Linked with move to Premier League with NUFC and Everton interested")
 
 Ever since Newcastle United completed the 'coup' of Siem de Jong from Ajax, supporters are slowly but surely getting their hopes up for more signings in the very near future. Although the signing of de Jong cannot come as a major shock, the fashion in which the club sealed a 6 year-deal for the Dutch international did catch a lot of us by surprise as we did not assume that NUFC were in heavy discussions with that particular playmaker. With Siem in the door, all of us are hoping that at least four more first team players will sign the dotted line at St. James' Park, and the latest name to be linked with a move is Sevilla's Carlos Bacca. The local media up North have run a story for the past couple of weeks suggesting that the Magpies' had a forward on their shopping list who is currently plying his trade in the Spanish leagues.
 

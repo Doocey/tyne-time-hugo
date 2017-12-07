@@ -46,7 +46,7 @@ tags:
   - Tyne Time
 
 ---
-![Joey Barton in action for Newcastle United during pre-season](http://www.tynetime.com/wp-content/uploads/2011/08/Joey-Barton-Newcastle.jpg "Joey-Barton-Newcastle")
+![Joey Barton in action for Newcastle United during pre-season](https://www.tynetime.com/wp-content/uploads/2011/08/Joey-Barton-Newcastle.jpg "Joey-Barton-Newcastle")
 
 #### Questions - Who will be at Newcastle United and who'll be gone come Aug 31st?
 

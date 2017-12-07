@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United Quiz](http://www.tynetime.com/wp-content/uploads/2015/01/Newcaslte-United-Quiz.jpg "Quiz - Test your knowledge of everything Newcastle United with this ten question quiz!")
+![Newcastle United Quiz](https://www.tynetime.com/wp-content/uploads/2015/01/Newcaslte-United-Quiz.jpg "Quiz - Test your knowledge of everything Newcastle United with this ten question quiz!")
 
 It's Thursday evening and let's be honest - there isn't much to do aside from refreshing Twitter with the hope that Newcastle United have sensationally unveiled Frank de Boer as their new head-coach. Either that, or you could read the countless, substance-less rumours about Newcastle United's transfer ambitions this January. You might even want to read about Moussa Sissoko's impending departure from St. James' Park, or the news that Jonas Gutierrez seems set for a move back to his native Argentina, soon to be followed by Fabricio Coloccini when the summertime calls. Enough of all that — instead, take a couple of minutes to test your knowledge of Newcastle United both past and present. Unlike most quizzes out there, you may be left scratching your head at some of these questions, because they're intended to be quite random.
 

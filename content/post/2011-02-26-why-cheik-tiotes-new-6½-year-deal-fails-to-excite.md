@@ -38,7 +38,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheik Tiote's goal vs. Arsenal](http://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tiote_Against_Arsenal.jpg "Cheik Tiote scores a stunner against Arsenal")
+![Cheik Tiote's goal vs. Arsenal](https://www.tynetime.com/wp-content/uploads/2011/02/Cheik_Tiote_Against_Arsenal.jpg "Cheik Tiote scores a stunner against Arsenal")
 
 One man who won't be short for money for years to come is our very own Cheik Tiote, after signing a new six and a half year deal with Newcastle United. Tioté, who had been linked with moves to Chelsea, Arsenal and even Manchester United put pen to paper on a rather outrageous deal in all honesty. It is one of the longest contracts I have ever heard of in football and if we're to be realistic  here, he will not see out those years at the Toon. You may think I'm against this new contract, but like any other NUFC fan; I'm happy that we've ended any interest in him for quite a while.
 

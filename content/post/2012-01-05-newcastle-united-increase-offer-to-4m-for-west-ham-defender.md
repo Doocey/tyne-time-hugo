@@ -35,7 +35,7 @@ tags:
   - West Ham United
 
 ---
-![James Tomkins in action for West Ham at Upton Park against Arsenal](http://www.tynetime.com/wp-content/uploads/2012/01/James-Tomkins-West-Ham.jpg "James-Tomkins-West-Ham")
+![James Tomkins in action for West Ham at Upton Park against Arsenal](https://www.tynetime.com/wp-content/uploads/2012/01/James-Tomkins-West-Ham.jpg "James-Tomkins-West-Ham")
 
 #### Tomkins - Second offer lodged for West Ham defender after £2.5m was rejected
 

@@ -25,7 +25,7 @@ tags:
   - Tyne Time
 
 ---
-![Sissoko - A very talented midfielder that would take the EPL by storm](http://www.tynetime.com/wp-content/uploads/2012/11/Moussa-Sissoko-Newcastle-United.jpg "Moussa-Sissoko-Newcastle-United")
+![Sissoko - A very talented midfielder that would take the EPL by storm](https://www.tynetime.com/wp-content/uploads/2012/11/Moussa-Sissoko-Newcastle-United.jpg "Moussa-Sissoko-Newcastle-United")
 
 Unlike many years previous, Newcastle United have a very strong midfield contingent on the books. From Yohan Cabaye as far down to Dan Gosling we happen to have a little bit of depth, but of course this should not, and will not stop Graham Carr from compiling reports on potential signings. The latest man on the list is 23 year-old Moussa Sissoko, of Toulouse. Apparently his contract allows teams to engage in pre-contract negotiations so needless to say, Newcastle United have been sniffing around. Sissoko is combative midfielder  and has a great engine, which would make him perfect for the Premier League. In 2009, Spurs tried to sign him for £12m but failed, however this bid alone for a 20 year-old signalled the potential he has.
 

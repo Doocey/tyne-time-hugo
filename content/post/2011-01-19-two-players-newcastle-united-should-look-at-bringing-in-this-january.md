@@ -43,7 +43,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew](http://www.tynetime.com/wp-content/uploads/2011/01/Alan-Pardew.jpg "Alan Pardew looking to bring in a couple of new faces if he can get them")
+![Alan Pardew](https://www.tynetime.com/wp-content/uploads/2011/01/Alan-Pardew.jpg "Alan Pardew looking to bring in a couple of new faces if he can get them")
 
 That sick feeling of Sunderland's 93rd minute equaliser still lingers somewhat as I write this article, but it could have been worse; it could have been a 93rd winner for them, and our best striker could have handed in a transfer request the day after the game - Imagine that!
 
@@ -67,11 +67,11 @@ That brings me onto my first choice transfer signing this January.
 
 ### Dedryck Boyata and Eliaquim Mangala
 
-![Boyata](http://www.tynetime.com/wp-content/uploads/2011/01/Dedryck-Boyata.jpg "Dedryck-Boyata")
+![Boyata](https://www.tynetime.com/wp-content/uploads/2011/01/Dedryck-Boyata.jpg "Dedryck-Boyata")
 
 **Boyata** - Although he is probably back-up to Manchester City more than anything, with Greg Cunningham out injured and Wayne Bridge out on loan, Dedryck Boyata is a player that I would really love to have at NUFC. Pacy, strong, young - exactly what you need at the top level, and perhaps add a bit of experience that comes with time. He will bea very commanding centre-back in the future, and to be fair, I don't think Newcastle United have a huge amount of young CB's coming through besides Stevie Folan. The real question is whether we could sign him this January and although it is more than likely Mancini wants to keep hold him, it is still worth a try making a loan bid for him.
 
-![Mangala](http://www.tynetime.com/wp-content/uploads/2011/01/Eliaquim-Mangala.jpg "Eliaquim-Mangala")
+![Mangala](https://www.tynetime.com/wp-content/uploads/2011/01/Eliaquim-Mangala.jpg "Eliaquim-Mangala")
 
 **Mangala** - One may wonder, what is this guy is on about bringing a guy I've never heard of before but Mangala, although relatively unknown at this stage will be a big star in the future. A defensive midfielder, that has strength, and a certain vision on the ball that makes him that little bit special. I have seen him play a couple of times, and I must say, I do think he would be an excellent addition to the Newcastle United team of the future. The likes of Kevin Nolan, Joey Barton aren't getting any younger and we must look towards the future.
 

@@ -30,7 +30,7 @@ tags:
   - Toon News
 
 ---
-![David Moyes gets ready for his side's tie against Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/04/Alan-Pardew-David-Moyes.jpg "Moyes - Looks like he will depart Old Trafford before the end of the season")
+![David Moyes gets ready for his side's tie against Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/04/Alan-Pardew-David-Moyes.jpg "Moyes - Looks like he will depart Old Trafford before the end of the season")
 
 It seems almost a matter of hours before David Moyes is relieved of his duties as manager of Manchester United. The ex-Everton boss assumed control of the reigning Premier League champions following Alex Ferguson's retirement last season, but the transition from Goodison Park to the supposed theatre of dreams has been quite a seamless as first hoped. League defeats to West Bromwich Albion, Liverpool, Everton, Chelsea, and indeed our very own Newcastle United have ensured that David Moyes tenure at MUFC is under major scrutiny, and it looks like the club's owners has decided enough is enough. It is somewhat suiting, if not disappointing that Moyes' last game as Manchester United manager
 

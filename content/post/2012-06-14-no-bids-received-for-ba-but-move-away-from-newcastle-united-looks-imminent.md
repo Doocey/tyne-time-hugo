@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Demba Ba celebrates after completing his hattrick at St.James' Park](http://www.tynetime.com/wp-content/uploads/2012/06/Demba-Ba-Hattrick.jpg "Demba-Ba-Hattrick")
+![Demba Ba celebrates after completing his hattrick at St.James' Park](https://www.tynetime.com/wp-content/uploads/2012/06/Demba-Ba-Hattrick.jpg "Demba-Ba-Hattrick")
 
 #### Ba - Looks like his agents want a big pay day at the expense of NUFC
 

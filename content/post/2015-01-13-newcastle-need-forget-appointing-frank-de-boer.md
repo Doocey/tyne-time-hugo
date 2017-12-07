@@ -24,7 +24,7 @@ tags:
   - Thomas Tuchel
 
 ---
-![Frank De Boer watches his Ajax side warm-up against Barcelona](http://www.tynetime.com/wp-content/uploads/2015/01/Frank-De-Boer-Newcastle.jpg "De Boer - Dutchman has no intention of leaving Ajax to manage Newcastle United")
+![Frank De Boer watches his Ajax side warm-up against Barcelona](https://www.tynetime.com/wp-content/uploads/2015/01/Frank-De-Boer-Newcastle.jpg "De Boer - Dutchman has no intention of leaving Ajax to manage Newcastle United")
 
 There is little doubt that if given the chance, 99% of Newcastle United fans would appoint Frank de Boer as the club's new head coach. What an incredible upgrade he would be on the departed Alan Pardew. The Dutchman would arrive to a hero's welcome at St. James' Park and there would be a feeling of great optimism around Tyneside upon his appointment. Sadly, the chances of the ex-Barcelona defender taking the reins at Newcastle are non-existent at this moment in time. Despite removing himself as a contender as the next Magpies boss, plenty of media sources and supporters alike truly believe he remains a realistic candidate to succeed Mr. Pardew. As much as we would all love it, his name needs to be crossed off the list and the club need to concentrate on appointing one of Remi Garde or Thomas Tuchel - the two candidates that I truly believe are the front-runners at the time of writing.
 

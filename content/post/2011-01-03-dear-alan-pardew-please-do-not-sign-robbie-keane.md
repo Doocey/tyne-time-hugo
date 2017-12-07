@@ -48,7 +48,7 @@ tags:
   - Xisco
 
 ---
-![Robbie Keane](http://www.tynetime.com/wp-content/uploads/2011/01/robbie-keane-006.jpg "Keane - Not worth bringing to Newcastle United this January transfer period")
+![Robbie Keane](https://www.tynetime.com/wp-content/uploads/2011/01/robbie-keane-006.jpg "Keane - Not worth bringing to Newcastle United this January transfer period")
 
 I have noticed in the last couple of weeks amongst many Newcastle United fans, how excited they are at the prospect of Robbie Keane arriving on Tyneside. I however, do not want the Tallaght man to join Newcastle United and a lot of Irish NUFC fans are in agreements with me. Of course, you will wonder why I do no want to sign a proven striker, that has scored at the highest level , from the World Cup to the Premier League, indeed a forward who has scored goals anywhere he went. Well, it's all good and well in the Premier League for Spurs when he _had_ the likes of Luka Modric, supplying him, but if he comes to Newcastle United, we'll really see how good he is. First of all, he will demand huge wages, and more than likely look to match the highest earner at the club. Secondly, his contract will require quite large goal bonuses, and finally he just isn't worth the rumoured £5m fee that is being mentioned.
 

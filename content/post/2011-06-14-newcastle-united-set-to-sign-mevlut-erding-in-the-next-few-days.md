@@ -36,7 +36,7 @@ tags:
   - Tyne Time
 
 ---
-![Mevlut Erding in action for PSG](http://www.tynetime.com/wp-content/uploads/2011/06/Mevlut-Erding.jpg "Mevlut Erding")
+![Mevlut Erding in action for PSG](https://www.tynetime.com/wp-content/uploads/2011/06/Mevlut-Erding.jpg "Mevlut Erding")
 
 #### Erding - Expected to sign in the coming week or so for a fee in the region of £8m
 
@@ -62,4 +62,4 @@ Alongside the ineviatable signing of Demba Ba - our strike force is looking some
 
 Comments welcome as always 🙂
 
- [1]: http://www.tynetime.com/2010/08/10/newcastle-united-have-5m-offer-for-mevlut-erding-rejected/
+ [1]: https://www.tynetime.com/2010/08/10/newcastle-united-have-5m-offer-for-mevlut-erding-rejected/

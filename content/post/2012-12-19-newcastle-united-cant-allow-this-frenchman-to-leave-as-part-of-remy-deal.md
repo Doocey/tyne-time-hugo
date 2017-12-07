@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Sylvain Marveaux in action for Newcastle United in the Europa League](http://www.tynetime.com/wp-content/uploads/2012/12/Sylvain-Marveaux-Newcastle-United.jpg)
+![Sylvain Marveaux in action for Newcastle United in the Europa League](https://www.tynetime.com/wp-content/uploads/2012/12/Sylvain-Marveaux-Newcastle-United.jpg)
 
 With the talk of Marseille's Loïc Rémy joining Newcastle United in a £10m deal, it is also suggested that one of our French squad members will also sides as part of the agreement. It is rumoured that Sylvain Marveaux maybe the man leaving Tyneside, and I don't think I'm the only one that would be extremely disappointed by his departure. Marveaux arrived on a free transfer from Rennes over a year ago and has slowly but surely established himself at NUFC. Most of his starts however, have come in the Europa League and the general consensus is that he  should probably make the starting eleven of our Premier League team, ahead of Jonas Gutierrez.
 

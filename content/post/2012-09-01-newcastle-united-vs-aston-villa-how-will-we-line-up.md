@@ -41,7 +41,7 @@ Villa, who arrive at St.James' after a shocking open to the season so far, will 
 
 After scraping by our Greek opposition in the Europa League during the week, Gabriel Obertan might stake a claim for a start tomorrow, but with everything considered; here's the side I expect Alan Pardew to put out at 4PM:
 
-![NUFC vs AVFC Line-Ups](http://www.tynetime.com/wp-content/uploads/2012/09/NUFC-vs-AVFC.jpg "NUFC-vs-AVFC")
+![NUFC vs AVFC Line-Ups](https://www.tynetime.com/wp-content/uploads/2012/09/NUFC-vs-AVFC.jpg "NUFC-vs-AVFC")
 
 Krul is an obvious starter between the sticks while Simpson, Coloccini, Taylor and Santon are also expected to make up the back four per usual.
 

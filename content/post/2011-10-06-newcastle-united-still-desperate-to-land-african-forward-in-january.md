@@ -42,7 +42,7 @@ tags:
   - Tyne Time
 
 ---
-![Modibo Maiga in action for Sochaux in Ligue 1](http://www.tynetime.com/wp-content/uploads/2011/08/Modibo-Maiga-Newcastle.jpg "Modibo-Maiga-Newcastle")
+![Modibo Maiga in action for Sochaux in Ligue 1](https://www.tynetime.com/wp-content/uploads/2011/08/Modibo-Maiga-Newcastle.jpg "Modibo-Maiga-Newcastle")
 
 #### Maiga - Newcastle United still pressing hard to get a January transfer deal done
 

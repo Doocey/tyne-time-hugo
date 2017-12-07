@@ -36,7 +36,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Danny Guthrie in action for Newcastle United at St.James' Park in 2011](http://www.tynetime.com/wp-content/uploads/2011/11/Danny-Guthrie-Newcastle-United.jpg "Danny-Guthrie-Newcastle-United")
+![Danny Guthrie in action for Newcastle United at St.James' Park in 2011](https://www.tynetime.com/wp-content/uploads/2011/11/Danny-Guthrie-Newcastle-United.jpg "Danny-Guthrie-Newcastle-United")
 
 #### Guthrie - Showed glimpses of real quality today on the ball at Manchester City
 
@@ -52,7 +52,7 @@ It's great to see Guthrie coming back and he looked very sharp today - his passi
 
 He also had a solid game against Everton at St.James' Park a few weeks ago, but seemed even quicker and sharper at the Etihad Stadium today, or so I thought.
 
-[We always held high hopes](http://www.tynetime.com/2010/01/13/danny-guthrie-can-be-a-brilliant-player-for-newcastle-united/ "Tyne Time's take on Danny Guthrie") for the guy at NUFC and hopefully he is ready to fulfill the potential he has.
+[We always held high hopes](https://www.tynetime.com/2010/01/13/danny-guthrie-can-be-a-brilliant-player-for-newcastle-united/ "Tyne Time's take on Danny Guthrie") for the guy at NUFC and hopefully he is ready to fulfill the potential he has.
 
 With himself, Tioté, Cabaye, and today's goalscorer Dan Gosling all vying for the centre-mid positions we'll hopefully get the best out of all three in the next few years. All of them are around the same age and yet to play their prime football - which is exciting to think about.
 

@@ -41,7 +41,7 @@ tags:
   - Villa Park
 
 ---
-![Stephen Ireland in action for Newcastle United vs. Manchester United](http://www.tynetime.com/wp-content/uploads/2011/06/Stephen-Ireland.jpg "Stephen-Ireland-NUFC")
+![Stephen Ireland in action for Newcastle United vs. Manchester United](https://www.tynetime.com/wp-content/uploads/2011/06/Stephen-Ireland.jpg "Stephen-Ireland-NUFC")
 
 #### Ireland - Has raw talent but can he regain old form at St. James' Park?
 

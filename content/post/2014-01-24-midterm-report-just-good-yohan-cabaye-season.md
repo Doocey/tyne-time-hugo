@@ -23,7 +23,7 @@ tags:
   - Yohan Cabaye Newcastle Profile
 
 ---
-![Yohan Cabaye salutes the NUFC supporters after scoring against West Ham](http://www.tynetime.com/wp-content/uploads/2014/01/Yohan-Cabaye-Newcastle-United-West-Ham.jpg "Cabaye - Has enjoyed a very productive season in a Newcastle jersey so far")
+![Yohan Cabaye salutes the NUFC supporters after scoring against West Ham](https://www.tynetime.com/wp-content/uploads/2014/01/Yohan-Cabaye-Newcastle-United-West-Ham.jpg "Cabaye - Has enjoyed a very productive season in a Newcastle jersey so far")
 
 After half an hour of Newcastle United's tie against West Ham in the Premier League last Saturday, it was absolutely clear the quality of a midfielder that the club have in Yohan Cabaye. When The Frenchman was linked with a move away in the summer some Newcastle fans played down his real ability, and dubbed him as a 'good player' but 'not great', and certainly not European quality. I argued that he was one of the finest midfielders in Europe when on form and in turn asked some of the doubters why the likes of PSG and Arsenal were looking into signing him if he was - as they said - just a 'good' midfielder. Thankfully, Cabaye did not leave to Arsenal or the French giants, but instead has put his head down and worked for the team in a very professional manner and he deserves credit for that, regardless of whether he is playing his heart out for a bigger move or not. Many questioned , including myself, whether he would put the work in after having his head turned by Arsenal, and hopefully in the paragraphs below, I can shed light on his form of late.
 

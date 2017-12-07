@@ -42,7 +42,7 @@ tags:
   - Wigan Athletic
 
 ---
-![Hugo Rodallega celebrates scoring for Wigan against Blackpool](http://www.tynetime.com/wp-content/uploads/2011/05/Hugo-Rodallega-Wigan-Athletic.jpg "Hugo-Rodallega-Wigan-Athletic")
+![Hugo Rodallega celebrates scoring for Wigan against Blackpool](https://www.tynetime.com/wp-content/uploads/2011/05/Hugo-Rodallega-Wigan-Athletic.jpg "Hugo-Rodallega-Wigan-Athletic")
 
 #### Rodallega - Someone who could do a very good job at Newcastle United
 

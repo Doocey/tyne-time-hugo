@@ -39,7 +39,7 @@ tags:
   - Virgin Money
 
 ---
-![Virgin Money owner Richard Branson takes question in press conference](http://www.tynetime.com/wp-content/uploads/2012/01/Richard-Branson-NUFC-Virgin.jpg "Richard-Branson-NUFC-Virgin")
+![Virgin Money owner Richard Branson takes question in press conference](https://www.tynetime.com/wp-content/uploads/2012/01/Richard-Branson-NUFC-Virgin.jpg "Richard-Branson-NUFC-Virgin")
 
 #### Branson - Influx of shirt sponsorship money seemingly financed Cissé move
 

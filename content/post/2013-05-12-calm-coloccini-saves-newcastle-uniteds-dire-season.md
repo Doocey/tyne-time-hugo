@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabricio Coloccini and Mike Williamson celebrate at Loftus Road](http://www.tynetime.com/wp-content/uploads/2013/05/Newcastle-Uniteds-Fabricio-Coloccini-QPR.jpg "Coloccini - His collected performances saved Newcastle from relegation")
+![Fabricio Coloccini and Mike Williamson celebrate at Loftus Road](https://www.tynetime.com/wp-content/uploads/2013/05/Newcastle-Uniteds-Fabricio-Coloccini-QPR.jpg "Coloccini - His collected performances saved Newcastle from relegation")
 
 You might have noticed there has not been a huge amount of activity on this blog in the last month or so, as I have been extremely busy with college exams, but I felt today was as good a day as any to post. Goals from Hatem Ben Arfa and Yoann Gouffran helped Newcastle United to a 2-1 win over QPR and in effect, secure our status as a Premier League club for another season. Mike Ashley and Derek Llambias watched on from the stands at Loftus Road and were visibly very relieved when the final whistle sounded marking an end to a truly horrific Premier League campaign, and indeed the guarantee of tens of millions of pounds in TV rights for next season; a crucial part to this club's long term plan. I think it is fair to say that every NUFC fans is delighted this season is practically over, and the threat of relegation has ceased, but there has be change over the summer and  that might involve Alan Pardew leaving his post as Magpies manager.
 

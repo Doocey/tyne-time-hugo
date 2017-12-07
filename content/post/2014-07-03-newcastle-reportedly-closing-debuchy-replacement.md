@@ -24,7 +24,7 @@ tags:
   - Siem de Jong
 
 ---
-![Daryl Janmaat in action for the Netherlands at the 2014 World Cup](http://www.tynetime.com/wp-content/uploads/2014/07/Daryl-Janmaat-Netherlands.jpg "Janmaat - Reported to be the preferred replacement for departing Debuchy")
+![Daryl Janmaat in action for the Netherlands at the 2014 World Cup](https://www.tynetime.com/wp-content/uploads/2014/07/Daryl-Janmaat-Netherlands.jpg "Janmaat - Reported to be the preferred replacement for departing Debuchy")
 
 It seems almost inevitable that Mathieu Debuchy was going to leave Newcastle United in the very near future, but today there seems to have been concrete movement on part of Arsenal to bring the French international to the Emirates. Debuchy's future at St. James' Park had been under scrutiny since January following the departure of his best friend, and Newcastle's best player, Yohan Cabaye, who left for Paris Saint Germain. While PSG are rumoured to be chasing Mathieu's signature, Arsenal seem to be in pole position, and realistically represent a better deal for the 28 year-old who is currently preparing for the World Cup Quarter Final with France in Brazil. Such speculation has been further fueled by Debuchy's decision to remove any reference to Newcastle United from his Twitter bio - a small issue, but arguably an enormous indicator of a player's future in the 21st century. The biggest news however, is that Newcastle are lining up a replacement for Debuchy, and it looks like **Daryl Janmaat** is the preferred option.
 

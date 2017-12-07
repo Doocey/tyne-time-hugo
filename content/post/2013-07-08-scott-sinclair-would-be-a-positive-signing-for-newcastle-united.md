@@ -19,7 +19,7 @@ tags:
   - Scott Sinclair
 
 ---
-![Scott Sinclair in action during his Swansea City days](http://www.tynetime.com/wp-content/uploads/2013/07/Scott-Sinclair-NUFC.jpg "Sinclair - Would boost the number of English contingents on Tyneside")
+![Scott Sinclair in action during his Swansea City days](https://www.tynetime.com/wp-content/uploads/2013/07/Scott-Sinclair-NUFC.jpg "Sinclair - Would boost the number of English contingents on Tyneside")
 
 There are quite a few reports swindling around regards Scott Sinclair and Newcastle United. A certain bookmaker have confirmed that the odds on Scott Sinclair heading to Newcastle United as his next club has been slashed from 20/1 to an odds on of 1/4 - meaning that a rather serious amount of money has been placed on the ex-Swansea man being a NUFC player for the coming season. I'm almost positive that such betting does not count for loan deals either - permanent moves only. Of course one can never get too excited about bookies and their activity, but it takes copious amounts of cash to drive a price down by that much, meaning someone knows something. Officials at St. James' Park have denied any knowledge of the deal, and that might very well be the case - however; the money being  placed on his next club could very possibly be coming from the Manchester City side which of course is Scott's current club.
 

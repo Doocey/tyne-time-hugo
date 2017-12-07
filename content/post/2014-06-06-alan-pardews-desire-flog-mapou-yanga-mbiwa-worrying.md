@@ -22,7 +22,7 @@ tags:
   - Premier League
 
 ---
-![Mapou Yanga-Mbiwa in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/06/Mapou-Yanga-Mbiwa-Newcastle-2014.jpg "Mapou - Looks set for a return to France after falling out of favour with Alan Pardew")  
+![Mapou Yanga-Mbiwa in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/06/Mapou-Yanga-Mbiwa-Newcastle-2014.jpg "Mapou - Looks set for a return to France after falling out of favour with Alan Pardew")  
 
 It is not often that a Ligue 1 winning captain would turn down Champions League football to aid a battle against Premier League relegation with Newcastle United. However, that is exactly what Mapou Yanga-Mbiwa did when he left Montpellier to join the Toon. In a reported £8.5m move, the 25 year-old signed the dotted line on a cold January afternoon at Benton with the hope of becoming a leading star in Newcastle's back four. 37 appearances later, manager Alan Pardew is looking offload France international for a reduced fee with plenty of French clubs eager to take him. Of course such a defender would have plenty of suitors - after all, he captained a league winning side, has represented France on 3 occasions to date, and likely has his best years as a defender in front of him. The intent on behalf of NUFC to rid themselves of Mbiwa - who is well reported to be an absolute professional both on and off the pitch - is alarming to say the least.
 
@@ -38,6 +38,6 @@ The fact that a cash-strapped Marseille have enquired about his availability say
 
 Worrying is just one word for this debacle.
 
-P.S - If you're collecting the infamous World Cup stickers this year, then I advise you to enter[Tyne Time's competition](http://www.tynetime.com/2014/06/05/competition-win-panini-world-cup-2014-sticker-collections/ "2014 World Cup Sticker Competition"). 3 prizes to hand-out, including a generous offering for the winner. Make sure to enter.
+P.S - If you're collecting the infamous World Cup stickers this year, then I advise you to enter[Tyne Time's competition](https://www.tynetime.com/2014/06/05/competition-win-panini-world-cup-2014-sticker-collections/ "2014 World Cup Sticker Competition"). 3 prizes to hand-out, including a generous offering for the winner. Make sure to enter.
 
 Comments welcome as always!

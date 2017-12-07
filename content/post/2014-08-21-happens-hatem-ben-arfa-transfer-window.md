@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa tussles for posession with Luke Shaw of Southampton](http://www.tynetime.com/wp-content/uploads/2014/08/Hatem-Ben-Arfa-NUFC-Southampton.jpg "Benny - How he and the man beside him have enjoyed different summers")
+![Hatem Ben Arfa tussles for posession with Luke Shaw of Southampton](https://www.tynetime.com/wp-content/uploads/2014/08/Hatem-Ben-Arfa-NUFC-Southampton.jpg "Benny - How he and the man beside him have enjoyed different summers")
 
 Hatem Ben Arfa - where to start? The Frenchman is without doubt one of the most exciting players I've ever seen in Black and White. The sense of excitement when he received the ball on either flank and looked to drive at defenders. His ability to spot a pass, or indeed use his yard of pace to burst clear of a couple of challenges and leave his markers for dead. Those were the good days under Hatem Ben Arfa. 2014 hasn't been as enjoyable as the 27 year-old is currently frozen out of the first team with the Newcastle hierarchy looking to offload him at the nearest opportunity. Offers for his services have arrived from Russia and beyond, but Ben Arfa has turned down all approaches citing a desire to stay on Tyneside and hopefully regain a starting role if manager Alan Pardew is finally shown the door.
 

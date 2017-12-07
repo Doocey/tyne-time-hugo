@@ -46,7 +46,7 @@ tags:
   - Tyne Time
 
 ---
-![Gerard Houllier looks on in disbelief as Aston Villa miss a chance against Burnley](http://www.tynetime.com/wp-content/uploads/2011/04/gerard_houllier.jpg "Gerard Houllier")
+![Gerard Houllier looks on in disbelief as Aston Villa miss a chance against Burnley](https://www.tynetime.com/wp-content/uploads/2011/04/gerard_houllier.jpg "Gerard Houllier")
 
 #### Houllier - Faces a difficult challenge in motivating a lacklustre Villa side
 

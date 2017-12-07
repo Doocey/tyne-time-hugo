@@ -27,7 +27,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Alan Pardew shakes hands with NUFC owner Mike Ashley ahead of their tie with Southampton](http://www.tynetime.com/wp-content/uploads/2014/03/Alan-Pardew-Mike-Ashley-Southampton.jpg "Pardew - Has deployed some some questionable tactics at times in NUFC career")
+![Alan Pardew shakes hands with NUFC owner Mike Ashley ahead of their tie with Southampton](https://www.tynetime.com/wp-content/uploads/2014/03/Alan-Pardew-Mike-Ashley-Southampton.jpg "Pardew - Has deployed some some questionable tactics at times in NUFC career")
 
 There have been a few times this season when Newcastle United have looked a Championship team at best - no less than in our latest mauling at Southampton on Saturday. The players looked clueless, disinterested and generally lazy throughout the 90+ minutes at St. Mary's, and it's not the first time such a performance has materialised. At home to Tottenham Hotspur - truth be told - a pretty awful Tottenham Hotspur showed up to stick four past Tim Krul in the Newcastle United goal and leave a packed out St. James' Park faithful baying for blood. Even a month previous our home performance against rivals Sunderland was a complete joke. Another handful of performances throughout the season resulted in marginally less embarrassing losses, in turn, posing the question: have the current crop of Newcastle United players have lost confidence in the  managerial ability of Alan Pardew?
 

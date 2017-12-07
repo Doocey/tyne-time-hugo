@@ -24,7 +24,7 @@ tags:
 
 ---
 
-![Cheick Tiote and Yoan Gouffran in training with Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/12/Cheick-Tiote-Yoan-Gouffran.jpg)
+![Cheick Tiote and Yoan Gouffran in training with Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/12/Cheick-Tiote-Yoan-Gouffran.jpg)
 
 Another trip to the Emirates Stadium and another pitiful performance. As per usual, the trip to Arsenal saw Newcastle United beaten by a three goal margin. This time Olivier Giroud and Santi Cazorla teamed up to tear our defence asunder – the former seemingly finding world-class form against us Magpies to chip in with two top quality goals. Cazorla’s first was a thing of beauty, delicately piercing the top corner from an acute angle, leaving NUFC’s third choice keeper Jak Alnwick stranded, a position in which he remained throughout the remainder of the 90 minutes. It wasn’t the awful defending or the poor goalkeeping on show that really caught my eye when watching the game, rather, the incredibly poor standard of passing on show from a certain Cheick Tioté, and the lack of contribution on display from Alan Pardew’s best friend, Yoan Gouffran.
 

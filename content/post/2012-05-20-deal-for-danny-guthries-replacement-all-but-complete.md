@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Romain Amalfitano during a league match in France](http://www.tynetime.com/wp-content/uploads/2012/05/Romain-Amalfitano-Newcastle.jpg "Romain-Amalfitano-Newcastle")
+![Romain Amalfitano during a league match in France](https://www.tynetime.com/wp-content/uploads/2012/05/Romain-Amalfitano-Newcastle.jpg "Romain-Amalfitano-Newcastle")
 
 #### Amalfitano - Is expected to arrive at St.James' in the coming days
 

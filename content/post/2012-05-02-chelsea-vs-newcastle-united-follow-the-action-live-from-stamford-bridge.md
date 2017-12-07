@@ -11,7 +11,7 @@ categories:
   - Newcastle United News
 
 ---
-![Stamford Bridge](http://www.tynetime.com/wp-content/uploads/2012/05/Stamford-Bridge-Chelsea.jpg "Stamford-Bridge-Chelsea")
+![Stamford Bridge](https://www.tynetime.com/wp-content/uploads/2012/05/Stamford-Bridge-Chelsea.jpg "Stamford-Bridge-Chelsea")
 
 #### Chelsea vs Newcastle United - Live updates by the minute in tonights encounter
 

@@ -34,7 +34,7 @@ tags:
   - Victor Anichibe
 
 ---
-![Demba Ba celebrates after scoring his second goal against Everton](http://www.tynetime.com/wp-content/uploads/2012/09/Demba-Ba-Everton.jpg "Ba - Showed absolute steel coming off the bench to rescue point for ailing Mags")
+![Demba Ba celebrates after scoring his second goal against Everton](https://www.tynetime.com/wp-content/uploads/2012/09/Demba-Ba-Everton.jpg "Ba - Showed absolute steel coming off the bench to rescue point for ailing Mags")
 
 There's usually no better feeling in football than scoring in the dying seconds to achieve a result that looked virtually impossible. When Victor Anichebe powered home Everton's second goal, it looked as if they were on course to take a deserved three points on an emotional night at Goodison. Unfortunately for Moyes' men, they hadn't read the script. The _other_ substitute of the night, Demba Ba, wasn't finished just and thanks to a chest-on from Shola Ameobi - the Senegalese man prodded home a priceless equaliser to make it 2-2. Pulsating stuff.
 

@@ -19,7 +19,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United targets](http://www.tynetime.com/wp-content/uploads/2013/05/Pierre-Emerick-Aubameyang-Andy-Carroll.jpg "Target - Which of these forwards do Newcastle United target in the summer window?")
+![Newcastle United targets](https://www.tynetime.com/wp-content/uploads/2013/05/Pierre-Emerick-Aubameyang-Andy-Carroll.jpg "Target - Which of these forwards do Newcastle United target in the summer window?")
 
 Thankfully Newcastle's win at QPR means fans of the club can already look forward to the summer transfer window with a certain relief, knowing that we'll be able to go out and buy some proper players to strengthen the squad. Five players were recruited in January, one of which scored the all-important goal to keep us in the division, Yoan Gouffran. However, there is likely to be a couple of departures in the Newcastle team, with Cabaye sought after and tentative enquiries made for a certain Fabricio Coloccini as well. If there is one place that needs strengthening, it's our forward line. Since Demba Ba departed for Chelsea, Cissé has played up top on his own, even more alienated and disconnect from midfield than before Ba's January move. The #9 has scored goals and important ones such as last minute winners against Stoke and indeed Fulham, but he needs a partner who can help him out, as well as score a few of his own. Andy Carroll has enjoyed a good season at  West Ham contributing a chunk of goals and the London outfit have made no secret that they would like to take him on a permanent basis for something in the region of £14m.
 

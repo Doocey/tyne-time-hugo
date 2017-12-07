@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United's Steven Taylor battles with Javier Hernandez of Manchester United](http://www.tynetime.com/wp-content/uploads/2012/01/Steven-Taylor-Newcastle-United.jpg "Steven-Taylor-Newcastle-United")
+![Newcastle United's Steven Taylor battles with Javier Hernandez of Manchester United](https://www.tynetime.com/wp-content/uploads/2012/01/Steven-Taylor-Newcastle-United.jpg "Steven-Taylor-Newcastle-United")
 
 #### Taylor - His absence at centre back saw Newcastle United lose points
 

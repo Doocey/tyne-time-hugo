@@ -50,7 +50,7 @@ tags:
   - Wigan Athletic
 
 ---
-![Gervinho celebrates scoring for Lille during a Ligue 1 game ](http://www.tynetime.com/wp-content/uploads/2011/06/Gervinho.jpg "Gervinho")
+![Gervinho celebrates scoring for Lille during a Ligue 1 game ](https://www.tynetime.com/wp-content/uploads/2011/06/Gervinho.jpg "Gervinho")
 
 #### Gervinho - Wouldn't be too surprised if he doesn't arrive on Tyneside
 
@@ -97,4 +97,4 @@ What do you guys think?
 Comments welcome as always 🙂
 
  [1]: https://twitter.com/TyneTime
- [2]: http://www.tynetime.com/2011/02/14/liverpool-will-undoubtedly-venture-in-for-jose-enrique-in-the-summer/
+ [2]: https://www.tynetime.com/2011/02/14/liverpool-will-undoubtedly-venture-in-for-jose-enrique-in-the-summer/

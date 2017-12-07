@@ -24,7 +24,7 @@ tags:
   - Sammy Ameobi
 
 ---
-![Sammy Ameobi takes on Karl Henry of QPR](http://www.tynetime.com/wp-content/uploads/2015/03/Sammy-Ameobi-Newcastle-QPR.jpg)
+![Sammy Ameobi takes on Karl Henry of QPR](https://www.tynetime.com/wp-content/uploads/2015/03/Sammy-Ameobi-Newcastle-QPR.jpg)
 
 Ameobi - Will find out whether he has merited a new contract at St. James' in May.
 

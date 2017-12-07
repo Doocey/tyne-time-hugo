@@ -21,7 +21,7 @@ tags:
   - Tyne Time
 
 ---
-![Cheick Tioté in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/01/Cheick-Tiote-Newcastle-United-2014.jpg "Tioté - Performances of late have reminded NUFC fans of the Cheick we grew used to")
+![Cheick Tioté in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/01/Cheick-Tiote-Newcastle-United-2014.jpg "Tioté - Performances of late have reminded NUFC fans of the Cheick we grew used to")
 
 Cheick Tioté is one of a handful of Newcastle United players that have really turned on the style this season. Mike Williamson resembles an established Premier League defender nowadays while Vurnon Anita has fast become one of Newcastle's most important players. Cast your mind back to last season and Cheick Tioté was an infuriating player to watch. Actually, turn your thoughts to the first few games of the season and Tioté looked out of his depth in England's top division. I remember his performance away to Everton where Alan Pardew's side suffered a 2-3 defeat after going three behind early on — Tioté putting in arguably his worst ever performance for Newcastle. Thing didn't look too good for the Ivorian, but in the space of five months, the powerful defensive midfielder has flown through the gears and is performing brilliantly of late. His wrongly disallowed screamer  against Manchester City a few weeks ago reminded fans of his goal against Arsenal in the historic 4-4 draw, but more importantly, it reminded us all of the _real_ Cheick Tioté that bossed the midfield back in 2010.
 

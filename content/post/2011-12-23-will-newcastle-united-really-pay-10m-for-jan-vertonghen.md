@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Jan Vertonghen in action for Ajax during a league match](http://www.tynetime.com/wp-content/uploads/2011/12/Jan-Vertonghen.jpg "Jan-Vertonghen")
+![Jan Vertonghen in action for Ajax during a league match](https://www.tynetime.com/wp-content/uploads/2011/12/Jan-Vertonghen.jpg "Jan-Vertonghen")
 
 #### Vertonghen - Carr and NUFC scouting team have been watching for some time
 

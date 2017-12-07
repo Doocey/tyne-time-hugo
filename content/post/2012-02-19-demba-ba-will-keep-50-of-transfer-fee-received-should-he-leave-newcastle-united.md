@@ -36,7 +36,7 @@ tags:
   - West Ham United
 
 ---
-![Demba Ba after completing his hattrick against Blackburn Rovers](http://www.tynetime.com/wp-content/uploads/2012/02/Demba-Ba-Newcastle-United.jpg "Demba-Ba-Newcastle-United")
+![Demba Ba after completing his hattrick against Blackburn Rovers](https://www.tynetime.com/wp-content/uploads/2012/02/Demba-Ba-Newcastle-United.jpg "Demba-Ba-Newcastle-United")
 
 #### Ba - Has quite a peculiar contract and a slightly worrying one for NUFC
 

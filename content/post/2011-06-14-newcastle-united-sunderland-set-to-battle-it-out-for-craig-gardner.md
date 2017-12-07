@@ -44,7 +44,7 @@ tags:
   - Wigan Athletic
 
 ---
-![Craig Gardner celebrates after scoring for Birmingham City](http://www.tynetime.com/wp-content/uploads/2011/06/Craig-Gardner-Birmingham-City.jpg "Craig-Gardner-Birmingham-City")
+![Craig Gardner celebrates after scoring for Birmingham City](https://www.tynetime.com/wp-content/uploads/2011/06/Craig-Gardner-Birmingham-City.jpg "Craig-Gardner-Birmingham-City")
 
 #### Gardner - In high demand after Birmingham's drop from the Premier League
 

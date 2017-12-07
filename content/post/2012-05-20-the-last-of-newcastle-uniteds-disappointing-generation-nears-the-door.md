@@ -31,7 +31,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Smith tells the team what tactic they should play](http://www.tynetime.com/wp-content/uploads/2012/05/Alan-Smith-Newcastle-2012.jpg "Alan-Smith-Newcastle-2012")
+![Alan Smith tells the team what tactic they should play](https://www.tynetime.com/wp-content/uploads/2012/05/Alan-Smith-Newcastle-2012.jpg "Alan-Smith-Newcastle-2012")
   
 #### Smith - An extremely disappointing signing for NUFC to say the very least
 

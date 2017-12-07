@@ -32,7 +32,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Vurnon Anita in action for Newcastle United](http://www.tynetime.com/wp-content/uploads/2013/01/Vurnon-Anita-Newcastle-United.jpg "Anita - Likely to miss Everton encounter after suffering severe ankle bruising")
+![Vurnon Anita in action for Newcastle United](https://www.tynetime.com/wp-content/uploads/2013/01/Vurnon-Anita-Newcastle-United.jpg "Anita - Likely to miss Everton encounter after suffering severe ankle bruising")
 
 First and foremost, a very Happy New Year to all of you, let's hope it proves a fruitful one.
 
@@ -54,9 +54,9 @@ I think the rest we've had will suffice, and the lads should be able to defeat t
 
 The question is, how will we line-up? Below is how I think we'll shape up at some stage of the game, whether or not that will be our starting structure or not we'll have to wait and see.
 
-![NUFC vs EFC Line-Ups](http://www.tynetime.com/wp-content/uploads/2013/01/Newcastle-United-vs-Everton.jpg)
+![NUFC vs EFC Line-Ups](https://www.tynetime.com/wp-content/uploads/2013/01/Newcastle-United-vs-Everton.jpg)
 
-As you might have noticed, my last article on the site [highlighted why we can't allow Sylvain Marveaux](http://www.tynetime.com/2012/12/19/newcastle-united-cant-allow-this-frenchman-to-leave-as-part-of-remy-deal/) to leave as part of any deal for Loic Remy. The article was written on the 19th of December, before our Christmas fixtures. Hopefully a lot of you will have seen precisely why he can't leave. He has brilliant vision, a neat pass, and the ability to crack defences open at will. Look at him away at Arsenal, a goal and a phenomenal assist with the outside of his left-foot for Ba's equaliser.
+As you might have noticed, my last article on the site [highlighted why we can't allow Sylvain Marveaux](https://www.tynetime.com/2012/12/19/newcastle-united-cant-allow-this-frenchman-to-leave-as-part-of-remy-deal/) to leave as part of any deal for Loic Remy. The article was written on the 19th of December, before our Christmas fixtures. Hopefully a lot of you will have seen precisely why he can't leave. He has brilliant vision, a neat pass, and the ability to crack defences open at will. Look at him away at Arsenal, a goal and a phenomenal assist with the outside of his left-foot for Ba's equaliser.
 
 Above, is where I think we will see Marveaux drift as the game progresses. In a more central position he has the ability to dictate the pace of a game and spearhead attacks. With Cheick and Gael behind him cleaning up, it is more than a platform to secure an important three points.
 

@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Papiss Cissé celebrates after scoring for Newcastle United against Norwich](http://www.tynetime.com/wp-content/uploads/2012/09/Papiss_Cisse-Norwich.jpg "Papiss_Cisse-Norwich")
+![Papiss Cissé celebrates after scoring for Newcastle United against Norwich](https://www.tynetime.com/wp-content/uploads/2012/09/Papiss_Cisse-Norwich.jpg "Papiss_Cisse-Norwich")
 
 #### Cissé - All eyes on Papiss after a phenomenal first half season in the EPL
 
@@ -42,7 +42,7 @@ The start of the 2012/13 season was always going to spring some questions. Ciss�
 
 Last season with both Ba and Cissé in the side, we played a formation similar to this:
 
-![NUFC Line Up](http://www.tynetime.com/wp-content/uploads/2012/09/NUFC-2011-12-Line-Up.jpg "NUFC-2011-12-Line-Up")
+![NUFC Line Up](https://www.tynetime.com/wp-content/uploads/2012/09/NUFC-2011-12-Line-Up.jpg "NUFC-2011-12-Line-Up")
 
 Gutierrez and Ba we were extremely dangerous up the left, while at the same time Jonas offered a defensive quality to his game by often helping out a settling Davide Santon at LB. With Benny down the wing troubling any opposition LB and with the ability to feed a potent Papiss - teams didn't fancy lining out against us, especially at St.James' Park.
 

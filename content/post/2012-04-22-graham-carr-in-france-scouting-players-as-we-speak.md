@@ -34,7 +34,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Mathieu Debuchy in action for Lille](http://www.tynetime.com/wp-content/uploads/2012/04/Mathieu-Debuchy-Lille.jpg "Mathieu-Debuchy-Lille")
+![Mathieu Debuchy in action for Lille](https://www.tynetime.com/wp-content/uploads/2012/04/Mathieu-Debuchy-Lille.jpg "Mathieu-Debuchy-Lille")
 
 #### Debuchy - On a long list of players in France that NUFC are interested
 

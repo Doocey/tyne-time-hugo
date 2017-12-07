@@ -25,7 +25,7 @@ tags:
   - Tyne Time
 
 ---
-![Dele Alli in action for MK Dons](http://www.tynetime.com/wp-content/uploads/2015/01/Dele-Alli-Mk-Dons.jpg "Alli - Looks set for a move to St. James' Park after club reportedly agrees £5m deal with MK Dons")
+![Dele Alli in action for MK Dons](https://www.tynetime.com/wp-content/uploads/2015/01/Dele-Alli-Mk-Dons.jpg "Alli - Looks set for a move to St. James' Park after club reportedly agrees £5m deal with MK Dons")
 
 Dele Alli looks set to become a Newcastle United player before the close of the transfer window, despite late efforts from Aston Villa to hijack the deal. It has been well reported throughout the past fortnight that NUFC have been keeping tabs on the highly rated 18 year-old midfielder, and various media outlets claim that the sides agreed a deal over the past day. The fee in question is expected to be £5m, with the Milton Keynes-born prospect expected to stay at his current club until the end of the season as MK Dons attempt a promotion push. However, John Percy of the _Telegraph_ has broken news in the past hour that Paul Lambert's Aston Villa are eager to hijack Newcastle's deal and offer Alli a move to Villa Park. It is claimed that Villa would also be willing to let Alli remain with the Dons until the end of the current campaign, however the fee in question of £2m up-front seems considerably lower than the Magpies' offer.
 

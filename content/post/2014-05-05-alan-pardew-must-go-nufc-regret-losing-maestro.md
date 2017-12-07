@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa is congratulated by Newcastle manager Alan Pardew](http://www.tynetime.com/wp-content/uploads/2014/05/Hatem-Ben-Arfa-Alan-Pardew.jpg "Benny - Should not be forced out of Newcastle to cater for Alan Pardew's needs")
+![Hatem Ben Arfa is congratulated by Newcastle manager Alan Pardew](https://www.tynetime.com/wp-content/uploads/2014/05/Hatem-Ben-Arfa-Alan-Pardew.jpg "Benny - Should not be forced out of Newcastle to cater for Alan Pardew's needs")
 
 It is true what they say: players have too much power in the modern game. Extravagant wages, greedy agents, and a sense of invincibility are aspects that one can attribute to many Premier League stars of the 21st century. Often one sees a manager sacked because a number of his players do not feel he is the correct manager for the club. David Moyes' recent departure from Manchester United was just one example of the majority of his squad failing to pull their weight throughout he season in order to have the Scot fired from his post. It's a sad state of football nowadays, but then again, there are always exceptions. The debacle between Newcastle manager and our French forward Hatem Ben Arfa is a prime example of where there needs to be a reasonable compromise for the greater of this magnificent football club. After a dire second half of a season  in which Ben Arfa rarely featured, Newcastle limped to a 3-0 victory against bottom of the table Cardiff City to mark their first victory since March 22nd.
 

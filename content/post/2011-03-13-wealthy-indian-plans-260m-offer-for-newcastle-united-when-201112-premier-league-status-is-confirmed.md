@@ -39,7 +39,7 @@ tags:
   - Tyne Time
 
 ---
-![Newcastle United owner Mike Ashley looks on from the stands](http://www.tynetime.com/wp-content/uploads/2011/03/Mike_Ashley_NewcastleUnited.jpg "Ashley - Would he sell Newcastle United even with a £260m offer?")
+![Newcastle United owner Mike Ashley looks on from the stands](https://www.tynetime.com/wp-content/uploads/2011/03/Mike_Ashley_NewcastleUnited.jpg "Ashley - Would he sell Newcastle United even with a £260m offer?")
 
 Pull the other one one might say. However, news is news. According for the Sunday Mirror; Newcastle United could be owned by a wealthy Indian in the summer, should they confirm Premier League safety. A £260m figure is being touted as the price tag Anil Ambani is willing to offer Mike, but the real question is: would the <del>smart-minded</del> Englishman accept that bundle of notes?  Again, take this with a rather large pinch of salt because I expect it to be utter tosh, per usual. With that said, the article in which covers it isn't one paragraph. It's quite a lengthy one which you don't often see associated with dramatic headlines in football.
 

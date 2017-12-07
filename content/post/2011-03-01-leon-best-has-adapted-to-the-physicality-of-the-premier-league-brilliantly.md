@@ -46,7 +46,7 @@ tags:
   - Tyne Time
 
 ---
-![Leon Best celebrates with Peter Lovenkrands after putting Newcastle two up away to Birmingham.](http://www.tynetime.com/wp-content/uploads/2011/03/Leon_Best_Birmingham.jpg "Leon_Best_Peter_Lovenkrands")
+![Leon Best celebrates with Peter Lovenkrands after putting Newcastle two up away to Birmingham.](https://www.tynetime.com/wp-content/uploads/2011/03/Leon_Best_Birmingham.jpg "Leon_Best_Peter_Lovenkrands")
 
 #### Best - Has thrived since Andy Carroll's departure to Liverpool in January
 

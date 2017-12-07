@@ -59,7 +59,7 @@ tags:
   - Wear-Tyne Derby
 
 ---
-<img class="size-full wp-image-2506" title="Joey-Barton-Shola-Ameobi" src="http://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006.jpg" alt="Joey Barton and Shola Ameobi" width="460" height="276" srcset="http://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006.jpg 460w, http://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006-300x180.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
+<img class="size-full wp-image-2506" title="Joey-Barton-Shola-Ameobi" src="https://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006.jpg" alt="Joey Barton and Shola Ameobi" width="460" height="276" srcset="https://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006.jpg 460w, https://www.tynetime.com/wp-content/uploads/2011/01/Joey-Barton-and-Shola-Ameobi-006-300x180.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
 
 Ameobi - Can he extend his extremely good record in Tyne-Wear derbies at SOL?
 
@@ -77,7 +77,7 @@ NUFC fans are posing many questions; Will Wayne Routledge start? Will Joey Barto
 
 Only Alan Pardew and his backroom staff know the answer to this question but the team Tyne Time expects to line up tomorrow is as follows :
 
-![Newcastle United LineUp](http://www.tynetime.com/wp-content/uploads/2011/01/NewcastleUNited-LineUp.png "NewcastleUnited-LineUp")
+![Newcastle United LineUp](https://www.tynetime.com/wp-content/uploads/2011/01/NewcastleUNited-LineUp.png "NewcastleUnited-LineUp")
 
 We really do not prefer **Alan Smith** playing in centre midfield, but I'm not sure Danny Guthrie or Dan Gosling are really fit enough to take on a tenacious derby just yet. We'd love to see Barton on the RW whipping balls into Ameobi, who can head extremely well, whereas Nolan can play it on the deck into Lovenkrands and let him do his business.
 

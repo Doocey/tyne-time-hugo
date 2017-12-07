@@ -31,7 +31,7 @@ tags:
   - Tyne Time
 
 ---
-![Alan Pardew during a game in charge of NUFC](http://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Knows that players haven't performed to their ability this season")
+![Alan Pardew during a game in charge of NUFC](https://www.tynetime.com/wp-content/uploads/2012/12/Alan-Pardew-NUFC-SJP.jpg "Pardew - Knows that players haven't performed to their ability this season")
 
 Much can be said about Newcastle United's current form. Uninspiring, insufficient, immature: the list goes on. However, while some people may argue that we are looking like a team destined for relegation, others will argue that such a lamentable lapse in form is normal, and was a matter of time before we endured a period of defeats. You see, it's easy to get used to winning. Losing, not so much. Last season Newcastle United went on a shuddering streak of form, beating almost everyone in front of them at certain stages of the season. Manchester United , Chelsea, Liverpool, Everton, and of course Sunderland all fell to the wrath of last season's beast, but unfortunately such a beast seems to be hibernating at the moment. West Ham, Swansea, Stoke City, Fulham, and Manchester City have recorded wins against us in the last month or so, and the Premier League table bears some resemblance to that of 2009, a season which needs no profiling.
 

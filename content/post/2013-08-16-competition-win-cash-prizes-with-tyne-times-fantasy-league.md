@@ -17,7 +17,7 @@ tags:
   - Premier League Fantasy League
 
 ---
-![Premier League Fantasy League](http://www.tynetime.com/wp-content/uploads/2013/08/Tyne-Time-Premier-League-Fantasy-League.jpg "Prizes - Three cash prizes up for grabs in this year's Fantasy League")
+![Premier League Fantasy League](https://www.tynetime.com/wp-content/uploads/2013/08/Tyne-Time-Premier-League-Fantasy-League.jpg "Prizes - Three cash prizes up for grabs in this year's Fantasy League")
 
 The general mood among Newcastle United fans is one of pessimism, anxiety, and anger. The failure to add any solid signings to the squad makes Joe Kinnear's appointment as director of football look like a farce. Mind you, it would not be the first time one labelled it exactly that. One day we're after Bafetimbi Gomis, the next Kinnear is watching Belgium take on France in an international friendly. More importantly, besides an injured Loic Remy, we will head to Manchester City for our first game of the season with smaller squad than we finished last season with. James Perch, Steve Harper, Adam Campbell have all went their separate ways. Admittedly it's tough to remain optimistic at this moment in time, so that's  why I'm announcing _yet another_ competition for my loyal readers. Details are below.
 

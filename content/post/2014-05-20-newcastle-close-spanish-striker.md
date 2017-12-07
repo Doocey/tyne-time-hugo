@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Ayoze Perez salutes the Tenerife supporters](http://www.tynetime.com/wp-content/uploads/2014/05/Ayoze-Pérez-Tenerife.jpg "Perez - Rumoured to have signed a 4 year deal on Tyneside this afternoon")
+![Ayoze Perez salutes the Tenerife supporters](https://www.tynetime.com/wp-content/uploads/2014/05/Ayoze-Pérez-Tenerife.jpg "Perez - Rumoured to have signed a 4 year deal on Tyneside this afternoon")
 
 Newcastle United are reportedly close to completing a deal for young Spanish striker Ayoze Perez from CD Tenerife for a fee of €2m. The 20 year-old was rumoured to have been on Tyneside the last couple of days finalising a lengthy contract at St. James' Park as NUFC look to kick-start their summer recruitment nice and early. I must say, I had not even heard of his name before this week so I cannot comment on what he might bring to the Newcastle setup, but in true Dennis Wise style, I watched his YouTube compilation clips and although he plays at a questionable level, some of his finishing was top notch — indeed very impressive if I may say so myself. While much of the talk about transfers has included names such as Rémy Cabella, Andros Townsend, Dmitri Payet, and even Mark Noble, it seems that Graham Carr is once again trying to unearth  some promising gems, this time from sunny Spain.
 

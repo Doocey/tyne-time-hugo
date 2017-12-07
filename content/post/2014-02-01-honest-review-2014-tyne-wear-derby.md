@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabio Borini celebrates scoring against Newcastle United](http://www.tynetime.com/wp-content/uploads/2014/02/Fabio-Borini-Newcastle.jpg "Sunderland - Ran out deserved winners in a one-sided affair at St. James' Park")
+![Fabio Borini celebrates scoring against Newcastle United](https://www.tynetime.com/wp-content/uploads/2014/02/Fabio-Borini-Newcastle.jpg "Sunderland - Ran out deserved winners in a one-sided affair at St. James' Park")
 
 Awful. Atrocious. Abysmal. Appalling. Just four words to describe Newcastle United's performance against Sunderland in the Tyne-Wear at St.James' Park today. Whatever about the 'once-off' showing the lads put in against the very same outfit a year ago - today was on par, if not worse. I can only speak for myself when I say there was a little 'something' missing from the build-up to the game, perhaps the disappointing transfer window dwindled the levels of optimism. Well if that hadn't, the first half hour most certainly did. You know, it looked like Pardew had fired up his starting eleven a couple of minutes in. We held the ball, and looked to shock Sunderland with an early goal. However, the visitors soon found their feet and began to pass the ball around, using the full width of the pitch.  Their new signing, Liam Bridcutt, integral to their early endeavours sitting just in front of Sunderland's back four. 
 

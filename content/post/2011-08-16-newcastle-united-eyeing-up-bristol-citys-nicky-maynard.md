@@ -48,7 +48,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Bristol City's Nicky Maynard scores a wonder goal against Queens Park Rangers](http://www.tynetime.com/wp-content/uploads/2011/08/Bristol-Citys-Nicky-Maynard.jpg "Bristol-Citys-Nicky-Maynard")
+![Bristol City's Nicky Maynard scores a wonder goal against Queens Park Rangers](https://www.tynetime.com/wp-content/uploads/2011/08/Bristol-Citys-Nicky-Maynard.jpg "Bristol-Citys-Nicky-Maynard")
 
 #### Maynard - May be a target for Alan Pardew if other forwards don't arrive
 

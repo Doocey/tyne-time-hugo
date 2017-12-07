@@ -19,7 +19,7 @@ tags:
   - World Cup 2014
 
 ---
-![Tyne Time Competition 2014](http://www.tynetime.com/wp-content/uploads/2014/06/Tyne-Time-Panini-World-Cup.jpg "Rio - Tyne Time has some great prizes to hand out to its readers in time for the WC")
+![Tyne Time Competition 2014](https://www.tynetime.com/wp-content/uploads/2014/06/Tyne-Time-Panini-World-Cup.jpg "Rio - Tyne Time has some great prizes to hand out to its readers in time for the WC")
 
 With the ever-fascinating World Cup approaching in just over a fortnight, we here at Tyne Time headquarters thought that our readers deserve a little prize in order to equip them for the upcoming tournament. Quite a number of Newcastle United players will make the trek to Brazil to compete for their nations and with that in mind, it is fair to say that Magpies' eyes will be firmly fixed on Rio when things kick off on June 12th. As many of you will know from reading the site on a consistent basis, we love to give back to readers whether it be digital cameras, magazine subscriptions, football jerseys, or indeed hard, old fashioned cash like we sent to our Fantasy League winner from Uganda. This time, we have teamed up with Panini to offer _not one_ but three lucky readers the opportunity to mark their World Cup in style with a ton of free Official 2014 FIFA World Cup™ Stickers.
 

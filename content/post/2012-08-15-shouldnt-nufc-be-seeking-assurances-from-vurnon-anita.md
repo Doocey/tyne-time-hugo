@@ -29,7 +29,7 @@ tags:
   - Vurnon Anita
 
 ---
-![Vurnon Anita in action for Ajax in the Dutch league](http://www.tynetime.com/wp-content/uploads/2012/08/Vurnon-Anita-Ajax.jpg "Vurnon-Anita-Ajax")
+![Vurnon Anita in action for Ajax in the Dutch league](https://www.tynetime.com/wp-content/uploads/2012/08/Vurnon-Anita-Ajax.jpg "Vurnon-Anita-Ajax")
 
 #### Anita - Wants assurances before he cuts ties with a 13 years affair at Ajax
 

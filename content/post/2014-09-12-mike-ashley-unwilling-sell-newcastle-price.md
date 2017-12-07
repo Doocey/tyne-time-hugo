@@ -19,7 +19,7 @@ tags:
   - Tyne Time
 
 ---
-![Mike Ashley takes in a Newcastle United Premier League encounter](http://www.tynetime.com/wp-content/uploads/2014/09/Mike-Ashley-Newcastle-United.jpg "Ashley - Has no desire to sell after claims of the club being up for sale in a recent publication in the Telegraph")
+![Mike Ashley takes in a Newcastle United Premier League encounter](https://www.tynetime.com/wp-content/uploads/2014/09/Mike-Ashley-Newcastle-United.jpg "Ashley - Has no desire to sell after claims of the club being up for sale in a recent publication in the Telegraph")
 
 Newcastle United have today released a statement on behalf of Mike Ashley dismissing a recent claim by the _Telegraph_ that the English billionaire is looking to sell the club. In a relatively brief statement released on the club's official website, the publication informed the public of a banning order imposed upon the _Telegraph_ newspaper, and indeed the author behind the articles, Luke Edwards. Mr. Ashley quite clearly did not take well to the recent releases in the age-old newspaper and has decided that Edwards and all staff at the _Telegraph_ are no longer allowed in the grounds of St. James' Park. As many Newcastle United fans will know, the club's hierarchy and decision maker (Ashley) has no hesitation in banning media organizations as the Chronicle found out a while back.
 

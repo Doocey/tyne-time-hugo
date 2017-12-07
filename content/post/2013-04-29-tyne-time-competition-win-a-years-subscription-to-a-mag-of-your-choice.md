@@ -19,7 +19,7 @@ tags:
   - Tyne Time competition
 
 ---
-![Tyne Time](http://www.tynetime.com/wp-content/uploads/2013/04/St-James-Park-NUFC.jpg "Competition - Tyne Time have teamed with the leading online news stand")
+![Tyne Time](https://www.tynetime.com/wp-content/uploads/2013/04/St-James-Park-NUFC.jpg "Competition - Tyne Time have teamed with the leading online news stand")
 
 There isn't a huge amount of good news surrounding Newcastle United at the moment following recent Premier League losses, but we here at TyneTime have teamed with Zinio - the leading online news stand, to give 9 lucky readers a year-long digital subscription to their chosen sports magazine. All you have to do to enter the competition is fill out the correct answer to the question below and click send. Make sure to insert **a correct email address** as we will be using your  address to allocate the year's free subscription. I also received a free subscription, and I must say I am looking forward to reading some of these well-respected mags.
 

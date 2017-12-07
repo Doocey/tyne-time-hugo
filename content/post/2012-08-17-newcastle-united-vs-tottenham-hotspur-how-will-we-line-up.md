@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Shola Ameobi rifles home Newcastle United's equaliser against Spurs](http://www.tynetime.com/wp-content/uploads/2012/08/Shola-Ameobi-NUFC-Spurs.jpg "Shola-Ameobi-NUFC-Spurs")
+![Shola Ameobi rifles home Newcastle United's equaliser against Spurs](https://www.tynetime.com/wp-content/uploads/2012/08/Shola-Ameobi-NUFC-Spurs.jpg "Shola-Ameobi-NUFC-Spurs")
 
 #### Ameobi - Likely to lead the line against Andre Villas Boas' men tomorrow evening
 
@@ -48,7 +48,7 @@ Indeed, I would expect just Defoe to start up top, with Bale and Lennon/Sigurðs
 
 With all considered, I have compiled a NUFC Starting XI that **I think could well start** tomorrows game. My selections could be way off, but only time will tell.
 
-[![Newcastle United vs. Tottenham Hotspurs](http://www.tynetime.com/wp-content/uploads/2012/08/NUFC-Line-Up-Spurs.jpg "NUFC-Line-Up-Spurs")][1]
+[![Newcastle United vs. Tottenham Hotspurs](https://www.tynetime.com/wp-content/uploads/2012/08/NUFC-Line-Up-Spurs.jpg "NUFC-Line-Up-Spurs")][1]
 
 I honestly don't think Cissé will make it, and I certainly hope he won't be risked unless he is 100%.
 
@@ -66,4 +66,4 @@ Ameobi a couple of minutes from time to even things up at 1-1 would suit me fine
 
 Comments welcome as always. Who do you think will start in midfield, or up front for us at 17.30?
 
- [1]: http://www.tynetime.com/wp-content/uploads/2012/08/NUFC-Line-Up-Spurs.jpg
+ [1]: https://www.tynetime.com/wp-content/uploads/2012/08/NUFC-Line-Up-Spurs.jpg

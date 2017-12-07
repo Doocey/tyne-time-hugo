@@ -18,7 +18,7 @@ tags:
   - Tyne Time
 
 ---
-![Papiss Cisse in action against Crystal Palace](http://www.tynetime.com/wp-content/uploads/2014/08/Papiss-Cisse-NUFC-Crystal-Palace.jpg "isse - Currently recovering from a nasty knee injury suffered last season")
+![Papiss Cisse in action against Crystal Palace](https://www.tynetime.com/wp-content/uploads/2014/08/Papiss-Cisse-NUFC-Crystal-Palace.jpg "isse - Currently recovering from a nasty knee injury suffered last season")
 
 Few football fans will ever forget Papiss Cissé's incredible effort against Chelsea at Stamford Bridge during the 2011/12 Premier League season. The Senegalese international rifled an almost physics-defying 'banana effort' over Petr Cech's head and into the back of the net to complete one of the best Premier League braces I have seen in quite some time. After that season came to a close, the real Cissé seemed to disappear. Following Newcastle United's exit from the Europa League to Benfica at the Quarter-finals stage, Papiss failed to find any real form and the club's season suffered from then on - narrowly avoiding relegation. The 2013/14 season started brightly with NUFC coming within touching distance of the Champions League places at Christmas, however, this form was purely down to the on-loan Loic Rémy, and a ever-present classy Yohan Cabaye.
 

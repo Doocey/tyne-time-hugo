@@ -36,7 +36,7 @@ tags:
   - Tyne Time
 
 ---
-![Mapou Yanga-Mbiwa in action for Montpellier in Ligue 1](http://www.tynetime.com/wp-content/uploads/2011/12/Yanga-Mbiwa-Montpellier.jpg "Yanga-Mbiwa-Montpellier")
+![Mapou Yanga-Mbiwa in action for Montpellier in Ligue 1](https://www.tynetime.com/wp-content/uploads/2011/12/Yanga-Mbiwa-Montpellier.jpg "Yanga-Mbiwa-Montpellier")
 
 #### Mbiwa - £5m rated defender could arrive on Tyneside in January with Maiga
 

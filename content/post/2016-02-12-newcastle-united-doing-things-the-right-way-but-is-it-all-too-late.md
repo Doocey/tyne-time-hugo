@@ -28,7 +28,7 @@ tags:
   - Steven Taylor
   - Tyne Time
 ---
-![Georginio Wijnaldum celebrates scoring for Newcastle United.](http://www.tynetime.com/wp-content/uploads/2016/02/Georginio-Wijnaldum-Newcastle-United-e1455296778744.jpg)
+![Georginio Wijnaldum celebrates scoring for Newcastle United.](https://www.tynetime.com/wp-content/uploads/2016/02/Georginio-Wijnaldum-Newcastle-United-e1455296778744.jpg)
 
 The close of the January transfer window marked a reasonably successful recruitment drive from Newcastle United. They managed to secure the signings of raw British talent in the form of Jonjo Shelvey and Andros Townsend, while also adding Champions League pedigree to their ranks with the acquisition of Roma's Seydou Doumbia on loan until the end of the season. Yet, the murmurs from St. James' Park suggest that there was slight disappointment in the failure to land West Bromwich Albion's Saido Berahino. NUFC lodged a record £23m bid in an attempt to secure the 21 year-old's signature, but WBA chairman Jeremy Peace held firm and rejected all advances for the club's most valuable asset. The bid - which would have broken Newcastle's transfer record - marked a new turn of approach from the club's boardroom. It also signalled the acceptance at club level that this wonderful football club is deep in a fight to save their Premier League status. For Mike Ashley, the threat of losing out the mega TV money that is set to be dished out at the end of the season was too great to gamble against.
 
@@ -38,13 +38,13 @@ Since being given the 'green light' to protect the club from relegation by any m
 
 When Steve arrived, there was an almost complete clear-out of backroom staff. McClaren brought in his own assistants, fitness coaches, goalkeeping coaches and all else. The remnants of Alan Pardew's era at NUFC were fully wiped clean when John Carver, Steve Stone were sacked, and Andy Woodman finally departed to link-up with AP at Crystal Palace. There wasn't much more McClaren could have asked for in terms of a shiny new setup, with a considerable warchest that needed spending.
 
-![Chancel Mbemba of Newcastle United](http://www.tynetime.com/wp-content/uploads/2016/02/Chancel-Mbemba-St-James-Park.jpg)
+![Chancel Mbemba of Newcastle United](https://www.tynetime.com/wp-content/uploads/2016/02/Chancel-Mbemba-St-James-Park.jpg)
 
 Born winners, and Champions League experienced players in the form of Aleksandar Mitrovic, Georginio Wijnaldum, Chancel Mbemba arrived in the summer while January has brought about the influx of 'English characters'. Andros Townsend - highly rated at Spurs despite his absence from the first team - brings a dynamism and directness that the club has needed since, well, they forced Hatem Ben Arfa to leave. Shelvey has impressive qualities to his game, but I'm still reserving judgement on him for now. It's worth noting how Swansea's form has picked up dramatically since he left the club. Jonjo has had two storming performances at St. James' Park, but the amount of space and time he was given by West Brom in the last fixture was asking for punishment. On the road, Shelvey has been very poor - he needs time on the ball, and space to pass into.
 
 Rolando Aarons rearing his head in the first team, albeit at left-back, is good to see. Hopefully his injuries have been managed correctly and he can begin to put his mark on the team, preferably as an impact winger late on in games. Steven Taylor's return is a welcome addition given the injuries, and he'll also be vocal on the pitch. He might not be a fantastic defender, but he will give 100% and demand effort from around him.
 
-![Aleksandar Mitrovic celebrates a goal](http://www.tynetime.com/wp-content/uploads/2016/02/Mitrovic-Newcastle.jpg)
+![Aleksandar Mitrovic celebrates a goal](https://www.tynetime.com/wp-content/uploads/2016/02/Mitrovic-Newcastle.jpg)
 
 There is a sense of this football club learning how to do things correctly. The recruitment system and their contacts are delivering top-class players to the club. People will point to Florian Thauvin as a flop, but his signature was more about him being available with buckets of potential rather than his form at the time. I hope he has a future at the club, but we should have spent that £12m on defensive targets as everyone will allude to.
 
@@ -56,4 +56,4 @@ Maybe I'm fooling myself, but I get the feeling that NUFC as a whole are lookin
 
 Comments welcome as always folks.
 
- [1]: http://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/
+ [1]: https://www.tynetime.com/2015/06/22/lee-charnley-wrong-man-in-the-wrong-position-at-the-wrong-time/

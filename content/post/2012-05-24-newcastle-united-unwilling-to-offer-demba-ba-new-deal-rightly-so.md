@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Demba Ba trains with Newcastle United](http://www.tynetime.com/wp-content/uploads/2012/05/Demba-Ba-NUFC_2012.jpg "Demba-Ba-NUFC_2012")
+![Demba Ba trains with Newcastle United](https://www.tynetime.com/wp-content/uploads/2012/05/Demba-Ba-NUFC_2012.jpg "Demba-Ba-NUFC_2012")
 
 #### Ba - Could be eyeing up a move away from St.James' Park
 

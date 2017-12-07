@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Danny Guthrie in action for Newcastle United at St.James' Park in 2011](http://www.tynetime.com/wp-content/uploads/2011/11/Danny-Guthrie-Newcastle-United.jpg "Danny-Guthrie-Newcastle-United")
+![Danny Guthrie in action for Newcastle United at St.James' Park in 2011](https://www.tynetime.com/wp-content/uploads/2011/11/Danny-Guthrie-Newcastle-United.jpg "Danny-Guthrie-Newcastle-United")
 
 #### Guthrie - Wants first team football on a consistent basis; not happening at NUFC
 
