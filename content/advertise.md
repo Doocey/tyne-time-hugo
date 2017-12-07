@@ -14,4 +14,4 @@ The aim of **Tyne Time** has always been to promote a clean interface for Newca
 
 If you feel you have a service/offer that would be of great interest to my readers then by all means get in touch. Press releases and other promotional material are not welcome.
 
-![Tyne Time Advertising Email Address](http://www.tynetime.com/wp-content/uploads/2009/11/advertisingemail.png "advertisingemail")
+![Tyne Time Advertising Email Address](https://www.tynetime.com/wp-content/uploads/2009/11/advertisingemail.png "Tyne Time advertising email")

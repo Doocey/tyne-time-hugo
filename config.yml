@@ -1,6 +1,7 @@
 baseURL: "/"
 languageCode: "en-GB"
 theme: "tyne-time-theme"
+googleAnalytics: "UA-7993164-1"
 
 social:
   GooglePlus: "TyneTime"

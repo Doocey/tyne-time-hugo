@@ -14,4 +14,4 @@ I am also open to freelance work or other writing opportunities so if you repres
 
 Doocey.
 
-![Contact Kevin Doocey @ Tyne Time.](http://www.tynetime.com/wp-content/uploads/2009/08/Contact-TyneTime-NUFC.png)
+![Contact Kevin Doocey @ Tyne Time.](https://www.tynetime.com/wp-content/uploads/2009/08/Contact-TyneTime-NUFC.png)
