@@ -16,8 +16,6 @@ tags:
   - Coca Cola Championship
   - Fabricio Coloccini
   - Football news
-  - Free Bets
-  - Free Betting Tips
   - Geordie News
   - "Jamie O'Hara"
   - Jonas Gutierrez
@@ -35,7 +33,6 @@ tags:
   - Premier League
   - Robbie Keane
   - South Africa 2010
-  - Sports Betting News
   - Steven Taylor
   - The Sports Geek
   - Toon News

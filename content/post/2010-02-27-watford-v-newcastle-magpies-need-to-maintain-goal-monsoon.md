@@ -24,7 +24,6 @@ tags:
   - NUFC Blog
   - Toon News
   - Tyne Time
-  - William Hill betting
 
 ---
 ![Andy Carroll](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/7/1260199353694/Andy-Carroll-001.jpg "Carroll - Lets hope he grabs a few goals tomorrow in what is a huge game")

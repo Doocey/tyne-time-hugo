@@ -1,10 +1,10 @@
 ---
-title: Newcastle United close to completing deal for Mauricio Isla
-description: 'According to El Mercurio, Mauricio Isla will become Newcastle United's seventh signing of the summer for a fee in the region of £8m from Juventus.'
+title: "Newcastle United close to completing deal for Mauricio Isla"
+description: "According to El Mercurio, Mauricio Isla will become Newcastle United's seventh signing of the summer for a fee in the region of £8m from Juventus."
 author: Kevin Doocey
 type: post
 date: 2014-07-22T17:59:12+00:00
-excerpt: According to Chilean newspaper El Mercurio, Newcastle United have reached an agreement with Juventus over their Chilean full-back, Mauricio Isla. For many of you that watched the 2014 World Cup..
+excerpt: "According to Chilean newspaper El Mercurio, Newcastle United have reached an agreement with Juventus over their Chilean full-back, Mauricio Isla. For many of you that watched the 2014 World Cup.."
 url: /2014/07/22/newcastle-close-completing-deal-chilean-international/
 dsq_thread_id:
   - "2864776815"

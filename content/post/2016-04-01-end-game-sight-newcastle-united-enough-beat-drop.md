@@ -1,6 +1,6 @@
 ---
-title: End game is in sight – do Newcastle United have enough to beat the drop?
-description: 'It's crunch time in the Premier League and Newcastle United have 8 games to save their season. Tyne Time asks whether Benitez has enough time to do it.'
+title: "End game is in sight – do Newcastle United have enough to beat the drop?"
+description: "It's crunch time in the Premier League and Newcastle United have 8 games to save their season. Tyne Time asks whether Benitez has enough time to do it."
 author: Kevin Doocey
 type: post
 date: 2016-04-01T16:41:48+00:00
@@ -20,7 +20,6 @@ tags:
   - Premier League
   - Rafa Benitez
   - Tyne Time
-
 ---
 ![Gini Wijnaldum celebrates scoring his fourth goal against Norwich City](http://www.tynetime.com/wp-content/uploads/2016/04/Gini-Wijnaldum-Norwich.jpg "Gini Wijnaldum")
 

@@ -1,10 +1,10 @@
 ---
-title: Newcastle United should be keeping an eye on this English defender
-description: 'Tyne Time's Kevin Doocey gives his reasons why Newcastle United should be readying a summer swoop for Cardiff City defender Steven Caulker.'
+title: "Newcastle United should be keeping an eye on this English defender"
+description: "Tyne Time's Kevin Doocey gives his reasons why Newcastle United should be readying a summer swoop for Cardiff City defender Steven Caulker."
 author: Kevin Doocey
 type: post
 date: 2014-03-23T16:07:07+00:00
-excerpt: 'First things first, how good was it to see Papiss Cissé end his barren spell in front of goal with a fine header in stoppage time against Crystal Palace on Saturday? The #9 took his chance remarkably..'
+excerpt: "First things first, how good was it to see Papiss Cissé end his barren spell in front of goal with a fine header in stoppage time against Crystal Palace on Saturday? The #9 took his chance remarkably.."
 url: /2014/03/23/newcastle-united-keeping-eye-english-defender/
 dsq_thread_id:
   - "2491845445"

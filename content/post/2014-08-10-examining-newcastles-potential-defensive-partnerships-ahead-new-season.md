@@ -1,5 +1,5 @@
 ---
-title: Examining Newcastle’s potential defensive partnerships ahead of the new season
+title: "Examining Newcastle’s potential defensive partnerships ahead of the new season"
 author: Kevin Doocey
 type: post
 date: 2014-08-10T17:42:59+00:00

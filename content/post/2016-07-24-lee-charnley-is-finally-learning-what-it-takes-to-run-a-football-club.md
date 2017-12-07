@@ -1,9 +1,9 @@
 ---
-title: Lee Charnley is finally learning what it takes to run a football club
+title: "Lee Charnley is finally learning what it takes to run a football club"
 author: Kevin Doocey
 type: post
-date: 2016-07-24T14:34:12+00:00
-description: 'It may have come at the ultimate price in relegation, but Newcastle United's Managing Director Lee Charnley is finally learning how to run a football club.'
+date: "2016-07-24T14:34:12+00:00"
+description: "It may have come at the ultimate price in relegation, but Newcastle United's Managing Director Lee Charnley is finally learning how to run a football club."
 excerpt: "Lee Charnley is name most Newcastle United supports have come to know in recent years, and mostly for the wrong reasons. He has been labelled a 'puppet' for the regime under Mike Ashley as the 38 year-old sat through two relegations behind the scenes at St. James' Park.."
 url: /2016/07/24/lee-charnley-is-finally-learning-what-it-takes-to-run-a-football-club/
 dsq_thread_id:
@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Newcastle United News
 permalink: "/2016/07/24/lee-charnley-is-finally-learning-what-it-takes-to-run-a-football-club/"
-
 ---
+
 ![Lee Charnley and Mike Ashley look on during a Premier League game](http://www.tynetime.com/wp-content/uploads/2016/07/Lee-Charnley-NUFC-Championship.jpg "Charnley - Beginning to learn how to run a football club properly but at the cost of relegation")
 
 Lee Charnley is name most Newcastle United supporters have come to know in recent years, and mostly for the wrong reasons. He has been labelled a 'puppet' for the regime under Mike Ashley as the 38 year-old sat through two relegations behind the scenes at St. James' Park. Inexperienced and overloaded with responsibility, it was Lee Charnley who gave the thumbs up to appoint Steve McClaren in a predictably disastrous season, and he was also entrusted with the decision to either fire or stay loyal to McClaren in a key point of Newcastle's 2015/16 Premier League season - a decision, coupled with the former, which led to Newcastle's demise into the second tier of English football. Whilst having genuine fears for his job as Managing Director this summer, Ashley kept faith with Charnley and handed him the keys to Newcastle United Football Club. The former executive understudy is now the most senior decision maker at St. James' Park, with only the Ashley himself having more control.

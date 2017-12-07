@@ -1,6 +1,6 @@
 ---
-title: 'LIVE: Newcastle United v Crystal Palace – follow the action'
-description: 'Keep up to date will all the action from Newcastle United v Crystal Palace as John Carver attempts to inspire the Magpies to victory at St. James' Park.'
+title: "LIVE: Newcastle United v Crystal Palace – follow the action"
+description: "Keep up to date will all the action from Newcastle United v Crystal Palace as John Carver attempts to inspire the Magpies to victory at St. James' Park."
 author: Kevin Doocey
 type: post
 date: 2014-03-22T14:51:44+00:00

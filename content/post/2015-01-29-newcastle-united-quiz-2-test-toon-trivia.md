@@ -1,6 +1,6 @@
 ---
-title: 'Newcastle United Quiz #2: Test your Toon Trivia!'
-description: 'Carrying on from last week, Tyne Time offers fans the chance to prove their merit with a straight-forward 10 question Newcastle United quiz on their club.'
+title: "Newcastle United Quiz #2: Test your Toon Trivia!"
+description: "Carrying on from last week, Tyne Time offers fans the chance to prove their merit with a straight-forward 10 question Newcastle United quiz on their club."
 author: Kevin Doocey
 type: post
 date: 2015-01-29T20:15:03+00:00

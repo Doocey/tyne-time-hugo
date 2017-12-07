@@ -1,6 +1,6 @@
 ---
-title: Time for Newcastle United to move in for Tom Ince
-description: 'Tyne Time's Kevin Doocey thinks Newcastle United should start their summer transfer business with a move for Blackpool's Tom Ince.'
+title: "Time for Newcastle United to move in for Tom Ince"
+description: "Tyne Time's Kevin Doocey thinks Newcastle United should start their summer transfer business with a move for Blackpool's Tom Ince."
 author: Kevin Doocey
 type: post
 date: 2013-07-12T20:33:27+00:00

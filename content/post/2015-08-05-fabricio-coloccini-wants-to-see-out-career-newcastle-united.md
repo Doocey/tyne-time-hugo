@@ -1,10 +1,10 @@
 ---
-title: Fabricio Coloccini wants to see out remainder of career at Newcastle United
-description: 'As I write this, I've been reading about how Steve McClaren and his backroom staff has heated exchanges with players behind the scenes following yet another'
+title: "Fabricio Coloccini wants to see out remainder of career at Newcastle United"
+description: "As I write this, I've been reading about how Steve McClaren and his backroom staff has heated exchanges with players behind the scenes following yet another"
 author: Kevin Doocey
 type: post
 date: 2015-08-05T17:09:19+00:00
-excerpt: There have been many questions raised about the future of current Newcastle United captain, Fabricio Coloccini as a the new season approaches. The 33 year-old Argentine joined..
+excerpt: "There have been many questions raised about the future of current Newcastle United captain, Fabricio Coloccini as a the new season approaches. The 33 year-old Argentine joined.."
 url: /2015/08/05/fabricio-coloccini-wants-to-see-out-career-newcastle-united/
 dsq_thread_id:
   - "4002764535"
@@ -23,7 +23,7 @@ tags:
   - "St. James' Park"
   - Steve McClaren
   - Tyne Time
-
+image: http://www.tynetime.com/wp-content/uploads/2015/08/Fabricio-Coloccini-Newcastle-2015.jpg
 ---
 ![Fabricio Coloccini looks on as Tottenham take the lead at St. James' Park](http://www.tynetime.com/wp-content/uploads/2015/08/Fabricio-Coloccini-Newcastle-2015.jpg)
 Coloccini - Reportedly plans on ending his playing career at Newcastle United

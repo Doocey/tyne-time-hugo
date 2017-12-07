@@ -27,7 +27,6 @@ tags:
   - Steve McClaren
   - Steven Taylor
   - Tyne Time
-
 ---
 ![Georginio Wijnaldum celebrates scoring for Newcastle United.](http://www.tynetime.com/wp-content/uploads/2016/02/Georginio-Wijnaldum-Newcastle-United-e1455296778744.jpg)
 

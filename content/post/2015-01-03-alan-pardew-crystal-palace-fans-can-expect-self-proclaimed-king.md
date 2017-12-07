@@ -21,7 +21,7 @@ tags:
   - Selhurst Park
   - Tottenham
   - Wigan
-
+image: http://www.tynetime.com/wp-content/uploads/2015/01/Alan-Pardew-Crystal-Palace.jpg
 ---
 ![Alan Pardew watches on from the Newcastle United sideline](http://www.tynetime.com/wp-content/uploads/2015/01/Alan-Pardew-Crystal-Palace.jpg "Pardew - Leaves Newcastle United for London after four years of high-speed carnage on Tyneside")  
 

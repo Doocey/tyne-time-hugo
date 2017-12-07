@@ -1,10 +1,10 @@
 ---
-title: Newcastle United v Swansea City – How will the Magpies manage?
-description: 'Tyne Time previews Newcastle United's upcoming encounter with Swansea City as the Magpies look to finish the Premier League season on a respectable note.'
+title: "Newcastle United v Swansea City – How will the Magpies manage?"
+description: "Tyne Time previews Newcastle United's upcoming encounter with Swansea City as the Magpies look to finish the Premier League season on a respectable note."
 author: Kevin Doocey
 type: post
 date: 2014-04-18T18:17:30+00:00
-excerpt: It makes for sad reading when I see a number of Newcastle United fans hoping that their team loses Saturday’s encounter with Swansea City in order to increase the pressure on manager..
+excerpt: "It makes for sad reading when I see a number of Newcastle United fans hoping that their team loses Saturday’s encounter with Swansea City in order to increase the pressure on manager.."
 url: /2014/04/18/newcastle-united-v-swansea-city-will-magpies-manage/
 dsq_thread_id:
   - "2621954953"

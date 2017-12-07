@@ -1,6 +1,6 @@
 ---
-title: Alan Pardew’s desire to flog Mapou Yanga-Mbiwa is worrying
-description: 'Despite arriving with the hope of becoming a star in Newcastle United's defence, Mapou Yanga-Mbiwa looks set to be sold by Alan Pardew in a worrying move.'
+title: "Alan Pardew’s desire to flog Mapou Yanga-Mbiwa is worrying"
+description: "Despite arriving with the hope of becoming a star in Newcastle United's defence, Mapou Yanga-Mbiwa looks set to be sold by Alan Pardew in a worrying move."
 author: Kevin Doocey
 type: post
 date: 2014-06-06T17:03:26+00:00

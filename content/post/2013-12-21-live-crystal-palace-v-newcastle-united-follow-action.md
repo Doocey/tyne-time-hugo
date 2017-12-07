@@ -1,6 +1,6 @@
 ---
-title: 'LIVE: Crystal Palace v Newcastle United – follow the action'
-description: 'Keep up to date will all the action from Crystal Palace v Newcastle United as Alan Pardew's men prepare to strengthen a Top 6 hold in the Premier League'
+title: "LIVE: Crystal Palace v Newcastle United – follow the action"
+description: "Keep up to date will all the action from Crystal Palace v Newcastle United as Alan Pardew's men prepare to strengthen a Top 6 hold in the Premier League"
 author: Kevin Doocey
 type: post
 date: 2013-12-21T14:51:47+00:00

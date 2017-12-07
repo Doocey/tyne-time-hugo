@@ -1,6 +1,6 @@
 ---
-title: What Arsenal fans need to know about Mathieu Debuchy
-description: 'Tyne Time gives a brief overview of Arsenal's soon-to-be right-back Mathieu Debuchy as the Frenchman puts the finishing touches on a move to the Emirates.'
+title: "What Arsenal fans need to know about Mathieu Debuchy"
+description: "Tyne Time gives a brief overview of Arsenal's soon-to-be right-back Mathieu Debuchy as the Frenchman puts the finishing touches on a move to the Emirates."
 author: Kevin Doocey
 type: post
 date: 2014-07-08T16:01:27+00:00

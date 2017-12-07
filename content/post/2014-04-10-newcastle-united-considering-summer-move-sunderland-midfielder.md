@@ -1,10 +1,10 @@
 ---
-title: Newcastle United considering summer move for Sunderland midfielder
-description: 'Newcastle United are eyeing up a summer move for Sunderland's Jack Colback as the Magpies recruitment drives begins to swing into motion.'
+title: "Newcastle United considering summer move for Sunderland midfielder"
+description: "Newcastle United are eyeing up a summer move for Sunderland's Jack Colback as the Magpies recruitment drives begins to swing into motion."
 author: Kevin Doocey
 type: post
 date: 2014-04-10T11:26:01+00:00
-excerpt: Newcastle United are already making tentative plans for the summer transfer window as the Premier League season ticks towards a conclusion with an array of names being linked with switches..
+excerpt: "Newcastle United are already making tentative plans for the summer transfer window as the Premier League season ticks towards a conclusion with an array of names being linked with switches.."
 url: /2014/04/10/newcastle-united-considering-summer-move-sunderland-midfielder/
 dsq_thread_id:
   - "2601070003"

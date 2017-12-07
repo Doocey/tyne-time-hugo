@@ -1,10 +1,10 @@
 ---
-title: Fixtures list released – the calm before the storm at Newcastle United
-description: 'Newcastle United fans have often anticipated the release of a campaign's upcoming fixtures, but this year, Tyneside must adjust to life in the Championship.'
+title: "Fixtures list released – the calm before the storm at Newcastle United"
+description: "Newcastle United fans have often anticipated the release of a campaign's upcoming fixtures, but this year, Tyneside must adjust to life in the Championship."
 author: Kevin Doocey
 type: post
 date: 2016-06-22T14:00:49+00:00
-excerpt: Over the past few seasons, Newcastle United fans have often looked forward to release of season fixtures. For me, it was always an immediate glance to the month of December to see what teams we faced.
+excerpt: "Over the past few seasons, Newcastle United fans have often looked forward to release of season fixtures. For me, it was always an immediate glance to the month of December to see what teams we faced."
 url: /2016/06/22/fixtures-list-newcastle-united/
 dsq_thread_id:
   - "4930341814"
@@ -21,8 +21,8 @@ tags:
   - Newcastle United News
   - NUFC Blog
   - Rafa Benitez
-
 ---
+
 ![Rafa Benitez issues instructions at Newcastle United](http://www.tynetime.com/wp-content/uploads/2016/06/Rafa-Benitez-Newcastle-United.jpg "Rafa Benitez")
 
 Over the past few seasons, Newcastle United fans have often looked forward to release of season fixtures. For me, it was always an immediate glance to the month of December to see what teams we faced. Then, a quick scan of April and May before forming an opinion on whether Newcastle United would be safe from the threat of relegation from the Premier League (And the they say NUFC fans are deluded!). However, this time our focus as supporters is not on the Premier League but rather the Sky Bet Championship - the second tier of English football. First up, a Friday night trek to London to face Fulham - a club that should serve as a stark warning to Newcastle & Mike Ashley of what a club can become if it doesn't sign the right players and fails to return to the top flight at the first time of asking. The game will be televised on Sky Sports, so I suppose that may soften the introduction to the Championship for fans who won't be able to make the trip to Craven Cottage. The extensive fixture list (included below) marks a pretty stern test for the month of September but other than that, a balanced schedule that will hopefully see the club finishing off the season in style against Barnsley at St. James' Park. However, the release of the fixture list is only the start of what is sure to be a hectic few months on Tyneside.

@@ -3,21 +3,14 @@ title: Things are slotting into place nicely this Summer
 author: Kevin Doocey
 type: post
 date: 2010-07-23T13:23:53+00:00
-excerpt: Whilst Chris Hughton plugging away at transfer targets, the Toon fans can somewhat relax in the knowledge that they are indeed lookign to sign players..
+excerpt: Whilst Chris Hughton plugging away at transfer targets, the Toon fans can somewhat relax in the knowledge that they are indeed looking to sign players..
 url: /2010/07/23/things-are-slotting-into-place-nicely-this-summer/
 dsq_thread_id:
   - "121247903"
 categories:
   - Newcastle United News
 tags:
-  - 21Nova
-  - bettingexpert.com
-  - Gamble Aware
-  - Joyland Casino
-  - Online Betting Offers
-  - Responsible Gambling
-  - Roulette
-  - Slots
+  - Chris Hughton
 
 ---
 ![Chris Hughton is working hard at trying to secure transfer targets](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/5/1257445093217/chris-hughton-001.jpg)

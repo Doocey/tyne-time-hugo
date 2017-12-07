@@ -1,6 +1,6 @@
 ---
-title: 'PIC: Yohan Cabaye spotted boarding Paris flight'
-desscription: 'Yohan Cabaye might only be heading for a short break across the sea since he has been ruled out of Newcastle United's cup clash with Cardiff City.'
+title: "PIC: Yohan Cabaye spotted boarding Paris flight"
+desscription: "Yohan Cabaye might only be heading for a short break across the sea since he has been ruled out of Newcastle United's cup clash with Cardiff City."
 author: Kevin Doocey
 type: post
 date: 2014-01-03T17:18:05+00:00

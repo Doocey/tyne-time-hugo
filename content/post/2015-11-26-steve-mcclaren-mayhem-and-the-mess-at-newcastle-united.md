@@ -26,7 +26,7 @@ tags:
   - Premier League
   - Steve McClaren
   - Toon News
-
+image: http://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg
 ---
 ![Steve McClaren looks dejected as Newcastle United are beaten by West Ham](http://www.tynetime.com/wp-content/uploads/2015/11/Steve-McClaren-West-Ham-United.jpg)
 

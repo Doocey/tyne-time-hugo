@@ -1,6 +1,6 @@
 ---
-title: Deciphering Alan Pardew’s pre-season comments
-description: 'Tyne Time takes a look at Alan Pardew's pre-season comments which caused even further confusion.'
+title: "Deciphering Alan Pardew’s pre-season comments"
+description: "Tyne Time takes a look at Alan Pardew's pre-season comments which caused even further confusion."
 author: Kevin Doocey
 type: post
 date: 2013-07-26T19:09:06+00:00

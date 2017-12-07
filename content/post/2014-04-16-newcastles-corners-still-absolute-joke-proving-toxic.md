@@ -1,6 +1,6 @@
 ---
-title: 'Newcastle’s corners still an absolute joke & proving toxic'
-description: 'Tyne Time looks at Newcastle's corners of late and whether the St. James' Park outfit have improved from their farcical state in 2013.'
+title: "Newcastle’s corners still an absolute joke & proving toxic"
+description: "Tyne Time looks at Newcastle's corners of late and whether the St. James' Park outfit have improved from their farcical state in 2013."
 author: Kevin Doocey
 type: post
 date: 2014-04-16T16:23:59+00:00

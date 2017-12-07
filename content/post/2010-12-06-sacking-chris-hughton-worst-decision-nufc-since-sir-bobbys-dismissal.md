@@ -34,8 +34,6 @@ tags:
   - Steven Taylor
   - Toon News
   - Tyne Time
-  - William Hill betting
-
 ---
 ### Hughton - William Hill have suspended betting on his dismissal this afternoon
 

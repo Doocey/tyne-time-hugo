@@ -14,7 +14,6 @@ categories:
 tags:
   - Alan Shearer
   - Andy Carroll
-  - Betting Expert
   - Chris Hughton
   - Coca Cola Championship
   - Football news

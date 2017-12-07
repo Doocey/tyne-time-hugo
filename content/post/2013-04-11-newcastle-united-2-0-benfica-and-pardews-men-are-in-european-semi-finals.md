@@ -1,6 +1,6 @@
 ---
-title: Newcastle United 2-0 Benfica and Pardew’s men are in European semi-finals
-description: 'With a the prospect of a Europa League semi-final, all Newcastle United need to do is secure a 2-0 victory over Benfica at St. James' Park. Easy, right?!'
+title: "Newcastle United 2-0 Benfica and Pardew’s men are in European semi-finals"
+description: "With a the prospect of a Europa League semi-final, all Newcastle United need to do is secure a 2-0 victory over Benfica at St. James' Park. Easy, right?!"
 author: Kevin Doocey
 type: post
 date: 2013-04-11T17:09:17+00:00

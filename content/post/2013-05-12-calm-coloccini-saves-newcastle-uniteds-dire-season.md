@@ -1,10 +1,10 @@
 ---
-title: Calm Coloccini saves Newcastle United’s dire season
-description: 'Ireland's Newcastle United blogger Kevin Doocey reviews the Magpies 2-1 win over QPR, a Coloccini-inspired win which confirmed Premier League safety.'
+title: "Calm Coloccini saves Newcastle United’s dire season"
+description: "Ireland's Newcastle United blogger Kevin Doocey reviews the Magpies 2-1 win over QPR, a Coloccini-inspired win which confirmed Premier League safety."
 author: Kevin Doocey
 type: post
 date: 2013-05-12T20:23:55+00:00
-excerpt: You might have noticed there has not been a huge amount of activity on this blog in the last month or so, as I have been extremely busy with college exams, but I felt today was as good..
+excerpt: "You might have noticed there has not been a huge amount of activity on this blog in the last month or so, as I have been extremely busy with college exams, but I felt today was as good.."
 url: /2013/05/12/calm-coloccini-saves-newcastle-uniteds-dire-season/
 dsq_thread_id:
   - "1283784831"

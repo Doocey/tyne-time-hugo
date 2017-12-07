@@ -1,6 +1,6 @@
 ---
-title: Southampton v Newcastle United – How will we line-up?
-description: 'Tyne Time previews Newcastle United's clash against Southampton in the Premier League on Saturday as the battle for the top 7 continues.
+title: "Southampton v Newcastle United – How will we line-up?"
+description: "Tyne Time previews Newcastle United's clash against Southampton in the Premier League on Saturday as the battle for the top 7 continues."
 author: Kevin Doocey
 type: post
 date: 2014-03-28T20:45:12+00:00

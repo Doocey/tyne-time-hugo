@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-### Lovenkrands - Sitting down for talks when manager is sorted
+### Lovenkrands - Sitting down for talks when manager is sorted
 
 I know not many people will forget when Peter Lovenkrands placed the ball past Edwin Van der Sar to break the keepers clean sheet record. St. James' park erupted in shock but as the game went on Newcastle conceded twice and United got the 3 undeserving points. Today, Lovenkrands agent has said that Peter is set  for talks with the club over his future.
 

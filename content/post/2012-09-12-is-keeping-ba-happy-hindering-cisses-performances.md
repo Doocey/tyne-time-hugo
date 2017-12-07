@@ -1,10 +1,11 @@
 ---
-title: Is keeping Ba happy hindering Cissé’s performances?
-description: 'Tyne Time examines whether Alan Pardew's determination to please Demba Ba is hindering the chances of once free scoring Papiss Cisse.'
+
+title: "Is keeping Ba happy hindering Cissé’s performances?"
+description: "Tyne Time examines whether Alan Pardew's determination to please Demba Ba is hindering the chances of once free scoring Papiss Cisse."
 author: Kevin Doocey
 type: post
-date: 2012-09-12T16:23:33+00:00
-excerpt: 'Tyne Time examines whether Alan Pardew's determination to please Demba Ba is hindering the chances of once free scoring Papiss Cisse.'
+date: '2012-09-12T16:23:33+00:00'
+excerpt: "Tyne Time examines whether Alan Pardew's determination to please Demba Ba is hindering the chances of once free scoring Papiss Cisse."
 url: /2012/09/12/is-keeping-ba-happy-hindering-cisses-performances/
 dsq_thread_id:
   - "841389486"

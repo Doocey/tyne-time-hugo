@@ -1,10 +1,10 @@
 ---
-title: 'Rémy Cabella: What Newcastle fans need to know'
-description: 'Kevin Doocey takes a look at Newcastle's January transfer target Rémy Cabella and what Toon fans can expect should he join the Magpies this month.'
+title: "Rémy Cabella: What Newcastle fans need to know"
+description: "Kevin Doocey takes a look at Newcastle's January transfer target Rémy Cabella and what Toon fans can expect should he join the Magpies this month."
 author: Kevin Doocey
 type: post
 date: 2014-01-06T18:00:15+00:00
-excerpt: Having crashed out the FA Cup in abysmal fashion it seems quite convenient for the Newcastle hierarchy to leak out news of potential January transfer signings. Of course when you..
+excerpt: "Having crashed out the FA Cup in abysmal fashion it seems quite convenient for the Newcastle hierarchy to leak out news of potential January transfer signings. Of course when you.."
 url: /2014/01/06/remy-cabella-newcastle-fans-need-know-midfielder/
 dsq_thread_id:
   - "2095945201"

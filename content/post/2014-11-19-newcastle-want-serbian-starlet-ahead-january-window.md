@@ -1,6 +1,6 @@
 ---
-title: Newcastle eye Aleksandar Mitrovic in January window
-description: 'Newcastle United are reportedly ready to strengthen their forward line with the signing of Anderlecht's Aleksandar Mitrovic for a fee in the region of £10m.'
+title: "Newcastle eye Aleksandar Mitrovic in January window"
+description: "Newcastle United are reportedly ready to strengthen their forward line with the signing of Anderlecht's Aleksandar Mitrovic for a fee in the region of £10m."
 author: Kevin Doocey
 type: post
 date: 2014-11-19T20:19:27+00:00

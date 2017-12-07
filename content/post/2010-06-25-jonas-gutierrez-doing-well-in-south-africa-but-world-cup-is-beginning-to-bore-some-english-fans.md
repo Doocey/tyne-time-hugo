@@ -10,8 +10,6 @@ categories:
   - Newcastle United News
 tags:
   - Alan Shearer
-  - Betfair promotion code
-  - Casino Onine
   - Chris Hughton
   - Coca Cola Championship
   - Football news
@@ -24,7 +22,6 @@ tags:
   - NUFC
   - NUFC Blog
   - Premier League
-  - Slots
   - Toon News
   - Tyne Time
 

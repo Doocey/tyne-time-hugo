@@ -24,6 +24,7 @@ tags:
   - Tyne Time
 
 ---
+
 ![Lee Charnley oversees Newcastle United's relegation scalp with West Ham](http://www.tynetime.com/wp-content/uploads/2015/06/Lee-Charnley-Newcastle-United-2015.jpg)
 
 There is a reason I haven't written very much about Newcastle United in the past 12 months. Actually, there's a numbers of reasons. I no longer really enjoy it. I no longer enjoy trying to look at the bright side at Newcastle United as a football club because at this moment in time, it's pointless. Newcastle United isn't a football club anymore, indeed it hasn't been one for a very long time. Dare I say, even the season the club managed to finish 5th in the league - I still didn't enjoy it as much as I should have. At the time of writing, NUFC is just over a month away from the start of the new Premier League season. In reality, we don't deserve to be in the top flight of English football. Harsh as it may sound, we should be playing Championship football come August based on our performances throughout the 2014/15 EPL season. If it wasn't for an even worse off Hull City, we would be. Last season was probably, rather, definitely the worst campaign I've ever witnessed. But hey, a new manager - a new dawn, a new era - **right**?

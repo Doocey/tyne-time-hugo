@@ -1,10 +1,10 @@
 ---
-title: Derby day passion lost in translation as lifeless NUFC surrender
-description: 'If you told any neutral fan in Britain that Sunderland would stroll up to St. James' Park on Sunday & wallop NUFC by 3 goals to nil, many would've laughed.'
+title: "Derby day passion lost in translation as lifeless NUFC surrender"
+description: "If you told any neutral fan in Britain that Sunderland would stroll up to St. James' Park on Sunday & wallop NUFC by 3 goals to nil, many would've laughed."
 author: Kevin Doocey
 type: post
 date: 2013-04-15T18:41:01+00:00
-excerpt: "?If you told any neutral across Great Britain that Sunderland would romp to a three nil victory at St.James' Park on Sunday many would have laughed off the suggestion. However, when David Vaughan popped.."
+excerpt: "If you told any neutral across Great Britain that Sunderland would romp to a three nil victory at St.James' Park on Sunday many would have laughed off the suggestion. However, when David Vaughan popped.."
 url: /2013/04/15/derby-day-passion-lost-in-translation-as-lifeless-nufc-surrender/
 dsq_thread_id:
   - "1213096476"

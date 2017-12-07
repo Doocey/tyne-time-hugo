@@ -12,15 +12,10 @@ categories:
   - Newcastle United News
 tags:
   - Alan Shearer
-  - Casinotop10.net
   - Chris Hughton
   - Coca Cola Championship
   - Fabricio Coloccini
   - Football news
-  - Free Bets
-  - Free Betting Tips
-  - Free Roulette Spins
-  - Huge Sign-Up Bonuses
   - Jose Enrique
   - Mike Ashley
   - Newcastle news
@@ -32,14 +27,11 @@ tags:
   - Newcastle United News
   - NUFC
   - NUFC Blog
-  - Online Casinos
-  - Online Roulette
   - Premier League
   - Relegation
   - Spain to win the World Cup?
   - Toon News
   - Tyne Time
-  - World Cup Betting
 
 ---
 ### Enrique - Believes Spain the credentials to lift the greatest trophy in the world

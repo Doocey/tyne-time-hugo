@@ -1,6 +1,6 @@
 ---
-title: Jack Colback is not ahead of Vurnon Anita in Newcastle’s pecking order
-description: 'Tyne Time queries why a number of Newcastle United fans seemingly prefer to start Jack Colback in midfield ahead of the crafty Vurnon Anita this season.'
+title: "Jack Colback is not ahead of Vurnon Anita in Newcastle’s pecking order"
+description: "Tyne Time queries why a number of Newcastle United fans seemingly prefer to start Jack Colback in midfield ahead of the crafty Vurnon Anita this season."
 author: Kevin Doocey
 type: post
 date: 2014-07-21T16:00:55+00:00

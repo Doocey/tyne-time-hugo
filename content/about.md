@@ -3,10 +3,10 @@ title: About
 description: How the NUFC blog was founded, the journey since its birth in 2009 and everything else about me - Kevin Doocey!
 author: Kevin Doocey
 type: page
+layout: page
 date: 2008-03-23T16:56:03+00:00
+image: /images/sir-bobby-robson-newcastle.jpg
 ---
-
-![Bobby Robson - Newcastle United](http://www.tynetime.com/wp-content/uploads/2008/03/Sir-Bobby-Robson.png "Sir-Bobby-Robson")
 
 Welcome to **Tyne Time**!
 

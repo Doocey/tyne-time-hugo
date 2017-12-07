@@ -3,10 +3,8 @@ title: Friends
 description: Other websites we like to check out from time to time. Only the finest of the finest - both NUFC and non-NUFC - make Tyne Time's list of friends.
 author: Kevin Doocey
 type: page
+layout: page
 date: 2010-07-14T12:56:58+00:00
-dsq_thread_id:
-  - "118454418"
-
 ---
 Some of our many friends:
 

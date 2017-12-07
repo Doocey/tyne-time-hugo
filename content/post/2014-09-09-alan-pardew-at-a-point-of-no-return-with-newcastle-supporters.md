@@ -1,10 +1,10 @@
 ---
-title: 'Alan Pardew: At a point of no return with Newcastle supporters?'
-description: 'Unavailable	Tyne Time asks Newcastle United fans whether manager Alan Pardew is living on borrowed time at St. James' Park, or can he rescue his tainted figure?'
+title: "Alan Pardew: At a point of no return with Newcastle supporters?"
+description: "Tyne Time asks Newcastle United fans whether manager Alan Pardew is living on borrowed time at St. James' Park, or can he rescue his tainted figure?"
 author: Kevin Doocey
 type: post
 date: 2014-09-09T18:36:46+00:00
-excerpt: There are very few professions in the world that people often pray/beg/call for the sacking of an individual from his day job. Politics and football are an exception, and these are two things Mr. Alan Pardew is well used to both..
+excerpt: "There are very few professions in the world that people often pray/beg/call for the sacking of an individual from his day job. Politics and football are an exception, and these are two things Mr. Alan Pardew is well used to both.."
 url: /2014/09/09/alan-pardew-at-a-point-of-no-return-with-newcastle-supporters/
 dsq_thread_id:
   - "3002856886"

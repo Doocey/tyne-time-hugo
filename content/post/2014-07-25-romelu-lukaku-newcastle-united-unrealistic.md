@@ -1,10 +1,10 @@
 ---
-title: Is Romelu Lukaku to Newcastle United that unrealistic?
-description: 'With Atletico Madrid opting for Mario Mandžukic and Chelsea bringing Diego Costa to Stamford Bridge, could Romelu Lukaku potentially depart for St. James'?'
+title: "Is Romelu Lukaku to Newcastle United that unrealistic?"
+description: "With Atletico Madrid opting for Mario Mandžukic and Chelsea bringing Diego Costa to Stamford Bridge, could Romelu Lukaku potentially depart for St. James'?"
 author: Kevin Doocey
 type: post
 date: 2014-07-25T16:04:34+00:00
-excerpt: 'I posed a question on Twitter a couple of days ago about what direction Newcastle United can now go in their pursuit of another forward. Their main targets this summer: Loic Rémy and Alexandre Lacazette have..'
+excerpt: "I posed a question on Twitter a couple of days ago about what direction Newcastle United can now go in their pursuit of another forward. Their main targets this summer: Loic Rémy and Alexandre Lacazette have.."
 url: /2014/07/25/romelu-lukaku-newcastle-united-unrealistic/
 dsq_thread_id:
   - "2872760039"

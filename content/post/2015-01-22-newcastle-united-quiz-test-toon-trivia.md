@@ -1,6 +1,6 @@
 ---
-title: 'Newcastle United Quiz: Test your Toon Trivia!'
-description: 'Feeling smart? Take Tyne Time's Newcastle Quiz to see how you fare out in your Toon trivia! Can you get full-marks - give it your best try!'
+title: "Newcastle United Quiz: Test your Toon Trivia!"
+description: "Feeling smart? Take Tyne Time's Newcastle Quiz to see how you fare out in your Toon trivia! Can you get full-marks - give it your best try!"
 author: Kevin Doocey
 type: post
 date: 2015-01-22T20:48:50+00:00

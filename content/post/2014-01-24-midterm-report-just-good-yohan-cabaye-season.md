@@ -1,6 +1,6 @@
 ---
-title: 'Midterm Report: Just how good has Yohan Cabaye been this season?'
-description: 'Tyne Time continues their 'Midterm Report' series with a look at the recent performances of the much talked about Newcastle United midfielder, Yohan Cabaye.'
+title: "Midterm Report: Just how good has Yohan Cabaye been this season?"
+description: "Tyne Time continues their 'Midterm Report' series with a look at the recent performances of the much talked about Newcastle United midfielder, Yohan Cabaye."
 author: Kevin Doocey
 type: post
 date: 2014-01-24T16:30:41+00:00

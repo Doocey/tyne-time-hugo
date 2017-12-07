@@ -1,10 +1,10 @@
 ---
-title: Could Neil Lennon be a contender for next Newcastle United manager?
-description: 'Tyne Time looks at Celtic's Neil Lennon and asks whether he could be the man to lead Newcastle United forward in place of Alan Pardew.'
+title: "Could Neil Lennon be a contender for next Newcastle United manager?"
+description: "Tyne Time looks at Celtic's Neil Lennon and asks whether he could be the man to lead Newcastle United forward in place of Alan Pardew."
 author: Kevin Doocey
 type: post
 date: 2014-05-07T20:34:25+00:00
-excerpt: While Newcastle United prepare for their daunting trip to Anfield on Sunday, it is well reported that Mike Ashley will sit down with current manager Alan Pardew and thrash out details..
+excerpt: "While Newcastle United prepare for their daunting trip to Anfield on Sunday, it is well reported that Mike Ashley will sit down with current manager Alan Pardew and thrash out details.."
 url: /2014/05/07/neil-lennon-contender-next-newcastle-united-manager/
 dsq_thread_id:
   - "2668336308"

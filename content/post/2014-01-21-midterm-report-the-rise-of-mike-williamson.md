@@ -1,6 +1,6 @@
 ---
-title: 'Midterm Report: The rise of Mike Williamson'
-description: 'Tyne Time continue their evaluation of Newcastle United's performers so far this season, this time its a look at the ever present Mike Williamson.'
+title: "Midterm Report: The rise of Mike Williamson"
+description: "Tyne Time continue their evaluation of Newcastle United's performers so far this season, this time its a look at the ever present Mike Williamson."
 author: Kevin Doocey
 type: post
 date: 2014-01-21T17:30:19+00:00

@@ -1,6 +1,6 @@
 ---
-title: The Kinnear conundrum – Have Newcastle United fans overreacted?
-description: 'Tyne Time's resident blogger Kevin Doocey asks whether fans have overreacted to Joe Kinnear's famous appointment as Director of Football at Newcastle United.'
+title: "The Kinnear conundrum – Have Newcastle United fans overreacted?"
+description: "Tyne Time's resident blogger Kevin Doocey asks whether fans have overreacted to Joe Kinnear's famous appointment as Director of Football at Newcastle United."
 author: Kevin Doocey
 type: post
 date: 2013-07-01T18:50:20+00:00
@@ -24,7 +24,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Joe Kinnear as Newcastle United manager](http://www.tynetime.com/wp-content/uploads/2013/07/Joe-Kinnear-Newcastle-United.jpg "Kinnear - Rousing interview irked fans (including myself) but has it passed?")
+![Joe Kinnear as Newcastle United manager](http://www.tynetime.com/wp-content/uploads/2013/07/Joe-Kinnear-Newcastle-United.jpg "Kinnear - Rousing interview irked fans but has it passed?")
 
 Not too many will forget Joe Kinnear's talkSPORT interview just a few weeks ago. His mispronunciation of a trio of Newcastle United players caused a stir in the media, and if believed - amongst Yohan, Hatem, and indeed Sammy too. He concluded his interview with a needless insult seemingly aimed at the fans, claiming he withholds a level of intelligence far superior than the majority of NUFC fans, although his inability to pronounce the names of some of the players would argue otherwise. Despite all of that, Joe conducted his interview and made some interesting points which most were mostly ignored as the focus seemed to be on his rather degrading comments of the Magpies faithful. Kinnear was lambasted or rather one  might even say 'Lambayzeed' over his interview and rightly so, but the question has to be posed whether some supporters, blogs, or indeed tabloids (hardly surprising) have overreacted with the news of the appointment.
 

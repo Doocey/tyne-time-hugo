@@ -1,6 +1,6 @@
 ---
-title: Montpellier making noises of a club about to sell Rémy Cabella
-description: 'Comments from Montpellier manager Rolland Courbis and even Rémy Cabella's father do nothing to play down the possibility of a move to Newcastle United..'
+title: "Montpellier making noises of a club about to sell Rémy Cabella"
+description: "Comments from Montpellier manager Rolland Courbis and even Rémy Cabella's father do nothing to play down the possibility of a move to Newcastle United.."
 author: Kevin Doocey
 type: post
 date: 2014-01-19T19:25:37+00:00

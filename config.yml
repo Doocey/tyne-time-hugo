@@ -1,0 +1,20 @@
+baseURL: "/"
+languageCode: "en-GB"
+theme: "tyne-time-theme"
+
+social:
+  GooglePlus: "TyneTime"
+  Twitter: "TyneTime"
+  Facebook: "TyneTime"
+  TwitterCreator: "KevinDoocey"
+params:
+  homepageTitle: "Tyne Time — Newcastle United blog with news and opinion on matters at St. James' Park"
+  subpageTitle: "Tyne Time"
+  SiteName: "Tyne Time"
+  Author:
+    - name: "Kevin Doocey"
+    - twitter: "@KevinDoocey"
+  Twitter: "@TyneTime"
+
+pluralizeListTitles: false
+enableRobotsTXT: true

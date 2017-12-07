@@ -12,17 +12,12 @@ categories:
   - Newcastle United News
 tags:
   - Alan Shearer
-  - Betfair promotion code
-  - Betting Tips
-  - bettingexpert.com
   - Chris Hughton
   - Coca Cola Championship
   - Diego Maradona
   - Fabricio Coloccini
   - football
   - Football news
-  - Free Bets
-  - Free Betting Tips
   - Jonas Gutierrez
   - Mike Ashley
   - Newcastle United
@@ -31,13 +26,11 @@ tags:
   - Newcastle United Latest News
   - Newcastle United News
   - NUFC Blog
-  - Online Betting Offers
   - Premier League
   - South Africa 2010
   - Toon News
   - Tyne Time
   - World Cup 2010
-  - World Cup Betting
 
 ---
 #### Argentina - Tyne Time fancies the Argies to come very close to the trophy

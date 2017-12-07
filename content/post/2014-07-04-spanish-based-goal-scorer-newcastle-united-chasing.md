@@ -1,6 +1,6 @@
 ---
-title: Is Carlos Bacca the mystery Spanish based Newcastle target?
-description: 'Newcastle United are looking to close multiple deals before pre-season kick-offs and Tyne Time asks whether Sevilla's Carlos Bacca is a primary target.'
+title: "Is Carlos Bacca the mystery Spanish based Newcastle target?"
+description: "Newcastle United are looking to close multiple deals before pre-season kick-offs and Tyne Time asks whether Sevilla's Carlos Bacca is a primary target."
 author: Kevin Doocey
 type: post
 date: 2014-07-04T14:58:44+00:00

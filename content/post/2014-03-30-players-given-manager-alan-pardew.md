@@ -1,10 +1,10 @@
 ---
-title: Have the players given up on manager Alan Pardew?
-description: 'Tyne Time questions whether the current Newcastle United squad have lost all confidence in manager Alan Pardew after recent results.'
+title: "Have the players given up on manager Alan Pardew?"
+description: "Tyne Time questions whether the current Newcastle United squad have lost all confidence in manager Alan Pardew after recent results."
 author: Kevin Doocey
 type: post
 date: 2014-03-30T20:11:49+00:00
-excerpt: 'There have been a few times this season when Newcastle United have looked a Championship team at best - no less than in our mauling at Southampton on Saturday..'
+excerpt: "There have been a few times this season when Newcastle United have looked a Championship team at best - no less than in our mauling at Southampton on Saturday.."
 url: /2014/03/30/players-given-manager-alan-pardew/
 dsq_thread_id:
   - "2555657746"

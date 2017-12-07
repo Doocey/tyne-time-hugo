@@ -1,6 +1,6 @@
 ---
-title: Cheick Tioté wants out as Pardew limps on
-description: 'Newcastle midfielder Cheick Tioté has announced plans to leave St. James' Park in the next transfer window as Arsenal keep tabs on the 28 year-old.'
+title: "Cheick Tioté wants out as Pardew limps on"
+description: "Newcastle midfielder Cheick Tioté has announced plans to leave St. James' Park in the next transfer window as Arsenal keep tabs on the 28 year-old."
 author: Kevin Doocey
 type: post
 date: 2014-10-01T18:58:26+00:00

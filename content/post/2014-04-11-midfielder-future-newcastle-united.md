@@ -1,10 +1,10 @@
 ---
-title: Does Mehdi Abeid have a future at Newcastle United?
-description: 'With an impending summer of change on Tyneside, does Newcastle's young midfielder and Panathinaikos loanee Mehdi Abeid have a future at St. James' Park?'
+title: "Does Mehdi Abeid have a future at Newcastle United?"
+description: "With an impending summer of change on Tyneside, does Newcastle's young midfielder and Panathinaikos loanee Mehdi Abeid have a future at St. James' Park?"
 author: Kevin Doocey
 type: post
 date: 2014-04-11T18:51:42+00:00
-excerpt: When I learned that Dan Gosling was to make an appearance in midfield for Newcastle United against Manchester United in his second only start for the club last Saturday it..
+excerpt: "When I learned that Dan Gosling was to make an appearance in midfield for Newcastle United against Manchester United in his second only start for the club last Saturday it.."
 url: /2014/04/11/midfielder-future-newcastle-united/
 dsq_thread_id:
   - "2604611014"

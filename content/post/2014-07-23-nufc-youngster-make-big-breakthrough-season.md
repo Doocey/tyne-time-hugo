@@ -1,6 +1,6 @@
 ---
-title: Rolando Aarons - Could he make a first team breakthrough this season?
-description: 'Tyne Time takes a look at Rolando Aarons, a promising Jamaican winger that is hoping to make an impact on the first team at St. James' Park this season.'
+title: "Rolando Aarons - Could he make a first team breakthrough this season?"
+description: "Tyne Time takes a look at Rolando Aarons, a promising Jamaican winger that is hoping to make an impact on the first team at St. James' Park this season."
 author: Kevin Doocey
 type: post
 date: 2014-07-23T19:29:41+00:00

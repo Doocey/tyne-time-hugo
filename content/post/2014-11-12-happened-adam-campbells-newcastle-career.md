@@ -1,10 +1,10 @@
 ---
-title: What happened to Adam Campbell’s Newcastle career?
-description: 'Tyne Time looks at Newcastle United's forgotten local lad, Adam Campbell, and what direction his career has taken over the past 18 months.'
+title: "What happened to Adam Campbell’s Newcastle career?"
+description: "Tyne Time looks at Newcastle United's forgotten local lad, Adam Campbell, and what direction his career has taken over the past 18 months."
 author: Kevin Doocey
 type: post
 date: 2014-11-12T17:08:41+00:00
-excerpt: As Newcastle United supporters begrudgingly prepare for the dreaded international break, it gives us all time to look back on what has been a superb return to form. 5 straight victories, including four successive Premier League..
+excerpt: "As Newcastle United supporters begrudgingly prepare for the dreaded international break, it gives us all time to look back on what has been a superb return to form. 5 straight victories, including four successive Premier League.."
 url: /2014/11/12/happened-adam-campbells-newcastle-career/
 dsq_thread_id:
   - "3217942169"

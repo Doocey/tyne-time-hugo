@@ -1,6 +1,6 @@
 ---
-title: Luuk de Jong hasn’t earned a permanent deal on Tyneside
-description: 'After 11 appearances for the Magpies, Tyne Time questions why Newcastle United would even consider spending £8m on Borussia Monchengladbach's Luuk de Jong'
+title: "Luuk de Jong hasn’t earned a permanent deal on Tyneside"
+description: "After 11 appearances for the Magpies, Tyne Time questions why Newcastle United would even consider spending £8m on Borussia Monchengladbach's Luuk de Jong"
 author: Kevin Doocey
 type: post
 date: 2014-05-09T19:00:18+00:00
