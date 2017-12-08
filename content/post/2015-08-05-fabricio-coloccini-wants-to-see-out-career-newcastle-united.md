@@ -23,11 +23,10 @@ tags:
   - "St. James' Park"
   - Steve McClaren
   - Tyne Time
-image: https://www.tynetime.com/wp-content/uploads/2015/08/Fabricio-Coloccini-Newcastle-2015.jpg
 ---
 ![Fabricio Coloccini looks on as Tottenham take the lead at St. James' Park](https://www.tynetime.com/wp-content/uploads/2015/08/Fabricio-Coloccini-Newcastle-2015.jpg)
-Coloccini - Reportedly plans on ending his playing career at Newcastle United
 
+### Coloccini - Reportedly plans on ending his playing career at Newcastle United
 
 There have been many questions raised about the future of current Newcastle United captain, **Fabricio Coloccini** as the new season approaches. The 33 year-old Argentine joined The Magpies in a £10m deal from Deportivo La Coruna and became one of Kevin Keegan's first signings in his second stint in charge of the club. While many managers and players have come and gone since 2008, Coloccini has - surprisingly - stayed on Tyneside those seven years and became something of an adopted Geordie alongside the recently released, Jonas Gutierrez. A stunning 2011/12 season saw Coloccini named in the Premier League team of the season and rightly so - he was solid as a rock for most of the season.
 
