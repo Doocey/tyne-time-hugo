@@ -4,7 +4,7 @@ author: Kevin Doocey
 type: post
 date: 2009-09-26T13:41:59+00:00
 excerpt: "Indeed it's very true that the first 90 minutes of any football game are the most.."
-url: /2009/09/26/“the-first-ninety-minutes-of-a-football-match-are-the-most-important-”/
+url: /2009/09/26/the-first-ninety-minutes-of-a-football-match-are-the-most-important-/
 dsq_thread_id:
   - "93804176"
 categories:

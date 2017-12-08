@@ -2,12 +2,21 @@ baseURL: "https://www.tynetime.com"
 languageCode: "en-GB"
 theme: "tyne-time-theme"
 googleAnalytics: "UA-7993164-1"
-
+# Ensure new permalink structure for future posts
+permalinks:
+  post: /:year/:month/:title/
+# metadata
+metaDataFormat: "yaml"
+# taxonomies
+taxonomies:
+  category: "categories"
+# Social
 social:
   GooglePlus: "TyneTime"
   Twitter: "TyneTime"
   Facebook: "TyneTime"
   TwitterCreator: "KevinDoocey"
+# Custom params for seo & snippets
 params:
   homepageTitle: "Tyne Time — Newcastle United blog with news and opinion on matters at St. James' Park"
   subpageTitle: "Tyne Time"
@@ -17,5 +26,7 @@ params:
     - twitter: "@KevinDoocey"
   Twitter: "@TyneTime"
 
+# General settings
 pluralizeListTitles: false
 enableRobotsTXT: true
+canonifyURLs: true
