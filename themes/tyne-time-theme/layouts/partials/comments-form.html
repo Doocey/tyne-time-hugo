@@ -1,9 +1,21 @@
-<form class="post-new-comment" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
+<form class="pa4 black-80 justify-around-ns w-100" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
   <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
   <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
-  <input type="hidden" name="options[urlSlug]" value="{{ .Params.url }}">
-  <input name="fields[name]" type="text" class="post-comment-field" placeholder="Your name">
-  <input name="fields[email]" type="email" class="post-comment-field" placeholder="Your email address">
-  <textarea name="fields[message]" class="post-comment-field" placeholder="Your message. Feel free to use Markdown." rows="10"></textarea>
-  <input type="submit" class="post-comment-field btn" value="Submit">
+  <input type="hidden" name="options[urlSlug]" value="{{ s.Params.url }}">
+
+  <div class="flex">
+      <div class="w-100 w-50-ns">
+        <label for="name" class="f6 b db mb2">Name:</label>
+        <input name="fields[name]" type="text" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" aria-describedby="name-desc">
+      </div>
+      <div class="ph3 w-100 w-50-ns">
+        <label for="name" class="f6 b db mb2">Email:</label>
+        <input name="fields[email]" type="email" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" aria-describedby="email-address">
+    </div>
+  </div>
+  <div class="w-100 w-100-ns">
+      <label for="comment" class="f6 b db mb2">Comment:</span></label>
+      <textarea name="fields[message]" class="db border-box hover-black w-100  ba b--black-20 pa2 br2 mb2" aria-describedby="comment-desc" placeholder="Use common sense in all comments, please..."></textarea>
+  </div>
+  <input type="submit" class="ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" value="Submit Comment">
 </form>
