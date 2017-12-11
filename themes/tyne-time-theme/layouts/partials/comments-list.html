@@ -8,9 +8,9 @@
     {{ if eq .Name $slug }}
       {{ $.Scratch.Add "hasComments" 1 }}
       {{ range $index, $comments := (index $.Site.Data.comments $slug ) }}
-      <article class="flex lh-copy pa3 bb b--black-20 flex-wrap justify-around-ns ">
+      <article class="flex lh-copy pa3 bb b--black-20 flex-wrap justify-around-ns bg-light-gray">
         <div class="w-100 w-10-l pa1 tc">
-          <img class="br-100 w3 h3" src="https://www.gravatar.com/avatar/{{ .email }}?s=100" />
+          <img class="br-100 w3 h3" src="https://www.gravatar.com/avatar/{{ .email }}?s=70&d=mm" />
           <span class="f7 db black-90 underline">{{ .name }}:</span>
           <small>⏱ {{ dateFormat "02/01/2006" .date }}</small>
         </div>
