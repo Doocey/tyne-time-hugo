@@ -1,7 +1,7 @@
 <form class="post-new-comment" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
   <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
   <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
-  <input type="hidden" name="options[urlSlug]" value="{{ substr .Params.url 11 }}">
+  <input type="hidden" name="options[urlSlug]" value="{{ .Params.url }}">
   <input name="fields[name]" type="text" class="post-comment-field" placeholder="Your name">
   <input name="fields[email]" type="email" class="post-comment-field" placeholder="Your email address">
   <textarea name="fields[message]" class="post-comment-field" placeholder="Your message. Feel free to use Markdown." rows="10"></textarea>

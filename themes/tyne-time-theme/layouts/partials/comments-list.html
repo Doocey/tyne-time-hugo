@@ -3,7 +3,8 @@
 
   {{ $comments := readDir "data/comments" }}
   {{ $.Scratch.Add "hasComments" 0 }}
-  {{ $slug := .Params.url }}
+  {{ $slug := substr .Params.url 11 -1}}
+  <h4>Slug: {{ $slug }}</h4>
 
   {{ range $comments }}
     {{ if eq .Name $slug }}
@@ -14,7 +15,7 @@
             <img class="post-comment-avatar" src="https://www.gravatar.com/avatar/{{ .email }}?s=100">
             <p class="post-comment-info"><strong>{{ .name }}</strong><br>{{ dateFormat "02/01/2006" .date }}</p>
           </div>
-          {{ .message | markdownify }}
+          {{ .message }}
         </div>
       {{ end }}
     {{ end }}
