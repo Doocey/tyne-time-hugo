@@ -62,6 +62,8 @@
 		<div>
 			{{ partial "author-bio" .}}
 		</div>
-		{{ partial "comment-form" .}}
+		<!-- Include comments -->
+		{{ partial "comments-form" .}}
+		{{ partial "comments-list" .}}
 </main>
 {{ partial "footer.html" . }}
