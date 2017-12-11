@@ -3,7 +3,7 @@
 
   {{ $comments := readDir "data/comments" }}
   {{ $.Scratch.Add "hasComments" 0 }}
-  {{ $slug := substr .Params.url 11 -1}}
+  {{ $slug := substr .Params.url 12 -1}}
   <h4>Slug: {{ $slug }}</h4>
 
   {{ range $comments }}
