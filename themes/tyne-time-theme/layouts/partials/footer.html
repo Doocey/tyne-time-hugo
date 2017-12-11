@@ -1,0 +1,39 @@
+<footer class="bg-near-black ph3 pv4 white">
+
+	<div class="mw9 pt3">
+		<div class="flex flex-wrap ma4-ns">
+			<!-- Site Links -->
+			<div class="w-100 w-50-ns order-2 order-1-ns">
+				<ul class="list ph3 mb3 f6 ph5-ns pv1">
+					<li class="dib mh2"><a href="https://www.tynetime.com" class="link white">Home</a></li> /
+					<li class="dib mh2"><a href="https://www.tynetime.com/about/" class="link white">About</a></li> /
+					<li class="dib mh2"><a href="https://www.tynetime.com/contact/" class="link white">Contact</a></li> /
+					<li class="dib mh2"><a href="https://www.tynetime.com/advertise/" class="link white">Advertise</a></li> /
+					<li class="dib mh2"><a href="https://www.tynetime.com/friends/" class="link white">Friends</a></li>
+				</ul>
+			</div>
+			<!-- Social Icons -->
+			<div class="w-100 w-30-ns order-1 order-2-ns">
+				<ul class="mhn2 tc pl0">
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/tynetime" "svg" "facebook") }}
+					{{ partial "social-icon" (dict "link" "https://twitter.com/tynetime" "svg" "twitter") }}
+				</ul>
+			</div>
+			<!-- NewsNow Logo -->
+			<div class="w-100 w-20-ns order-3 order-3-ns tc center">
+					<p class="white">
+						{{ partial "newsnow" }}
+					</p>
+					<style>footer a, footer a:visited {color:white}</style>
+			</div>
+		</div>
+	</div>
+<p class="center tc f6 white-60">&copy; of Kevin Doocey. All images reserved to their respectful owners.</p>
+</footer>
+
+{{ partial "svg" . }}
+
+{{ template "_internal/google_analytics_async.html" . }}
+</body>
+
+</html>

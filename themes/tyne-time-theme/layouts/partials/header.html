@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+
+		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
+		{{ if .IsHome }}
+		<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "WebSite",
+		  "name": "{{ .Site.Params.SiteName }}",
+		  "url": "{{ .Permalink }}"
+		}
+		</script>
+		{{ end }}
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css"/>
+		<!-- Favicons -->
+		<link rel="apple-touch-icon" sizes="180x180" href="{{"/apple-touch-icon.png" | absURL}}">
+		<link rel="icon" type="image/png" sizes="32x32" href="{{"/favicon-32x32.png" | absURL}}">
+		<link rel="icon" type="image/png" sizes="16x16" href="{{"/favicon-16x16.png" | absURL}}">
+		<link rel="manifest" href="{{"/manifest.json" | absURL}}">
+		<link rel="mask-icon" href="{{"/safari-pinned-tab.svg" | absURL}}" color="#4f4f4f">
+		<meta name="theme-color" content="#ffffff">
+		<link rel="canonical" href="{{ .Permalink }}" />
+		<link href="{{ "/index.xml" | absURL }}" rel="alternate" type="application/atom+xml" title="{{ .Site.Params.SiteName }}" />
+    <link href="{{ "/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Params.SiteName }}" />
+		<!-- Meta snippets begin here -->
+		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 155 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+	{{ partial "twitter-cards.html" .}}
+	<!-- Internal Schema -->
+	{{ partial "schema.html" . }}
+	<!-- OG -->
+	{{ partial "open-graph.html" . }}
+	<!-- Twitter Cards -->
+	</head>
+
+	<body class="georgia sans-serif bg-near-white">
