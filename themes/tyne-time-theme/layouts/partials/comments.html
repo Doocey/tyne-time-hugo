@@ -1,4 +1,6 @@
-<form class="pa4 black-80 justify-around-ns w-100" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
+<h4>Comments:</h4>
+
+<form class="pv4 black-80 justify-around-ns w-100" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
   <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
   <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
   <input type="hidden" name="options[urlSlug]" value="{{ .Params.url }}">
@@ -19,3 +21,30 @@
   </div>
   <input type="submit" class="ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" value="Submit Comment">
 </form>
+
+  {{ $comments := readDir "data/comments" }}
+  {{ $.Scratch.Add "hasComments" 0 }}
+  {{ $slug := substr .Params.url 12 -1}}
+
+  {{ range $comments }}
+    {{ if eq .Name $slug }}
+      {{ $.Scratch.Add "hasComments" 1 }}
+      {{ range $index, $comments := (index $.Site.Data.comments $slug ) }}
+      <article class="flex lh-copy pa3 bb b--black-20 flex-wrap justify-around-ns bg-moon-gray mt2">
+        <div class="w-100 w-10-l pa1 tc">
+          <img class="br-100 w3 h3" src="https://www.gravatar.com/avatar/{{ .email }}?s=70&d=mm" />
+          <span class="f7 db black-90 underline">{{ .name }}:</span>
+          <small>⏱ {{ dateFormat "02/01/2006" .date }}</small>
+        </div>
+        <div class="w-100 w-60-l pv2">
+            <p class="f5-ns f6 db black-70 mv1">{{ .message }}</p>
+        </div>
+      </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if eq ($.Scratch.Get "hasComments") 0 }}
+    <p>Nothing yet.</p>
+  {{ end }}
+</section>
