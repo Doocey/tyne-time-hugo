@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 {{ partialCached "nav.html" . }}
 {{ if .Params.image }}
-	<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}"/>
+	<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}" class="w-100"/>
 {{ end }}
 
 <main class="ma3 mt0 pa2 pa4-ns ph8 mw8 center bg-near-white">
