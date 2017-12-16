@@ -6,7 +6,7 @@ author: "Kevin Doocey"
 creator: "Kevin Doocey"
 description: "Despite two relegations in short succession, the future of Newcastle United has never been so delicately poised amid takeover talk & Rafa Benitez's future."
 excerpt: "Despite two relegations in short succession, the future of Newcastle United has never been so delicately poised amid takeover talk & Rafa Benitez's future."
-url: /2017/12/16/future-of-newcastle-united-delicately-poised/
+url: /2017/12/future-of-newcastle-united-delicately-poised/
 categories:
   - Newcastle United News
 image: /images/rafa-benitez-emirates-stadium.jpg
