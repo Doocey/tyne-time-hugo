@@ -21,9 +21,9 @@ It all sounds good, and there's little doubt that this wonderful football club h
 
 Fast-forward to early 2017 and Rafa Benitez has taken charge of Newcastle United. It was, quite frankly, a staggering appointment that marked both a change of regime, and keyhole view into the panic that was setting in among the hierarchy. Another relegation would be disastrous. It was.
 
-Yet, on a sunny Sunday afternoon in Newcastle Upon-Tyne, 52,000 Geordies showed their appreciation to Benitez, for the fact he took upon the biggest challenge of his managerial career. In an incredible 5-1 victory over league runners up, Tottenham Hotspur - the tsunami of emotion and gratitude shown by the locals somehow convinced the Spaniard to stay on as manager as the Club prepared for second division football.
+Yet, on a sunny Sunday afternoon in Newcastle Upon-Tyne, 52,000 Geordies showed their appreciation to Benitez, for the fact he took upon the biggest challenge of his managerial career. In an incredible 5-1 victory over almost-champions, Tottenham Hotspur - the tsunami of emotion and gratitude shown by the locals somehow convinced the Spaniard to stay on as manager as the Club prepared for second division football.
 
-Promotion ensued, and optimism grew. Yet, another disappointing summer in the transfer market had many expecting Rafa to leave. He didn't, and as Christmas approaches, things are look break for the men in Black and White.
+Promotion ensued, and optimism grew. Yet, another disappointing summer in the transfer market had many expecting Rafa to leave. He didn't, and as Christmas approaches, things are looking bleak for the men in Black and White.
 
 1pt from a possible 27 on offer is awful, and the word _relegation_ is being bandied around Tyneside with all too familiar frequency.
 
