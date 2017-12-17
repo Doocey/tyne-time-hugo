@@ -1,5 +1,0 @@
-User-agent:*
-
-Disallow: /tags/
-
-Sitemap: https://www.tynetime.com/sitemap.xml
