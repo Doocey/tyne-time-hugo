@@ -8,8 +8,6 @@ date: 2010-07-14T12:56:58+00:00
 ---
 Some of our many friends:
 
-### Related Sites
-
 <a href="http://www.footballhomework.net/" title="All the techniques a soccer player needs thanks to more than 600 videos of exercises." target="_blank">600 Soccer Exercises To Practice at Home</a>
 
 <a href="http://blackandwhitetoon.blogspot.com/" title="A Newcastle United blog ran by David Kifford">Black and White Toon 'blog</a>
@@ -24,7 +22,7 @@ Some of our many friends:
 
 <a href="http://www.leazesterrace.com/" title="Newcastle United News & Debate.">Leazes Terrace</a>
 
-<a href="http://nufcblog.com" title="Ed Harrison" target="_blank">NUFC Blog</a>
+<a href="http://nufcblog.com" title="Ed Harrison's NUFC Blog" target="_blank">NUFC Blog</a>
 
 <a href="http://www.nufcblog.co.uk/" title="Newcastle United opinions, debate and discussions.">NUFCBlog.co.uk</a>
 

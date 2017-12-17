@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partialCached "header.html" . }}
 {{ partialCached "nav.html" . }}
 {{ if .Params.image }}
 	<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}" class="w-100"/>
@@ -46,7 +46,7 @@
 
 			<hr class="b--black-10">
 			{{ if .Params.categories }}
-			<span class="tracked">FILED UNDER:</span>
+			<span class="tracked ttu">Filed Under:</span>
 				<ul id="tags" class="list pa0">
 					{{ range .Params.categories }}
 					<li class="dib mr1 mb2">
@@ -60,9 +60,9 @@
 			{{ end }}
 		</article>
 		<div>
-			{{ partial "author-bio" .}}
+			{{ partialCached "author-bio" .}}
 		</div>
 		<!-- Include comments -->
 		{{ partial "comments" .}}
 </main>
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}

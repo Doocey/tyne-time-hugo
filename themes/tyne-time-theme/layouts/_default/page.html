@@ -1,5 +1,5 @@
-{{ partial "header.html" . }}
-{{ partial "nav.html" . }}
+{{ partialCached "header.html" . }}
+{{ partialCached "nav.html" . }}
 {{ if .Params.image }}
 	{{ partial "page-header" (dict "imageUrl" .Params.image "title" .Title ) }}
 {{ end }}
@@ -12,4 +12,4 @@
   </section>
 </main>
 
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}

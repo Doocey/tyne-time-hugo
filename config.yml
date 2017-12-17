@@ -28,5 +28,4 @@ params:
 
 # General settings
 pluralizeListTitles: false
-enableRobotsTXT: true
 canonifyURLs: true

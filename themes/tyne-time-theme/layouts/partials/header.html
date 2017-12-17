@@ -29,11 +29,11 @@
     <link href="{{ "/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Params.SiteName }}" />
 		<!-- Meta snippets begin here -->
 		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 155 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
-	{{ partial "twitter-cards.html" .}}
+	{{ partial "meta/twitter-cards.html" .}}
 	<!-- Internal Schema -->
-	{{ partial "schema.html" . }}
+	{{ partial "meta/schema.html" . }}
 	<!-- OG -->
-	{{ partial "open-graph.html" . }}
+	{{ partial "meta/open-graph.html" . }}
 	<!-- Twitter Cards -->
 	</head>
 
