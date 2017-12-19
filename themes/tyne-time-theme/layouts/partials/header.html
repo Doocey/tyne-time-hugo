@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 
-		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
+		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Params.Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
 		{{ if .IsHome }}
 		<script type="application/ld+json">
 		{
