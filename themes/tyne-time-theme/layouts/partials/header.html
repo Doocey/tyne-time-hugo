@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 
-		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
+		<title>{{ if .IsHome }}{{ .Site.Params.homepageTitle }}{{ else }}{{ .Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
 		{{ if .IsHome }}
 		<script type="application/ld+json">
 		{
@@ -29,11 +29,11 @@
     <link href="{{ "/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Params.SiteName }}" />
 		<!-- Meta snippets begin here -->
 		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 155 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
-	{{ partial "meta/twitter-cards.html" .}}
+	{{ partial "twitter-cards.html" .}}
 	<!-- Internal Schema -->
-	{{ partial "meta/schema.html" . }}
+	{{ partial "schema.html" . }}
 	<!-- OG -->
-	{{ partial "meta/open-graph.html" . }}
+	{{ partial "open-graph.html" . }}
 	<!-- Twitter Cards -->
 	</head>
 
