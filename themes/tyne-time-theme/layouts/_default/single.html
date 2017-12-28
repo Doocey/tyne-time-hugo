@@ -1,5 +1,5 @@
-{{ partialCached "header.html" . }}
-{{ partialCached "nav.html" . }}
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
 {{ if .Params.image }}
 	<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}" class="w-100"/>
 {{ end }}
@@ -60,9 +60,9 @@
 			{{ end }}
 		</article>
 		<div>
-			{{ partialCached "author-bio" .}}
+			{{ partial "author-bio" .}}
 		</div>
 		<!-- Include comments -->
 		{{ partial "comments" .}}
 </main>
-{{ partialCached "footer.html" . }}
+{{ partial "footer.html" . }}
