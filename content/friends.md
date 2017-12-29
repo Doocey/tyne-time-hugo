@@ -37,3 +37,5 @@ Some of our many friends:
 <a href="http://toonarmyblog.co.uk/" target="_blank">Toon Army Blog</a>
 
 <a href="http://www.yankscallitsoccer.com/" title="An American view of the beautfiul game.">Yanks Call It Soccer</a>
+
+<a href="http://goonernow.co.uk/" title="Gooner News Blog">Gooner News Blog</a>
