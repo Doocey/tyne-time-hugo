@@ -39,3 +39,5 @@ Some of our many friends:
 <a href="http://www.yankscallitsoccer.com/" title="An American view of the beautfiul game.">Yanks Call It Soccer</a>
 
 <a href="http://goonernow.co.uk/" title="Gooner News Blog">Gooner News Blog</a>
+
+<a href="http://arsedevils.com/" rel="nofollow" title="A blog about the famous Arsenal FC" target="_blank">Arsedevils</a>
