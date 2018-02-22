@@ -5,6 +5,7 @@ description: >-
   Newcastle United endured a disappointing January transfer window but the
   arrival of Islam Slimani from Leicester City has raised hopes on Tyneside,
   just.
+image: /images/islam-slimani-nufc.jpg
 categories:
   - NUFC Blog
   - Newcastle United News
