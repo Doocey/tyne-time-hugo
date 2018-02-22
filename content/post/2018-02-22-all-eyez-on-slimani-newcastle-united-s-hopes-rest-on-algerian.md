@@ -1,7 +1,10 @@
 ---
 title: All Eyez on Slimani - Newcastle United's hopes rest on Algerian
-date: 2018-02-22T09:51:45-04:00
-description: Description
+date: 2018-02-22T13:51:45.000Z
+description: >-
+  Newcastle United endured a disappointing January transfer window but the
+  arrival of Islam Slimani from Leicester City has raised hopes on Tyneside,
+  just.
 categories:
   - NUFC Blog
   - Newcastle United News
