@@ -1,5 +1,6 @@
 ---
 title: All Eyez on Slimani - Newcastle United's hopes rest on Algerian
+url: /2018/02/all-eyez-on-slimani-nufc-hopes-rest-on-algerian/
 date: 2018-02-22T13:51:45.000Z
 author: "Kevin Doocey"
 creator: "Kevin Doocey"
