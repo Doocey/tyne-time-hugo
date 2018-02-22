@@ -1,5 +1,5 @@
 ---
-title: All Eyez on Slimani - Newcastle United's hopes rest on Algerian
+title: All Eyez on Slimani - Newcastle United\'s hopes rest on Algerian
 date: 2018-02-22T13:51:45.000Z
 description: >-
   Newcastle United endured a disappointing January transfer window but the
