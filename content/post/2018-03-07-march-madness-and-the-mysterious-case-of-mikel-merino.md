@@ -4,7 +4,7 @@ date: '2018-03-07T12:00:00-05:00'
 description: >-
   Just two league fixtures in March may well define Newcastle United's survival
   hopes, while questions are asked of Mikel Merino's recent lack of involvement.
-url: /march-madness-newcastle-united-mikel-merino/
+url: /2018/03/march-madness-newcastle-united-mikel-merino/
 image: /images/mikel-merino-newcastle-goal.jpg
 categories:
   - Newcastle United News
