@@ -1,11 +1,14 @@
 ---
 title: March Madness and the mysterious case of Mikel Merino
 date: '2018-03-07T12:00:00-05:00'
+author: "Kevin Doocey"
+creator: "Kevin Doocey"
 description: >-
   Just two league fixtures in March may well define Newcastle United's survival
   hopes, while questions are asked of Mikel Merino's recent lack of involvement.
 url: /2018/03/march-madness-newcastle-united-mikel-merino/
 image: /images/mikel-merino-newcastle-goal.jpg
+image_alt: "Mikel Merino celebrates scoring his first goal for Newcastle United."
 categories:
   - Newcastle United News
 ---
