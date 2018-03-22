@@ -36,7 +36,7 @@
   {{ range $comments }}
     {{ if eq .Name ($.Scratch.Get "realSlug") }}
       {{ $.Scratch.Add "hasComments" 1 }}
-      {{ range $index, $comments := (index $.Site.Data.comments $slug ) }}
+      {{ range $index, $comments := (index $.Site.Data.comments ($.Scratch.Get "realSlug") ) }}
       <article class="flex lh-copy pa3 ba b--black-20 flex-wrap justify-around-ns bg-light-gray mt2">
         <div class="w-100 w-10-l pa1 tc">
           <img class="br-100 w3 h3" src="https://www.gravatar.com/avatar/{{ .email }}?s=70&d=mm" />
