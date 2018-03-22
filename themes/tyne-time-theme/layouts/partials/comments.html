@@ -25,11 +25,18 @@
   {{ $comments := readDir "data/comments" }}
   {{ $.Scratch.Add "hasComments" 0 }}
   {{ $slug := substr .Params.url 12 -1}}
+  {{ $semiSlug := substr .Params.url 9 -1}}
+  {{ $.Scratch.Set "realSlug" $slug }}
+  {{ $postDate := .Date.Format "2006" }}
+
+  {{ if ge $postDate "2018" }}
+      {{ .Scratch.Set "realSlug" $semiSlug }}
+  {{ end }}
 
   {{ range $comments }}
-    {{ if eq .Name $slug }}
+    {{ if eq .Name ($.Scratch.Get "realSlug") }}
       {{ $.Scratch.Add "hasComments" 1 }}
-      {{ range $index, $comments := (index $.Site.Data.comments $slug ) }}
+      {{ range $index, $comments := (index $.Site.Data.comments ($.Scratch.Get "realSlug") ) }}
       <article class="flex lh-copy pa3 ba b--black-20 flex-wrap justify-around-ns bg-light-gray mt2">
         <div class="w-100 w-10-l pa1 tc">
           <img class="br-100 w3 h3" src="https://www.gravatar.com/avatar/{{ .email }}?s=70&d=mm" />
