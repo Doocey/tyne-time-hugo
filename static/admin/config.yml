@@ -16,6 +16,7 @@ collections:
       - {label: "SEO Description", name: "description", widget: "text"}
       - {label: "URL", name: "url", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image Alt", name: "image_alt", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: list}
     meta:
