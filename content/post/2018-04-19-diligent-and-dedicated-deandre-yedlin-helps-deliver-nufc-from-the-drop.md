@@ -12,7 +12,7 @@ Newcastle United all but secured Premier League safety with a fantastic 2-1 vict
 
 Yedlin joined Newcastle almost years ago, brought in by Rafa Benitez to as the Spaniard assembled, what turned out to be, his Championship winning side. Despite his Sunderland history, Yedlin's performances in the second division of English football soon endeared him to Toon fans, with plenty of hard work and effort on display throughout the campaign. He even grabbed a goal away at Derby County to set the ball rolling nicely.
 
-## The American Asset
+## Appreciating The American Asset
 
 Many expected Benitez to further strengthen the right-back position upon promotion, but Yedlin has been a fast-stead in Newcastle's back four this season. His pace has been crucial to the side's defensive efforts this year. In the top flight, full-backs need to fast on their feet, with the ability to go up & down the wings like a fiddlers elbow. Yedlin has also established a bit of chemistry with the midfielders in front of him, allowing the USA international to get forward and drill some crosses into the area. His [assist for Ayoze](https://video.twimg.com/tweet_video/Da02BiEXkAAq3h4.mp4) last Sunday was testament to that.
 
@@ -20,10 +20,17 @@ Many expected Benitez to further strengthen the right-back position upon promoti
 
 ![Ayoze Perez puts Newcastle level against Arsenal](https://media.giphy.com/media/1qZ8n7lrAi0o8i7rvA/giphy.gif)
 
-DeAndre also provided the pass for Dwight Gayle's opener at Old Trafford earlier this year, again - note where he finds himself as NUFC players get into the area. A nice draw back pass from '_Yedlinny_' again.
+DeAndre also provided the pass for Dwight Gayle's opener at Old Trafford earlier this year, again - note where he finds himself as NUFC players get into the area. A nice draw back pass from '_Yedlinny_' again. It is also worth looking at how similar those two passages of play are, in fact, the positioning of Ritchie and Gayle is almost identical, almost like they've been working on it all season..
 
 ### Yedlin vs. Manchester United:
 
-![Golazo](https://media.giphy.com/media/vNq21Yn8rMJDJVZr3T/giphy.gif)
+![DeAndre Yedlin assist vs. Manchester United](https://media.giphy.com/media/vNq21Yn8rMJDJVZr3T/giphy.gif)
 
+Standing at 5'8, he can sometimes be targeted for his lack of aerial prowess, particularly from crosses out wide, but his tracking & linkup play, for the most part, makes up for it.
+
+Whatever happens this summer in terms of recruitment, I would expect Yedlin to stay, but whatever happens, the 24 year-old has been a very solid signing for £5m. It is hard to believe he is just 24 given his EPL spells with Spurs and Sunderland.
+
+Hard work means a huge amount at Newcastle United - we all know that. However, coupled with a bit of quality and diligence, supporters will take to you like wildfire. Yedlin has found himself part of a strong-willed side that Rafa has assembled over the course of the past two seasons, and for that - fair play to the lad.
+
+Comments welcome as ever, and don't be scared to follow me on Twiter [@KevinDoocey](https://twitter.com/kevindoocey)
 
