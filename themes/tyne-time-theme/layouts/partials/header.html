@@ -17,6 +17,7 @@
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css"/>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
 		<!-- Favicons -->
 		<link rel="apple-touch-icon" sizes="180x180" href="{{"/apple-touch-icon.png" | absURL}}">
 		<link rel="icon" type="image/png" sizes="32x32" href="{{"/favicon-32x32.png" | absURL}}">
@@ -35,6 +36,11 @@
 	<!-- OG -->
 	{{ partial "meta/open-graph.html" . }}
 	<!-- Twitter Cards -->
+	<script type="text/javascript">
+		const el = document.querySelector('img');
+		const observer = lozad(el); // passing a `NodeList` (e.g. `document.querySelectorAll()`) is also valid
+		observer.observe();
+	</script>
 	</head>
 
 	<body class="georgia sans-serif bg-near-white">
