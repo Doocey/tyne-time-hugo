@@ -1,9 +1,20 @@
+{{ $comments := readDir "data/comments" }}
+{{ $.Scratch.Add "hasComments" 0 }}
+{{ $slug := substr .Params.url 12 -1}}
+{{ $semiSlug := substr .Params.url 9 -1}}
+{{ $.Scratch.Set "realSlug" $slug }}
+{{ $postDate := .Date.Format "2006" }}
+
+{{ if ge $postDate "2018" }}
+    {{ .Scratch.Set "realSlug" $semiSlug }}
+{{ end }}
+
 <h4 class="ttu tracked">Comments:</h4>
 
 <form class="bb pv4 ph2 black-80 justify-around-ns w-100" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments">
   <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
   <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
-  <input type="hidden" name="options[urlSlug]" value="{{ .Params.url }}">
+  <input type="hidden" name="options[urlSlug]" value="{{ $.Scratch.Get "realSlug" }}">
 
   <div class="flex">
       <div class="w-100 w-50-ns">
@@ -21,17 +32,6 @@
   </div>
   <input type="submit" class="georgia ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" value="Submit Comment">
 </form>
-
-  {{ $comments := readDir "data/comments" }}
-  {{ $.Scratch.Add "hasComments" 0 }}
-  {{ $slug := substr .Params.url 12 -1}}
-  {{ $semiSlug := substr .Params.url 9 -1}}
-  {{ $.Scratch.Set "realSlug" $slug }}
-  {{ $postDate := .Date.Format "2006" }}
-
-  {{ if ge $postDate "2018" }}
-      {{ .Scratch.Set "realSlug" $semiSlug }}
-  {{ end }}
 
   {{ range $comments }}
     {{ if eq .Name ($.Scratch.Get "realSlug") }}
