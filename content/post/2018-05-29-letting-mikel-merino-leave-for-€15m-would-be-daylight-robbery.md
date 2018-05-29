@@ -17,6 +17,7 @@ It almost seems a bi-monthly occurrence at this stage, but Mikel Merino has once
 [Fiebre Rojiblanca](http://fiebrerojiblanca.com/berizzo-se-puede-encontrar-hasta-con-nueve-medios/) claim Merino, who is approaching just 22 years of age - is planning on leaving Newcastle, with Bilbao and Real Betis both showing considerable interest in his services. This goes hand-in-hand with comments from Merino just last a few days ago about how he will play the transfer window by air - by no means the talk of man that sees his long-term future in the North East.
 
 He said:
+
 > I’m not worried about what happens; if something happens then the agents will call my parents and they communicate it to me, but I’m not spending all day waiting for the mobile to ring.
 
 Sadly, it looks like this saga is heading one way. Rafa, who has yet to be given any transfer budget guarantees, will more than likely already be drawing up a favoured replacement with the apparent €15m on offer.
@@ -27,4 +28,6 @@ It would be incredibly disappointing, however, if he does depart for a measly fi
 
 Merino has a very bright future, and will likely be worth double the rumoured fee in years to come. Fifteen million would be daylight robbery.
 
-Of course the future of another Spaniard (no, not Joselu) - a certain Rafa Benitez - is also under constant speculation. It is going to be a long summer folks.
+Of course the future of another Spaniard (no, not Joselu) - a certain Rafa Benitez - is also under constant speculation. Do you ever get the feeling it is going to be a long summer folks?
+
+Feel free to follow me [@KevinDoocey](https://twitter.com/kevindoocey) to vent any similar frustrations.
