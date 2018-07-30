@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Beckford wanted by Wolves & Sunderland now](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/26/1243334718789/Jermaine-Beckford-001.jpg)
+![Beckford wanted by Wolves & Sunderland now](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/26/1243334718789/Jermaine-Beckford-001.jpg)
 
 The speculation goes on. Just as it seemed Jermaine Beckford was joining Newcastle United this January, the tale has taken another twist. It's now reported that Sunderland and Wolves have both joined the race to sign the FA Cup hero as Leeds United stall over Newcastle's latest bid. Sources suggested that Newcastle's latest bid was indeed rejected but no one knows for  sure. Apparently The Elland Road outfit are holding out for £2m for Beckford but most of the teams know that his contract expires in only a few months time.
 

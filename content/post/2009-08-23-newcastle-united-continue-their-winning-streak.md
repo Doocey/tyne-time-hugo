@@ -22,7 +22,7 @@ tags:
   - Steven Taylor
 
 ---
-![Llambias - Shocking performance on Satruday](http://i32.tinypic.com/2u7prb4.jpg)
+![Llambias - Shocking performance on Satruday](http://oi32.tinypic.com/2u7prb4.jpg)
 
 Quite literally my headline suggests what I'm touching on, the absurd news of Derek Llambias running across the pitch in Selhurst park, totally naked. To think Newcastle couldn't get any more, media attention but no , we're brought to new depths. The best part is, we won two nil, and kept our third clean sheet, meaning we go top, even with our neighbours Middlesbrough. Things have gone really well for us so far, and all we need is the sale of the club to boost the morale even higher, however, with that behaviour from our hierarchy, I think (unfortunately), they may be tempted to keep the club, and take NUFC off the market.
 

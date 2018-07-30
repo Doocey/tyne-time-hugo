@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa could be on his way to Newcastle United](http://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
+![Hatem Ben Arfa could be on his way to Newcastle United](https://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
 
 #### Ben Arfa - Could add so much to Newcastle United's midfield this season
 

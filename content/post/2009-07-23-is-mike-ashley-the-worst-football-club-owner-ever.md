@@ -18,7 +18,7 @@ tags:
   - NUFC Blog
 
 ---
-![Ashley - One of the worst owners of a football club](http://i.telegraph.co.uk/telegraph/multimedia/archive/01349/mike_ashley_1349947c.jpg)
+![Ashley - One of the worst owners of a football club](https://i.telegraph.co.uk/telegraph/multimedia/archive/01349/mike_ashley_1349947c.jpg)
 
 It's not funny really, how messed up we are. I'm not one for shifting the blame and allow things to justify themselves but Mike Ashley's tenure at Newcastle United is far from laughable. The hopes and expectations when he took over were pretty high, the couple of men who voiced their concerns over his takeover were looked on is if they had two heads. Eventually them two guys turned into a group but still, the moderate Toon supporter backed the billionaire owner who invested nearly £300m into their beloved NUFC. However when Keegan was appointed, frustration upon Ashley eased, that was, until he was 'forced' the resign because of his unworkable situation. Then that group turned into a mob, now here we are today, writing negative stuff about Ashley, because there's nothing positive to write about him.
 

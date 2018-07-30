@@ -11,7 +11,7 @@ categories:
 
 ---
 
-![Peter Lovenkrands - Set for Toon arrival?](http://img.skysports.com/08/01/218x298/peterlovenkrands_628445.jpg)
+![Peter Lovenkrands - Set for Toon arrival?](https://img.skysports.com/08/01/218x298/peterlovenkrands_628445.jpg)
 
 It seems that Newcastle are close to completing their first signing of the January transfer window, not one but two players making their way to NUFC. Reports are already suggesting that Peter Lovenkrands has agreed a move to Newcastle in favour of a dramatic return to his former club, Rangers. It is no secret that Lovenkrands is a decent player and still quite young although he seems to have been around forever :D. The transfer would be on a free as Peter has left Schalke days ago, he never settled in and didn't play for the Bundesliga team all that much. I for one would take him as he is pacy, and darts in from either wing. It would be good backup for the likes of Duff and the always departing Charles N'Zogbia 😐 Who knows Lovenkrands may well have enough to replace indeed Duff and Charles on the wing and start permanently 🙂 Saying all this no paper has been signed as far as we know but I suspect Newcastle fans would welcome him at St.James'
 

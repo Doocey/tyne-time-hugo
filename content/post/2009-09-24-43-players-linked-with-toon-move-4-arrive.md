@@ -110,7 +110,7 @@ And finally probably the most bizarre rumour that I've heard in the last few mon
 
 Joe Kinnear returning to Newcastle United as manager.
 
-![Joseph Kinnear](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/31/1233409993906/Joe-Kinnear-001.jpg)
+![Joseph Kinnear](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/31/1233409993906/Joe-Kinnear-001.jpg)
 
 Sorry Joe, you did a good job while in charge but the chances of you returning to Newcastle (or being allowed) to were minimal, although an outburst at Simon Bird is always welcome 🙂
 

@@ -18,7 +18,7 @@ tags:
   - NUFC Blog
 
 ---
-![Jones - Cheer up Dave! Its not all bad news](http://i.telegraph.co.uk/telegraph/multimedia/archive/01015/dave-jones_1015597c.jpg)
+![Jones - Cheer up Dave! Its not all bad news](https://i.telegraph.co.uk/telegraph/multimedia/archive/01015/dave-jones_1015597c.jpg)
 
 Sensational Cardiff City manager, OK, maybe I'm being a bit over generous with him, but it's Friday! Anyway, Dave Jones, the Cardiff City manager was speaking today about their chances against Newcastle United. Cardiff who are doing very well themselves and Toon old boy Michael Chopra banging in the goals, they couldn't have wished for a better start. Neither could we  though, grabbing 13 from a possible 15 and the draw happening on the first day against promotion favourites, West Brom.
 

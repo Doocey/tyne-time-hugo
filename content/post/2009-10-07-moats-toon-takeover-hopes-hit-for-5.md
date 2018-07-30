@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![NUFC - Takoever likely to be held up again](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/04/StJAmesPArk3.jpg)
+![NUFC - Takoever likely to be held up again](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/04/StJAmesPArk3.jpg)
 
 As the great Ed Harrison reported on nufcblog.com, the settlement of the Keegan case would leave to some more takeover stories and indeed ones that are far from relevant. Just as Barry Moat was set to seal a deal and we think he is still in the driving seat, new consortia come along, on top of the other two already witting against the local Tyneside businessman. Today brings the  news that South Africans have entered the race too, just like last year, expect they had no money to back their interest, story of NUFC all summer.
 

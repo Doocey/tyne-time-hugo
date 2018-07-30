@@ -19,7 +19,7 @@ tags:
   - NUFC Blog
 
 ---
-![Hughton - Doing well under difficult circumstances](http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/3/15/1237135309065/Chris-Hughton-001.jpg)
+![Hughton - Doing well under difficult circumstances](https://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/3/15/1237135309065/Chris-Hughton-001.jpg)
 
 I think it's fair to say that just after relegation, we wanted anybody but Chris Hughton as manager of Newcastle United. However, Shearer didn't arrive, Kinnear's comeback rumours were slashed at the but by NUFC themselves and David O'Leary's move broke down. However now, Hughton has done a very good job and the majority of the players now want Chris as  permanent manager. Lying top of the Coca Cola Chamoionship table and the players actually are playing for the shirt they wear, even the banana strip. This is what we want from now on on Tyneside.
 

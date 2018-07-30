@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Hughton - Working without complaint](http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/3/15/1237135309065/Chris-Hughton-001.jpg)
+![Hughton - Working without complaint](https://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/3/15/1237135309065/Chris-Hughton-001.jpg)
 
 A huge amount of credit is due to manager Chris Hughton as he has worked without one complaint, under sever conditions at Newcastle. The Irishman who was initially hired as an assistant for Kevin Keegan, in in his second term as temporary manager and he's loving every minute of it, to say the least. And why wouldn't he? Top of the table, playing good football and attracting on average, 40,000 Geordies to St.James' Park each home game. Most Premier League mangers can't boast the same as Chris Hughton has, and he received manager of the month, officially, a day ago.
 

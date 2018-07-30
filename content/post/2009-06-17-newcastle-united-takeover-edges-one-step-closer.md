@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Shepherd - Surely he wont return](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2008/12/31/1230726665640/shepherd-002.jpg)
+![Shepherd - Surely he wont return](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2008/12/31/1230726665640/shepherd-002.jpg)
 
 We're hearing reports everyday that the takeover has stalled or is nearly completed. As far as I know , 4 consortiums are in talks and that proof of their  finances has been shown. The 'data room' has been opened to those that have shown some real intentions and backed it up with their finances, so we're expecting that an official bid has been launched or it very close. We need it sorted soon and it seems Ashley hasn't learned anything from his torrid time. How bad can this guy's regime go at Newcastle?
 

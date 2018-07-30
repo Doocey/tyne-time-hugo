@@ -11,7 +11,7 @@ categories:
   - Newcastle United News
 
 ---
-![Alan Pardew and Steve Stone overlook Newcastle United](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/1/14/1295037040427/Alan-Pardew-Newcastle-Uni-002.jpg "Alan Pardew - Has dealt with the pressure of being Newcastle boss very well indeed ")
+![Alan Pardew and Steve Stone overlook Newcastle United](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/1/14/1295037040427/Alan-Pardew-Newcastle-Uni-002.jpg "Alan Pardew - Has dealt with the pressure of being Newcastle boss very well indeed ")
 
 I'll be the first to admit that when I heard Alan Pardew was close to coming the next Newcastle United boss after the shock dismissal of Chris Hughton I felt sick. Why would we replace a top man like Hughton who was doing a great job in his first season in the Premier League as manager with a guy who's last job was at Southampton; A League 1 side. It didn't make sense at all. However , Ashley went ahead with his plans and Alan Pardew was appointed Newcastle United manager just in time for the game at home to Liverpool, on a five and a half year contract.
 

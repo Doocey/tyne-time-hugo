@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Steven Taylor has been placed on the transfer list at Newcastle](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/8/7/1249662390202/Steven-Taylor-001.jpg "Taylor placed on transfer list")
+![Steven Taylor has been placed on the transfer list at Newcastle](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/8/7/1249662390202/Steven-Taylor-001.jpg "Taylor placed on transfer list")
 
 #### Taylor - Newcastle United have reportedly transfer listed the defender
 

@@ -19,7 +19,7 @@ tags:
   - NUFC Blog
 
 ---
-![Harewood - A good signing and happy to be here](http://i.dailymail.co.uk/i/pix/2009/06/12/article-0-02C8E1A400000578-864_468x375.jpg)
+![Harewood - A good signing and happy to be here](https://i.dailymail.co.uk/i/pix/2009/06/12/article-0-02C8E1A400000578-864_468x375.jpg)
 
 Marlon Harewood today completed his long awaited loan-move to Newcastle after weeks of speculation. Martin O'Neill is keen for the striker to get some playing time, and Newcastle were more than happy to take him. This time last year, we would've wanted someone like Gabriel Agbonlahor but being in the Championship, those targets are no longer realistic. Don't get me  wrong though, I'm sure Marlon will be a very good signing and if he scores goals and we manage promotion ( :O ) then there's every chance that we'd want him permanently, although his loan ends in January.
 

@@ -32,7 +32,7 @@ tags:
   - Tyne Time
 
 ---
-![Danny Shittu](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/3/21/1237656369513/Danny-Shittu-001.jpg "Shittu - On his way to Newcastle is reports are accurate amongst others")
+![Danny Shittu](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/3/21/1237656369513/Danny-Shittu-001.jpg "Shittu - On his way to Newcastle is reports are accurate amongst others")
 
 Sky Sports are reporting that Bolton's Danny Shittu could well arrive on Tyneside on a loan deal until the end of the season. The Nigerian hasn't really had much of a look in at the Reebok and with the arrival of Owen Coyle, Newcastle are hopeful they can borrow the 6'2 centre half. Just in case you don't know too much about him, he's 29 years of age, a Nigerian international  and has played for a fair few clubs in his time. He's hoping Newcastle United will be his latest venture, to a mixed reaction of many a Toon fan so it seems.
 

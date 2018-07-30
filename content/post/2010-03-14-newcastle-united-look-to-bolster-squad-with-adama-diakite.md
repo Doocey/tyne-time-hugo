@@ -29,7 +29,7 @@ tags:
   - Tyne Time
 
 ---
-![Jean-Claude Blanc, Juventus president looking at Adama Diakite too](http://cdn.wn.com/ph/img/09/83/fd7c691ef555a5d5c31c2b082413-grande.jpg "Juventus - Thought they had move sealed for Diakite in August 2009")
+![Jean-Claude Blanc, Juventus president looking at Adama Diakite too](https://cdn.wn.com/ph/img/09/83/fd7c691ef555a5d5c31c2b082413-grande.jpg "Juventus - Thought they had move sealed for Diakite in August 2009")
 
 Newcastle United seem to be catching on to the way a football club is run, and the youth policy is one of the more important. Newcastle have been linked with possible moves for Manchester United's Tom Cleverly and now Lens  attacker Adama Diakite. Diakite is pretty unknown and there's very little information available on him online but what we do know is that he is a highly-rated youngster. Juventus tried to seal a deal for him in August and now, alongside us, Werder Bremen are rumoured to be firming up their interest in the 19 year-old.
 

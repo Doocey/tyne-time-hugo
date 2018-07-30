@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Fabricio Coloccini ](http://www.whoateallthepies.tv/horror%20hair%20fabricio%20coloccini.jpg "Colo - Has done well in this division but yet to convince us in Premier League")
+![Fabricio Coloccini ](https://www.whoateallthepies.tv/horror%20hair%20fabricio%20coloccini.jpg "Colo - Has done well in this division but yet to convince us in Premier League")
 
 A division down and a better looking Coca Cola Championship table. A better looking defence and a far better looking goal difference. However, don't be entirely convinced, our players haven't just found magical form this season. One man who has caught the eye of many is Fabricio Coloccini and his improved performances this season have been a welcome relief. Let's not forget  though, this guy cost £10.3m and at one stage, played every single game in the La Liga with Deportivo la Coruna. Fair enough, he's been a lot better this season but I don't think he's worth anywhere near his £60,000 a week wages.
 

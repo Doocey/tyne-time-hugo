@@ -22,7 +22,7 @@ tags:
   - NUFC Blog
 
 ---
-![Nascimento - Trialist at Newcastle United](http://4.bp.blogspot.com/_y0awMGNS7VI/Sex9oRicFyI/AAAAAAAAB24/I02A72tdlG8/s320/CAZAT3XNCA5CMYL3CAKY3JBXCA8BND6YCAG22K4NCADHMZQ0CACSQYP4CAF0R0BACAYI4XAPCAEU6MF2CAS0L3MSCAT7HS5DCAHKUASVCA4ZY2CKCA06OP3DCAEUFPDECA1HKCSVCAD7804X.jpg)
+![Nascimento - Trialist at Newcastle United](https://4.bp.blogspot.com/_y0awMGNS7VI/Sex9oRicFyI/AAAAAAAAB24/I02A72tdlG8/s320/CAZAT3XNCA5CMYL3CAKY3JBXCA8BND6YCAG22K4NCADHMZQ0CACSQYP4CAF0R0BACAYI4XAPCAEU6MF2CAS0L3MSCAT7HS5DCAHKUASVCA4ZY2CKCA06OP3DCAEUFPDECA1HKCSVCAD7804X.jpg)
 
 Although we know that there probably won't be any new faces arriving this summer to Newcastle United it's irritating to see where the players, that could be Newcastle players, go to different clubs. For example , Kyle Naughton went to Spurs, fair enough, we mighn't have stood much of a chance there, but Daniel Fox went to Celtic, I think we could've snapped him. Jermaine Beckford has been taken off the transfer list although his agent stated he wanted to join Newcastle pretty much and Simon Cox going to Brom, although I'm sure he'd be tempted to join Newcastle if he was given the chance.
 

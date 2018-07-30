@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Strikers - Back from injury and goals needed](http://v4admin.sportnetwork.net/upload/70/EMP-5832935.jpg)
+### Strikers - Back from injury and goals needed
 
 Good news today as Obafemi Martins, Mark Viduka and Alan Smith will all return for the Everton game as St.James' which promises to be a important battle to say the least. We need the win, Everton would like it too, but Everton's away form is not going to dent their confidence considering they have played, on occasions, a lot better on the road then at home.
 

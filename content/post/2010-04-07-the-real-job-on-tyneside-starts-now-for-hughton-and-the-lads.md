@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![The horror show of last season's relegation](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/4/5/1270484388219/Aston-Villa-v-Newcastle-001.jpg)
+![The horror show of last season's relegation](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/4/5/1270484388219/Aston-Villa-v-Newcastle-001.jpg)
 
 ### 2009 - That horrible day when a Damien Duff OG sent Newcastle United down
 

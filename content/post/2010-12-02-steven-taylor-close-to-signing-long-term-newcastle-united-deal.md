@@ -39,7 +39,7 @@ tags:
   - Tyne Time
 
 ---
-![Taylor is close to pledging his future to Newcastle United](http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2010/11/26/1290804809082/Steven-Taylor-Newcastle-U-007.jpg "Steven Taylor")
+![Taylor is close to pledging his future to Newcastle United](https://static.guim.co.uk/sys-images/Sport/Pix/columnists/2010/11/26/1290804809082/Steven-Taylor-Newcastle-U-007.jpg "Steven Taylor")
 
 A lot of people seem to have lost faith and perhaps respect for Steven Taylor over the last few months, with the debacle over where his future lay very much up in the air.  We read reports of Steven wanting close to £60,000 a week if he was to sign a new deal, and this outraged some Newcastle supporters, rightly so. However, his agent, and the controversial one at that, came out  and dismissed any idea of Taylor wanting those outstanding wages, and said he just wanted to play for the club he loves. We're still not really sure what the story is with Steve, but we know Chris Hughton wants to keep him long-term, and obviously has good reasoning too.
 

@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/7/1260199353694/Andy-Carroll-001.jpg "Carroll - Lets hope he grabs a few goals tomorrow in what is a huge game")
+![Andy Carroll](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/7/1260199353694/Andy-Carroll-001.jpg "Carroll - Lets hope he grabs a few goals tomorrow in what is a huge game")
 
 Every game from now until May is of huge importance to Newcastle United and our promotion hopes. The laughing stock of English football last year, we've managed to get a modest manager, and eventually managed to get some much needed faces in January, something that played a big factor in sending us down last season. Now however, we're no longer the main club that's  subject to a huge amount of jokes. Portsmouth who today officially entered administration have a hard couple of months ahead of them and it's likely we'll meet them on the way up, if we can manage promotion.
 

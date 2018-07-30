@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Chris Hughton targeting Jlloyd Samuel this summer ahead of Premier League campaign](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/5/1257445093217/chris-hughton-001.jpg)
+![Chris Hughton targeting Jlloyd Samuel this summer ahead of Premier League campaign](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/5/1257445093217/chris-hughton-001.jpg)
 
 There's been lots of rumours floating around Tyneside in the last few days while the World Cup progresses nicely but one of them, regarding Bolton defender Jlloyd Samuel is some real news as Chris Hughton admitted an interest in the Trinidad & Tobago international. Samuel, now 29 may well be leaving the Reebok Stadium this year because he contract runs out very soon  and Bolton Wanderers would be quite foolish not to cash in on him. However, the real question remains, where is this policy that Newcastle United supposedly have of buying young players with big potential and no one over the age of 26?
 

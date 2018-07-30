@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Chris Hughton has been rewarded for his success at Newcastle with a sacking](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2010/8/13/1281698020813/Chris-Hughton-006.jpg "Chris Hughton")
+![Chris Hughton has been rewarded for his success at Newcastle with a sacking](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2010/8/13/1281698020813/Chris-Hughton-006.jpg "Chris Hughton")
 
 I heard at about 1.10pm roughly from a source at the club that Chris Hughton was on his way out of St.James' Park. It was shocking news to receive, especially for me when I was stuck on a three hour long bus journey. However, I wasn't sure whether it was confirmed or not. At 2pm that day (yesterday) Newcastle United confirmed that Chris Hughton had been sacked as  manager of Newcastle United and the search for a replacement had already begun, with Peter Beardsley taking charge of the Liverpool game forthcoming. It then sank in. The man that Mike Ashley has sacked, was the best thing that happened to Newcastle United since Bobby Robson. The way he conducted himself, modest, efficiently and without any complaints. A breath of fresh air for anyone who supported Newcastle United in the slightest.
 

@@ -36,7 +36,7 @@ tags:
   - Xisco
 
 ---
-![Gosling - Officially a Newcastle United player since yesterday](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/7/7/1278525531183/Dan-Gosling-of-Everton-006.jpg)
+![Gosling - Officially a Newcastle United player since yesterday](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/7/7/1278525531183/Dan-Gosling-of-Everton-006.jpg)
 
 The dislike of Dennis Wise for many Newcastle United fans stems from Kevin Keegan's departure, James Milner's move to Aston Villa, the signing of the Uruguayan Gonzalez, Xisco's arrival on Tyneside and many other incidents at the club. He did spot Bassong and a few other promising young players but will never be warmly welcomed back to St.James' Park if he arrives  some time in the future. we passed down the chance to sign Bastian 
 

@@ -26,7 +26,7 @@ tags:
   - Tyne Time
 
 ---
-![Rob Hulse](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/3/7/1236459459910/Rob-Hulse-001.jpg "Hulse - First scorer of three at Pride Park in what could be a very costly loss")
+![Rob Hulse](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/3/7/1236459459910/Rob-Hulse-001.jpg "Hulse - First scorer of three at Pride Park in what could be a very costly loss")
 
 This could be a very costly loss for Newcastle United. However, it could very well turn out to be a beneficial lesson for Chris Hughton's men although you might be led to believe otherwise. Rob Hulse, Kris Commons and one of their CB's all scored and put Newcastle United to bed at Pride Park tonight. What frustrates us all is the fact we beat our promotion rivals 5-1 less than a week ago  and we go to a mediocre Championship side and end up going out without a whimper. We didn't play awful tonight if reports are to believed but Derby being Derby, they always happen come up trumps against our lads.
 

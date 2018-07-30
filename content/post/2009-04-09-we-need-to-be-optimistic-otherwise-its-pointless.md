@@ -10,7 +10,6 @@ categories:
   - Newcastle United News
 
 ---
-![Shearer - Looks pretty happy there eh?](http://www.nufcblog.com/wp-content/uploads/2009/04/alan-shearer-reirthy.gif)
 
 As we enter the most important stage of the season with us lying 18th, in the relegation zone most supporters obviously think the worst. The possibility of being relegated from the finest league in the world to a league that is a long way off. Nobody wants to see Newcastle United in the Coca Cola League, we have the finest fans in the country and are one of the bigger teams in England. Newcastle being relegated would be a tragedy, not only for us, loyal Magpies but the English Premier League. We attract 40000 to St.James' on a bad day, even during these hard economic times where cash is few and far between.
 

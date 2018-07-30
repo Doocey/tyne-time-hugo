@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Colo - Opted to stay with Newcastle despite offers](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/9/13/1252855277993/Fabrizio-Coloccini-Newcas-001.jpg)
+![Colo - Opted to stay with Newcastle despite offers](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/9/13/1252855277993/Fabrizio-Coloccini-Newcas-001.jpg)
 
 Despite having a torrid first season in the Premier League and indeed becoming the laughing stock of Newcastle's leaky defence, it seems that Fabricio Coloccini still had offers on the table for his services. Saying that, I'd expect that there was offers but ones of a laughable amount, and we wouldn't be too keen on seeing him go for pennies considering we paid over £10m for him last  summer. Declaring himself very unhappy at Newcastle on many an occasion you were almost certain that Colo would move away from the Toon, be it on loan or permanent, however, after collecting the MOTM award on Saturday, I doubt he'll be going anywhere any time soon.
 

@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Stead - Nabbed winner against Cardiff City today](http://www.itv.com/img//original/Stead-Keane-to-show-what-he-is-wort-b3aaa65e-b0c7-48fe-9f4e-60880cadc1f5.jpg)
+### Stead - Nabbed winner against Cardiff City today
 
 A former Sunderland striker today secured a vital win for Roy Keane and his Ipswich Town side but also helped Newcastle United as well as a couple of other teams. After the defeat, it now leaves Cardiff in 7th, 12 points off Newcastle and Ipswich are now off the bottom of the table, leaping above Peterborough. What's more is that we've played Cardiff City at theirs and you might  remember that Fabricio Coloccini scored the winner in that hard fought game. Cardiff are far from out of the running but it's always nice to see fellow promotion contenders lose.
 

@@ -22,7 +22,7 @@ tags:
   - NUFC Blog
 
 ---
-![Ashley - Has resorted to staying at the club](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/31/1243724420545/Mike-Ashley-001.jpg)
+![Ashley - Has resorted to staying at the club](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/31/1243724420545/Mike-Ashley-001.jpg)
 
 As I said in my previous article, the loan signing of Danny Simpson could have well indicated that Mike Ashley is staying as owner and breaking news from Sky Sports and their North Eastern reporter, David Craig indicate  Ashley will take the club off the market in about a week if no one comes forward to offer an acceptable amount. What ever happened to Barry Moat and his deposit today or about them being in talks with more consortia that just Moat?
 

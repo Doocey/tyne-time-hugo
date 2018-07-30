@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll is mocking Newcastle United as club](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/7/1260199353694/Andy-Carroll-001.jpg)
+![Andy Carroll is mocking Newcastle United as club](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/7/1260199353694/Andy-Carroll-001.jpg)
 
 Foolish, selfish, ridiculous, childish, stupid, outrageous and more than anything, arrogant. The Andy Carroll story. Reportedly he's after breaking Steven Taylor's jaw in a Sunday training session and I needn't say anymore. Disgraceful from a Geordie born lad who was making great strides this season. Now however, his season is over as far as I'm concerned and he'll be extremely lucky to  remain a Newcastle United player too. This is just utterly disgraceful and nothing less.
 

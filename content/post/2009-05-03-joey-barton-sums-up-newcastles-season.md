@@ -8,7 +8,7 @@ categories:
   - Newcastle United News
 
 ---
-![Barton - Does this guy ever learn?](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/05/20/JoeyBartonPaulThomasAP476.jpg)
+![Barton - Does this guy ever learn?](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/05/20/JoeyBartonPaulThomasAP476.jpg)
 
 Another loss and another Joey Barton moment. Does this guy know when he has life good? After getting off the hook from an assault, getting out of prison early and getting backing from NUFC he still continues to shame the team he plays for. Not to mention we pay his £45,000 + a week wages. He had kept quiet for the whole game until he couldn't resist clattering into Xabi Alonso. Alonso who had the ball on the corner flag with his back to goal, posing no threat as such was met but an obnoxious tackle from the ever controversial Joey Barton. Throughout the first half we didn't do too badly except for some terrible marking. We started the game well and actually threatened somewhat, however typical luck goes against us and Liverpool grab an offside goal courtesy of the in form Israeli.
 

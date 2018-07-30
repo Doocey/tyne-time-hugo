@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Marlon - Scored on home debut](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/9/30/1254343925874/Marlon-Harewood-001.jpg)
+![Marlon - Scored on home debut](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/9/30/1254343925874/Marlon-Harewood-001.jpg)
 
 If it's not very common at Newcastle, that players score on their home debut but Marlon Harewood did just that against Queens Park Rangers last night. Although we rued the chance to go five points clear at the top, the main thing is, the lads got something out of the game. It was a game that you just thought it was going to one of those nights. However, to say we were lucky  isn't even a joke. We should've really wrapped that game up by 60mins but poor shooting and poor composure let us down in the end. Luckily our new lad Marlon Harewood, nabbed the equaliser.
 

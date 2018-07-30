@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Barton - He can help the survival bid](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/05/20/JoeyBartonPaulThomasAP476.jpg)
+![Barton - He can help the survival bid](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/05/20/JoeyBartonPaulThomasAP476.jpg)
 
 It's good to see the injuries are clearing up for Newcastle with the latest, Joey Barton expected to make a return to the Premier League very soon. It had been reported that he might even make a return v Stoke but it won't happen, no so quickly. In fairness, we have missed Barton, one man who shows a fighting spirit on the field and someone who isn't afraid to get stuck in. He got injured at City, the day we lost 2-1 and trouble signaled. Since then we've had Kevin Nolan to fill the void but he's looked less than impressive however there is more to come from him we know it. Nicky Butt has more than held his own too for his age, a lot of credit is due to him.
 

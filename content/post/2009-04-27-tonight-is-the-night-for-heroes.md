@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Fans - Not at fault this season](http://i.dailymail.co.uk/i/pix/2009/01/22/article-0-005EE87A00000258-805_468x307.jpg)
+![Fans - Not at fault this season](https://i.dailymail.co.uk/i/pix/2009/01/22/article-0-005EE87A00000258-805_468x307.jpg)
 
 At 8pm tonight we'll kick off at a packed St.James' Park with a little if not 52,000 people watching inside the theatre. That's excluding the millions that will watch from abroad such as myself. We all know that if we don't get all 3 points tonight against Portsmouth then we're heading down because I can't see us staying up even if we win our remaining 2 homes game after that. We have a good record against Pompey, with Shearer's milestone being against this very team. We hope and pray that all 3 points are yielded tonight and that we can look at the table, above Boro and a point from Hull. As said before Hull have Villa next and us, Liverpool.It's unlikely that we'd get anything from Anfield and we hope the same for Hull's tie at Villa Park.
 

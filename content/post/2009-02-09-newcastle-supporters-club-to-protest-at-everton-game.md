@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Protest - Stupid to say the least](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/09/03/newcastlefans2.jpg)
+![Protest - Stupid to say the least](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/09/03/newcastlefans2.jpg)
 
 There is news today that NUSC are planning a protest at the Everton game to signal their intentions once again. It is clear they have wanted Mike Ashley out after Keegan's departure and that is acceptable. However planning a protest at such a time when we are deep in a relegation battle and have got our 1st win in some time is stupid, very idiotic indeed. The players need us more than ever now and especially against Everton, if we win that game it would be a great great win to say the least. Morale is high at Newcastle at least higher than it was a while ago and we need to keep it up.
 

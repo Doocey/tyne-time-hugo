@@ -19,7 +19,7 @@ tags:
   - Seymour Pierce
 
 ---
-![Harris - Reportedly recommended a bidder to Ashley](http://i.telegraph.co.uk/telegraph/multimedia/archive/01402/keith_harris_1402727c.jpg)
+![Harris - Reportedly recommended a bidder to Ashley](https://i.telegraph.co.uk/telegraph/multimedia/archive/01402/keith_harris_1402727c.jpg)
 
 Will we ever be sold is  the question being asked every day of the week from Newcastle fans, and you yourself may begin to wonder if Mike Ashley will depart from St.James Park anytime soon. However the latest reports are, that Keith Harris, who is working on the Newcastle sale on Seymour Pierce's behalf, has recommended a bidder to Ashley and it's up to Mike to accept or reject. How true these reports are , we don't know but if everything went to plan, Keith Harris would've reported back to Ashley yesterday evening. Things are never simple at Newcastle United though are they?
 

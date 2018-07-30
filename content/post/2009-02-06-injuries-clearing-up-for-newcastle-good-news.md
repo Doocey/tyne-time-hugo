@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Viduka - Goals needed for the rest of the season](http://img.skysports.com/08/07/218x298/MarkViduka_1029351.jpg)
+![Viduka - Goals needed for the rest of the season](https://img.skysports.com/08/07/218x298/MarkViduka_1029351.jpg)
 
 Injuries are clearing up at Newcastle and this is good news, very good news indeed. With a fully fit squad we can challenge and beat any team bar the top four. Unfortunately our players cannot stay fit and get nasty injuries to keep them out or prolonged spells. Now that we are facing a nervy finale more faces coming back from injury is brilliant news, especially when some of these are quality like Martins and Viduka, when he wants to be.
 

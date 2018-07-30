@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Jerome Rothen](http://cache.20minutes.fr/img/photos/afp/2008-01/2008-01-26/article_CPS.HZT73.260108113138.photo00.photo.default-512x301.jpg)
+![Jerome Rothen](https://cache.20minutes.fr/img/photos/afp/2008-01/2008-01-26/article_CPS.HZT73.260108113138.photo00.photo.default-512x301.jpg)
 
 Sky Sports are reporting within the last hour that Chris Hughton may well make a move for PSG's Jérôme Rothen. The winger, who is on loan at Rangers is meant to have caught the eye of Hughton in the last while. Speaking earlier today Hughton, who has been in good contact with the media, said he is very confident that his transfer targets will arrive this January, and maybe  sooner than later. With Beckford expected to arrive very soon indeed there are still lingering reports that Matthew Kilgallon could make a move to us yet.
 

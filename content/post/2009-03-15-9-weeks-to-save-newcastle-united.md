@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Hughton - Doing the best he can until Joe returns](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/09/23/ChrisHughton460.jpg)
+![Hughton - Doing the best he can until Joe returns](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/09/23/ChrisHughton460.jpg)
 
 We all know that Chris is doing the best he can to get Newcastle results and it is a hard job to say the least. Although we didn't win at Hull on Saturday our performance in the second half was quite good and that is type of form we need from the of each game from now on because we have a tough run in to the final day of the season. Next up are Arsenal who scored 4 against Blackburn (yes four in one game) and whether they'l do the same to Newcastle is doubtful. I think that we can honestly beat Arsenal and maybe, maybe that performance will propel us onto another victory at Stoke.
 

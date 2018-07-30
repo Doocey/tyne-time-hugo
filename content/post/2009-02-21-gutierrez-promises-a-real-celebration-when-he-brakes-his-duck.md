@@ -18,6 +18,6 @@ We can't wait for Jonas to start scoring because his runs and dashes are very ex
 
 Warning! _Contains a Spoiler!_
 
-![Jonas Gutierrez](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/07/10/Gutierrez460.jpg)
+![Jonas Gutierrez](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/07/10/Gutierrez460.jpg)
 
 Comments appreciated 🙂

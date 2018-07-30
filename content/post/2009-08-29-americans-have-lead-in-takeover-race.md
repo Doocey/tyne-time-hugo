@@ -22,7 +22,7 @@ tags:
   - NUFC Blog
 
 ---
-![NUFC - Still getting the run around](http://4.bp.blogspot.com/_hE1fLQMVB88/RqTatVfo2uI/AAAAAAAACAI/uEye84xwsaQ/s400/ST+JAMES+PARK+DENTRO.jpg)
+![NUFC - Still getting the run around](https://4.bp.blogspot.com/_hE1fLQMVB88/RqTatVfo2uI/AAAAAAAACAI/uEye84xwsaQ/s400/ST+JAMES+PARK+DENTRO.jpg)
 
 Sitting here in an internet cafe in the Algarve, the weather is almost too hot for comfort, so, I've decided to muster up an article or two. While I've been away it seems there's been a lot of talk and not much action per usual, but the good news that greeted me today, was reports that the firesale had ended at Newcastle United, and that's very good news, to say the least. The bad news though, is the injuries that have struck, we knew that they were coming and that it was only a matter of time but now they have hit perhaps our two best players at the minute, Shola Ameobi and Jonas Gutierrez.
 

@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![Chris Hughton has bought the necessary players to keep Newcastle United up](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/09/stjames460.jpg "St.James' Park")
+![Chris Hughton has bought the necessary players to keep Newcastle United up](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/09/stjames460.jpg "St.James' Park")
   
 #### St.James' - Will be graced by Hatem Ben Arfa & Cheick Tioté against Blackpool
 

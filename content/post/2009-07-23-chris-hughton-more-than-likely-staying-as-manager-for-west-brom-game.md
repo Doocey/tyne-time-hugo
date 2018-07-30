@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Hughton - Doing his best but is out of his depth](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/3/3/1236108796864/Chris-Hughton-001.jpg)
+![Hughton - Doing his best but is out of his depth](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/3/3/1236108796864/Chris-Hughton-001.jpg)
 
 It seems that the hierarchy  have learned nowt over the last season and continue to play their own game, which is affecting all of us. Mike Ashley doesn't know what he's doing sadly enough and his puppets aren't much better. Perhaps I'm being a little too harsh on them, after all Ashley did invest a whole lot of money into Newcastle United with very little,  no,  return. You would have to feel a little sympathy for him in that sense but he made no steps whatsoever to make amends and sort the club and effectively brought the club to it's knees, meaning here we are in the Coca Cola Championship. I know there are a lot of pro-Ashley out there but you really have to sit and have a hard think about what has occurred.
 

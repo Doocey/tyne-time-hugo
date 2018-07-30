@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Carroll - Will he start against Portsmouth?](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/12/1239544535228/andy-carroll-001.jpg)
+![Carroll - Will he start against Portsmouth?](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/12/1239544535228/andy-carroll-001.jpg)
 
 Local lad Carroll didn't have much of a chance against Tottenham and was curtailed was Michael Dawson, the question now, is whether he'll start against Portsmouth. He has no reason to be be dropped but Shearer has hinted at Owen, Martins and Viduka all starting upfront. I think Carroll should start because his ability in the air will be crucial on Monday. Martins is really the only other striker there that can leap a great height to nod one home for Newcastle. Carroll scored a beauty of a header v Stoke, one that we hope he can replicate in games to come.
 

@@ -39,7 +39,7 @@ tags:
   - Tyne Time
 
 ---
-![Kris Boyd could do well at Newcastle United should he make the move from Rangers](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/7/1231346456275/Kris-Boyd-001.jpg)
+![Kris Boyd could do well at Newcastle United should he make the move from Rangers](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/7/1231346456275/Kris-Boyd-001.jpg)
   
 Growing reports over the last few days or so claim that Kris Boyd is keen on leaving Rangers - for Newcastle United. The Scottish International has signalled that he is indeed leaving Rangers this season and on a free transfer. Various clubs are in for the hitman however if rumours are to be believed, Boyd is keen on playing for Newcastle United in the Premier League in August. I  think we realise at this stage that we have no money to spend this summer on any new players so we won't be expecting Jamie O'Hara, Hamit Altintop or Kevin Prince Boetang arriving on Tyneside any time soon, as if it was going to happen anyway.
 

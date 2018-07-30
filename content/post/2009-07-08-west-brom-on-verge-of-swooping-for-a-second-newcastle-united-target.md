@@ -18,7 +18,7 @@ tags:
   - Tyne Time
 
 ---
-![Cox - Would've been a good signing for Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/11/25/1227572042208/Simon-Cox-002.jpg)
+![Cox - Would've been a good signing for Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/11/25/1227572042208/Simon-Cox-002.jpg)
 
 I know were obviously looking for a  new owner first but as the days slip by, so do our potential transfer targets. It seems the other relegated team from the Premier League who are back at home, West Brom, are about the only team moving for players in the transfer window. Simon Cox was Brom's first signing and according to reports he was a Newcastle United target and more so for Alan Shearer. Realistically we won't keep Martins, not because he wants to leave but because he's costing too much, and will be forced out. Ameobi will probably survive the wrath even though he's well over paid.
 

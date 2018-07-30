@@ -11,7 +11,7 @@ categories:
 
 ---
 
-![Madouni - Possible arrival on Tyneside?](http://www.leverkusen.com/whoiswho/m/MadouniA.jpg)
+![Madouni - Possible arrival on Tyneside?](https://www.leverkusen.com/whoiswho/m/MadouniA.jpg)
 
 ## Madouni - Possible arrival on Tyneside?
 

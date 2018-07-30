@@ -21,7 +21,7 @@ tags:
   - Scunthorpe
 
 ---
-![McCann - A more than decent player](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/2/1238702306352/Grant-McCann-001.jpg)
+![McCann - A more than decent player](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/2/1238702306352/Grant-McCann-001.jpg)
 
 Scunthorpe is tonight the venue for Newcastle United's latest game on the road following last weeks loss to Nottingham Forest. The latest news to emerge from Newcastle is that Chris Hughton has been offered the full-time job verbally, with negotiations to start after the forthcoming games. Tonight will prove yet another stern test for a dicey Newcastle side of late. With news that  Steven Taylor will be out of action for a month, Danny Simpson may well continue his spell at CB or perhaps Tamas Kadar will get a chance, if available for selection.
 

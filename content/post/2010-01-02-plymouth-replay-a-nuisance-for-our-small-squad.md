@@ -22,7 +22,7 @@ tags:
   - Plymouth Argyle
 
 ---
-![Chris Hughton](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/3/25/1237995970848/Chris-Hughton-001.jpg)
+![Chris Hughton](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/3/25/1237995970848/Chris-Hughton-001.jpg)
 
 Perhaps I'm being a little too harsh, but another FA Cup tie isn't top of my wish list this new year. A 0-0 draw away to Plymouth Argyle means that the Green Army will make yet another trip to St.James' Park in the new year. In an affair that Nicky Butt nearly settled in the dying moments with a stinging volley, just wasn't to be and it meant that Plymouth earned another shout  at progressing in the FA Cup, in one of the biggest stadiums in England. Chris Hughton rung the changes for today's game which saw Tamas Kadar, Nile Ranger and Fabrice Pancrate all start.
 

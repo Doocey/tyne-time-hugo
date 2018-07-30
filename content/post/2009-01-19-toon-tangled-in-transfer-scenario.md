@@ -11,7 +11,7 @@ categories:
 
 ---
 
-![Kinnear - Does he actually have £10m to spend?](http://newsimg.bbc.co.uk/media/images/45341000/jpg/_45341298_kinnear512x288.jpg)
+![Kinnear - Does he actually have £10m to spend?](https://newsimg.bbc.co.uk/media/images/45341000/jpg/_45341298_kinnear512x288.jpg)
 
 Well its very hard to be Newcastle supporter during this time, we face uncertainty and the January Transfer window hasn't gone well so far. Peter Lovenkrands and two loan possibilities will play tomorrow in a friendly v Carlisle. If they see Lovenkrands good enough and likewise for the two loan possibilities then we could well have 3 players in on Wednesday. It is exactly what we need, numbers. We've 11 days break until we play City in Eastlands, a City team that could include Robinho, Kaka, Nigel de Jong and Craig Bellamy. We can't worry too much about their scenario though and need to get on with ours.
 

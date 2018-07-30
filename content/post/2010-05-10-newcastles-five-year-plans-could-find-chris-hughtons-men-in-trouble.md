@@ -41,7 +41,7 @@ tags:
   - Tyne Time
 
 ---
-![Chris Hughton will have a tough task keep Newcastle United up](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/4/5/1270499405772/Chris-Hughton-001.jpg)
+![Chris Hughton will have a tough task keep Newcastle United up](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/4/5/1270499405772/Chris-Hughton-001.jpg)
   
 #### Hughton - Really does need a couple of signings this summer to get things right
 

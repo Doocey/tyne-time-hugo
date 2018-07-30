@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Ofere - Hughton reportedly interested](http://gfx2.aftonbladet-cdn.se/image/12008646/480/normal/cc94ee0f48081/edward+ofere)
+![Ofere - Hughton reportedly interested](https://gfx2.aftonbladet-cdn.se/image/12008646/480/normal/cc94ee0f48081/edward+ofere)
 
 Towering Malmo centre forward Edward Ofere is reportedly ticking the interest of current Newcastle United manager, Chris Hughton. The 6'3 Nigerian who has played more than a couple of times for his international side was scouted by Toon staff and their reports back to Chris were positive. Whether we need another tall and rumbustious striker is debatable with  Ameobi, Carroll, Nile Ranger all on the books already but the reports on this lad are very interesting indeed. He's highly rated within Nigeria and indeed within Sweden where he plys his trade.
 

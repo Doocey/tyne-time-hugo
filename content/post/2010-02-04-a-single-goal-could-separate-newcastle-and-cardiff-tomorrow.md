@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Michael Chopra is all out to beat Newcastle United tomorrow](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/9/29/1254260599264/Michael-Chopra-001.jpg "Chopra - Looking to end Newcastle's fine form at St.James' this season")
+![Michael Chopra is all out to beat Newcastle United tomorrow](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/9/29/1254260599264/Michael-Chopra-001.jpg "Chopra - Looking to end Newcastle's fine form at St.James' this season")
 
 I've already talked about the importance of tomorrows game and I think it's pretty obvious that it could be a momentous win, should we manage to grab all three points against Dave Jones men. Chris Hughton is under slight pressure for the first time all season and a negative result tomorrow will throw the title race open to a lot more than just Forest, Brom & us. Cardiff have over come their bad patch which saw them go four nil up against Peterborough before throwing it away and settling for a draw.
 

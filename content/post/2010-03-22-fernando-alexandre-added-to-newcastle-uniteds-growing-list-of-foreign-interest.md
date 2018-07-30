@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![Fernando Alexandre linked with Toon switch](http://img.skysports.com/10/03/800x600/FernandoAlexandre_2434268.jpg)
+![Fernando Alexandre linked with Toon switch](https://img.skysports.com/10/03/800x600/FernandoAlexandre_2434268.jpg)
 
 The next Javier Mascherano apparently but you just wouldn't trust the people who says these things! Newcastle United have been linked with another player plying his trade in the sunny side of Europe. This time Fernando Alexandre is the man being linked with the Toon. A defensive midfielder naturally, he's highly rated in Portugal and indeed is on-loan at Leixões at this current time . It's believed that Graham Carr is taking a look at him, as well as host of other foreign talent.
 

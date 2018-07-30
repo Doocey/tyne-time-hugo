@@ -16,7 +16,7 @@ tags:
   - Sir Bobby Robson
 
 ---
-![Robson - A Geordie and a Gentleman](http://2.bp.blogspot.com/_eosGkndaIFM/SJr3uNcFnvI/AAAAAAAADh8/IuvYlcRLZyo/s400/robsonstatue.jpg)
+![Robson - A Geordie and a Gentleman](https://2.bp.blogspot.com/_eosGkndaIFM/SJr3uNcFnvI/AAAAAAAADh8/IuvYlcRLZyo/s400/robsonstatue.jpg)
 
 Your usual takeover talks goes out the window when you hear something like this. You are stopped in your tracks. When I heard Bobby Robson had died today, it  shocked me although I can't say I didn't expect it. Sir Bobby, has been battling cancer for the fifth time and eventually, the horrible cause got the better of a true legend. No fan in England won't know that famous name that is Sir Bobby Robson and no one will have a bad word to say about him, simply because he was a gentle, caring man who had football running through his veins
 

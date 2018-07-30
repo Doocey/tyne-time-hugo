@@ -24,7 +24,7 @@ tags:
   - Tyne Time
 
 ---
-![Danny Simpson set for Manchester United after loan deal with Newcastle expires](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/8/14/1250247780231/Danny-Simpson-001.jpg "Simpson - "Excessive" wage demands mean he won't be a Magpie")
+![Danny Simpson set for Manchester United after loan deal with Newcastle expires](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/8/14/1250247780231/Danny-Simpson-001.jpg "Simpson - "Excessive" wage demands mean he won't be a Magpie")
 
 Do excuse the title. It was rather irresistible although probably just a little terrible all the same. Anyway, if the rumours are accurate and the many of them, Danny Simpson will return to Manchester United in the next few days. This comes as his contract talks with Chris Hughton & co. have resulted in the full-back demanding too much per-week, as listed in the 'Newcastle United  Coca Championship rule book'. As well as this it seems as if Matthew Kilgallon will wait until the summer to leave Sheffield United and Everton is his most likely destination now.
 

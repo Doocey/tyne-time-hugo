@@ -18,7 +18,7 @@ tags:
   - NUFC Blog
 
 ---
-![Joey Barton](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/22/JoeyBarton460.jpg)
+![Joey Barton](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/22/JoeyBarton460.jpg)
 
 Swollen eyes, burst lips, broken teeth and a jail term all are familiar terms associated with Joey Barton. However, the man who served time in prison for beating the daylights out of a youngster in Liverpool a while back, has today spoke out against modern day footballers who are living the dream so to speak. Speaking, he said that most footballers are 'knobs' and think that  their extreme wealth will continue forever. We all can admit that players are certainly over-paid and no one, more than Joey Barton & his £50,000 a week wages.
 

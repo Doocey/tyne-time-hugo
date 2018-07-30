@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Dan Gosling may well walk out of Goodison Park on a free transfer](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/5/26/1243356544521/Dan-Gosling-001.jpg)
+![Dan Gosling may well walk out of Goodison Park on a free transfer](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/5/26/1243356544521/Dan-Gosling-001.jpg)
 
 News from Sky Sports claim that Newcastle United are becoming extremely interested in Everton's Dan Gosling and may well swoop for the 20 year-old. Gosling, who has been in a tangle with new contract negotiations may well leave this club this summer and Chris Hughton seems keen to recruit the 2009 FA Cup 4th Round hero. I must say, I'd be really pleased with Gosling at  Newcastle if we could manage it but we do have a of midfield players at the same time. He's also played a couple of times in the RB position and perhaps that's what Chris Hughton and co. are looking at.
 

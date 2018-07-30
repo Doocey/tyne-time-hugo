@@ -22,7 +22,7 @@ tags:
   - West Brom v Nottingham Forest
 
 ---
-![Nottingham Forest close gap to 5 points on Newcastle](http://static.guim.co.uk/sys-images/SPORT/Pix/pictures/2009/10/1/1254352853921/Dexter-Blackstock-001.jpg)
+![Nottingham Forest close gap to 5 points on Newcastle](https://static.guim.co.uk/sys-images/SPORT/Pix/pictures/2009/10/1/1254352853921/Dexter-Blackstock-001.jpg)
 
 All the talk surrounding Newcastle United this last week has been about their transfer targets Jermaine Beckford & Matthew Kilgallon. However, with our game with Reading at the Madejski Stadium called off due to the heavy snow, all the focus was on tonights game at the Hawthorns. In what was a rumbustious display from Nottingham Forest, they ran out 1-3 winners against  a West Brom side looking to close the gap on us to three points. With Forest lying 3rd themselves before kick-off, it meant an ideal result would have been probably a draw. However, it ended up being a comprehensive Forest win.
 
