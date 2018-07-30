@@ -4,7 +4,6 @@
 		<section class="bg-white ph3">
 			<div class="f5 f4-ns lh-copy pa3">
 				<h3>Posts Filed Under: {{.Title}}</h3>
-
 				<ul class="list pl1">
 					{{ range (where .Data.Pages "Type" "post") }}
 						<li class="link">
