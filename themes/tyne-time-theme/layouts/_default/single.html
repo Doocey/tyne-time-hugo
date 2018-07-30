@@ -1,19 +1,21 @@
 {{ partial "header.html" . }}
 {{ partialCached "nav.html" . }}
-{{ if .Params.image }}
-	<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}" class="w-100"/>
-{{ end }}
 
-<main class="ma3 mt0 pa2 pa4-ns ph8 mw8 center bg-near-white">
-		<article class="bg-white pa4">
+<main class="w-100 center bg-near-white">
+	{{ if .Params.image }}
+		<img src="{{ .Params.image }}" alt="{{ .Params.image_alt }}" class="w-100"/>
+	{{ end }}
+		<article class="ma3 mt0 pa2 pa4-ns ph8 mw8 bg-white">
 			<h1 class="b near-black f2-ns f3 fw2 lh-title mt0">{{ .Title }}</h1>
 			<div class="flex flex-wrap">
 			  <span>Words by <em>Kevin Doocey</em> on
-					<time class="">{{ .PublishDate.Format "January 2, 2006" }}</time>.</span>
+			  	<time>{{ .PublishDate.Format "January 2, 2006" }}</time>.
+			  </span>
 			</div>
 			<div class="f5 f4-ns lh-copy">
 				{{ "<!-- Article Start -->" | safeHTML }}
-				{{ .Content }} <div class="tc">⚫️ ⚪️</div>
+				{{ .Content }} 
+				<div class="tc">⚫️ ⚪️</div>
 				{{ "<!-- Article End -->" | safeHTML }}
 			</div>
 						<hr class="b--black-10">
