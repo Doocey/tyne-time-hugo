@@ -29,6 +29,7 @@
 		<link rel="canonical" href="{{ .Permalink }}" />
 		<link href="{{ "/index.xml" | absURL }}" rel="alternate" type="application/atom+xml" title="{{ .Site.Params.SiteName }}" />
     <link href="{{ "/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Params.SiteName }}" />
+		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 		<!-- Meta snippets begin here -->
 		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 155 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
 	{{ partial "meta/twitter-cards.html" .}}
@@ -39,4 +40,4 @@
 	<!-- Twitter Cards -->
 	</head>
 
-	<body class="baskerville sans-serif bg-near-white">
+	<body class="sans-serif bg-near-white" style="font-family: 'Libre Baskerville', serif;">
