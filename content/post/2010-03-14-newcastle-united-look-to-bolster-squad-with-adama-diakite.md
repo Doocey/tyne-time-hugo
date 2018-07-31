@@ -35,12 +35,8 @@ Newcastle United seem to be catching on to the way a football club is run, and t
 
 We here at Tyne Time managed to drain our rich resources from far and abroad and we managed to get a picture of Adama Diakite and to be honest, it could well be a different one although this guy definitely plays for lens.
 
-![Adama Diakite][1]
-
 Graham Carr, a Toon scout is meant to have watched him on Thursday night and immediately recommended him to Chris Hughton when he returned. This is the same guy who recommends Tom Cleverly, and although not that impressive, he's clearly looking at the right type of players for sure.
 
 If there's any French Newcastle United fans out there, do enlighten us with information about Adama in the comments section, because as I've said, there's as much info about him available as there was for Sirous Mahjoob!
 
 Comments welcome 🙂
-
- [1]: http://www.rclens.fr/site/club_reserve/Image3.jpg
