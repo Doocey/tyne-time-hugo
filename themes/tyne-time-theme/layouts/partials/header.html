@@ -1,17 +1,16 @@
 <!doctype html>
 <html lang="en-US">
 	<head>
-
 		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} — {{ .Site.Params.subpageTitle }}{{ end }}</title>
 		{{ if .IsHome }}
-		<script type="application/ld+json">
-		{
-		  "@context": "http://schema.org",
-		  "@type": "WebSite",
-		  "name": "{{ .Site.Params.SiteName }}",
-		  "url": "{{ .Permalink }}"
-		}
-		</script>
+			<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "WebSite",
+				"name": "{{ .Site.Params.SiteName }}",
+				"url": "{{ .Permalink }}"
+			}
+			</script>
 		{{ end }}
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -29,15 +28,14 @@
 		<link rel="canonical" href="{{ .Permalink }}" />
 		<link href="{{ "/index.xml" | absURL }}" rel="alternate" type="application/atom+xml" title="{{ .Site.Params.SiteName }}" />
     <link href="{{ "/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Params.SiteName }}" />
-		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 		<!-- Meta snippets begin here -->
 		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 155 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
-	{{ partial "meta/twitter-cards.html" .}}
-	<!-- Internal Schema -->
-	{{ partial "meta/schema.html" . }}
-	<!-- OG -->
-	{{ partial "meta/open-graph.html" . }}
-	<!-- Twitter Cards -->
+		{{ partial "meta/twitter-cards.html" .}}
+		<!-- Internal Schema -->
+		{{ partial "meta/schema.html" . }}
+		<!-- OG -->
+		{{ partial "meta/open-graph.html" . }}
+		<!-- Twitter Cards -->
 	</head>
 
-	<body class="sans-serif bg-near-white" style="font-family: 'Libre Baskerville', serif;">
+	<body class="baskerville sans-serif bg-near-white">
