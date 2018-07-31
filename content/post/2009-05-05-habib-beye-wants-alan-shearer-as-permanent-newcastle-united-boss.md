@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Beye - One man thats bothered about NUFC](http://images.teamtalk.com/08/10/330/Habib-Beye_1363253.jpg)
+### Beye - One man thats bothered about NUFC
 
 It's pretty clear that Alan Shearer has been a hit with both fans and players as he enters his 3 last games in charge of Newcastle United. Shearer who is from Newcastle himself, played for Newcastle and wore the prestigious captains armband, is wanted, by the players, as full time manager. Poor Alan hasn't had the best of times in charge but is doing all he can to save Newcastle United FC, alongside another man by the name of Habib Beye
 

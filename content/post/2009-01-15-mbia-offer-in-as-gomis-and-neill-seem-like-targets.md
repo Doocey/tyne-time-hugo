@@ -11,8 +11,7 @@ categories:
 
 ---
 
-![Gomis - Toon look to Frenchman again?](http://www.lepoint.fr/content/system/media/2/20080528/2008-05-28T173540Z_01_NOOTR_RTRIDSP_2_OFRSP-FOOTBALL-EURO-FRANCE-GOMIS-20080528.jpg "Gomis - Toon look to Frenchman again?")
-
+### Gomis - Toon look to Frenchman again?
 
 A major flush of stories have come through the press today with Newcastle having confirmed their interest in Stephane M'Bia and placing a bid of £5m. It would be hard to believe if this bid is accepted never mind the player wanting to come to St.James'. His club, Rennes are 3rd in the French league and questions have been asked whether he would be interested in swapping that for a big club in a competitive relegation battle. If Stephane does decide to move it would be a fantastic signing to say the least, 6'2 and strong, he would boss the midfield we'd like to think 😀 Everton has been after the Cameroonian for some time now though and reports in the summer was that an £8m had been rejected, mind you that would have been more that €8m euros at that time too!
 

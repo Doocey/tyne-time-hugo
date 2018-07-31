@@ -20,7 +20,6 @@ tags:
   - Sebastien Bassong
 
 ---
-![Michael Ashley](http://img.dailymail.co.uk/i/pix/2007/05_02/MikeAshley2_468x510.jpg)
 
 The Newcastle United trauma continues  with no sign of a buyer close to completing a buyout anytime soon and now a reliable source to the club at Newcastle believes the sale could take another month. According to nufc.com the source believes that Ashley is still trying to scape some money from wherever he can get it and this probably involved selling Obafemi Martins, Fabricio Coloccini, Jonas Gutierrez, Sebastien Bassong and who knows else.
 

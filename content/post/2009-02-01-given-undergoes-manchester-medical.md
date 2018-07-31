@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Given - Thanks for your 11 years of non stop brilliance](http://www3.pictures.gi.zimbio.com/Coventry+City+v+Newcastle+United+Carling+Cup+54YRO3_KOwEl.jpg)
+### Given - Thanks for your 11 years of non stop brilliance 
 
 It all set for action. Shay Given our best keeper, a consistent performer, is undergoing a medical at Manchester City. After Newcastle 1-5 loss at Liverpool Given hasn't been happy since and it seems after a long deliberation that both clubs have agreed a fee, in the region of £8m If the fee is just £8m alone most Toon fans will be raging, including myself. Hopefully though it includes a couple of good players (Elano and Onohua) or else Man City have got an absolute steal for the best keeper in the Premier League.
 

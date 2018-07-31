@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Marlon - Will hopefully score some goals](http://oi36.tinypic.com/2vjc51d.jpg)
+### Marlon - Will hopefully score some goals
 
 Being a fan through both the good and the bad times (and there's been plenty of both) I have started to see hope come about in abundance because we're lying aloft the Coca Cola Championship. This is exciting to say the least but some people are already getting prepared for a Premier League season next year. Whoever is thinking this way needs a serious head check (no offence). The days are gone when we used to contest the Premier League, FA Cup's and even reach the knock-out stages in the Champions League. Now, we're in the Coca Cola Championship, and we've to get used to it.
 

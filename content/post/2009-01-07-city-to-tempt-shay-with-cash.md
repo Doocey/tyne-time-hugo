@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Cash wont tempt loyal Given](http://www3.pictures.gi.zimbio.com/Coventry+City+v+Newcastle+United+Carling+Cup+54YRO3_KOwEl.jpg "Cash won't tempt loyal Given")
+### Cash won't tempt loyal Given
 
 News has just broke of Shay Given being bidded for by money burners City, what a surprise! Their interest has been far from private with a long list of suitors to City's cause and not just in keepers. The bid is meant to be in the region of £8m and personally I believe that is an insult to Newcatsle United and indeed Shay Given himself. If Given is to leave he is surely to go for half of what Buffon would've of indeed three quarters of his price.Buffon was offered €100m and with the current exchange rate, that isin't far off £100m sterling, Given is worth a least £15-25m at the minimum and with reports that Kinnear has to sell, will this hash of an offer leave him in no position but to accept? Reports are also suggesting Spurs will make a move soon.
 

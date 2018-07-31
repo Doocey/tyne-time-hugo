@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Players - Doing their job on the pitch](http://www3.pictures.zimbio.com/gi/Newcastle+United+v+Sheffield+Wednesday+NWonOu6d4Sll.jpg)
+![Players - Doing their job on the pitch](https://www3.pictures.zimbio.com/gi/Newcastle+United+v+Sheffield+Wednesday+NWonOu6d4Sll.jpg)
 
 We can't fault the lads performances over the season so far, two wins and a draw, that draw being a dreaded away trip to the Hawthorns for any other Championship side. However Newcastle United are not any Championship side, only at Newcastle could we  attract nearly 44,000 to a home game, mind you, it only being the third game of the season and the traveling Geordies weren't disappointed. Another Ameobi goal and another three points, leaving Newcastle 3rd in the Coca Cola Championship league standings. Just now there has been words from Derek Llambias that Barry Moat is 'there or thereabouts' on completing the Newcastle United sale.
 

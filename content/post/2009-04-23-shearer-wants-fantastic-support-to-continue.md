@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Shearer - Wants fans to give it their all](http://www.topnews.in/files/Alan-Shearer101.jpg)
+### Shearer - Wants fans to give it their all
 
 Alan Shearer has today urged fans to continue their great support of Newcastle United through these hard times and hopes that their home games end in 9 points for the Toon side. Speaking today, Shearer said that the fans have been unreal both at home and on their travels, even at Spurs they were at full voice. At his first game when the first goal went it for Chelsea the fans began to sing 'Shearer, Shearer'.How many other sets of fans would you have doing the same? The best fans in Britain are Newcastle fans and I'm not the only one to say that, Arsene Wenger, Hiddink and Alex Ferguson also praising the mighty Geordies.
 

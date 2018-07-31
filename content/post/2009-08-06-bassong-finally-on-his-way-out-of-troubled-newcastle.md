@@ -19,7 +19,7 @@ tags:
   - Sebastien Bassong
 
 ---
-![Bassong - Close to Spurs move](http://static.hugedomains.com/images/logo_huge_domains.gif)
+### Bassong - Close to Spurs move
 
 After a long time of asking and constant speculation, last seasons best player is extremely close to signing for Harry Redknapp's Spurs side. Following Darren Bent's departure to Sunderland for  £10m it's believed that Redknapp will be using that money on Newcastle's prized asset, Sebastien Bassong. Bassong who signed for a mere £500,000k has proved himself in English football in his first season, shining out in a lacklustre Newcastle United side. Bassong missed our last game at Villa and was sorely missed, as we were sent down. With that out of the way and the new Championship campaign starting on Saturday we'll be almost certain to be missing Seb.
 

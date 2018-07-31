@@ -19,7 +19,7 @@ tags:
   - Tyne Time
 
 ---
-![Shearer - May not become Newcastle manager afterall](http://www.nufcblog.com/wp-content/uploads/2009/05/alan-shearer-3527780591.jpg)
+### Shearer - May not become Newcastle manager afterall
 
 News has broke that Mike Ashley has officially put Newcastle United up for sale and is looking for Keith Harris to broker a deal, quicker rather than later. News comes , as I reported in a couple or articles below that Ashley was in talks over a take over and now he has said himself that he's looking to cut his massive losses and get out of Toon. Speaking today, Ashley said 
 

@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Tim Krul is a fantastic up and coming keeper for Newcastle United](http://www4.pictures.zimbio.com/gi/West+Bromwich+Albion+v+Newcastle+United+Z94tXGIyrVbm.jpg)
+![Tim Krul is a fantastic up and coming keeper for Newcastle United](https://www4.pictures.zimbio.com/gi/West+Bromwich+Albion+v+Newcastle+United+Z94tXGIyrVbm.jpg)
 
 There are reports emerging that Chris Hughton was in Scotland yesterday to watch John Ruddy play and keep tabs on the youngsters progress. The 23 year-old which is quite young for a keeper is on loan at Motherwell from Everton, with the hope he can finally over-take Time Howard between the sticks. If that's hard enough, it's a very long shot that he'll outdo either the  long-serving Steve Harper or indeed Time Krul and that's before I even mention Fraser Forster.
 

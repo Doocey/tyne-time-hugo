@@ -19,7 +19,7 @@ tags:
   - Profitable Group
 
 ---
-![McMahon - Looks likes he was in it for publicity - surprise surprise](http://www.bfcblog.co.uk/wp-content/uploads/2008/02/steve-mcmahon.png)
+### McMahon - Looks likes he was in it for publicity - surprise surprise
 
 This doesn't really come  as much of a shock to us Newcastle fans, because we questioned their interest when it all started long ago. The Profitable Group who declared an interest in Newcastle, saying they wanted to expand the stadium to 60,000 , appoint Shearer and give him a nice transfer kitty, have 'pulled' out of the race for the club. According to SSN the group couldn't provide any proof of funds to Mike Ashley and co. and were rejected because of this. What I can't understand is why it took so long for them to reach this decision. Obviously it's a publicity stunt for Profitable Group, although that comes as no surprise.
 

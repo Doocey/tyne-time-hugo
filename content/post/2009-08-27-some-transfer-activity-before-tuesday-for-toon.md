@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Hughton - Doing a very good job](http://i30.tinypic.com/25pms91.jpg)
+### Hughton - Doing a very good job
 
 Chris Hughton has given us the clearest indication yet that more players will leave at Newcastle and as well as that, new faces are set to arrive. As the transfer window closes very very soon, Hughton is braced for new arrivals and as reported last night Gareth Bale is rumoured to be extremely  close to sealing a move. However, the only problem is, his wage demands. At Spurs, Bale is meant to be earning 45k a week and let's be honest, that's far too much for a lad his age. The thing is, he can do a good job for Newcastle if he arrives and is also pretty good from the free-kick spot.
 
