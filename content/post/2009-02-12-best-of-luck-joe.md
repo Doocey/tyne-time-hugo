@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Wishing him a speedy and complete recovery](http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2008/11/10/1226357007408/Joe-Kinnear-001.jpg)
+![Wishing him a speedy and complete recovery](https://static.guim.co.uk/sys-images/Sport/Pix/columnists/2008/11/10/1226357007408/Joe-Kinnear-001.jpg)
 
 Newcastle United have issued an official statement on Joe Kinnear’s bypass surgery tomorrow.
 

@@ -13,7 +13,7 @@ tags:
   - Chris Hughton
 
 ---
-![Chris Hughton is working hard at trying to secure transfer targets](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/5/1257445093217/chris-hughton-001.jpg)
+![Chris Hughton is working hard at trying to secure transfer targets](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/5/1257445093217/chris-hughton-001.jpg)
 
 #### Hughton - Working hard at securing the transfer targets he wants for NUFC
 

@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Simpson - Only arrival this summer ](http://www.nufcblog.com/wp-content/uploads/2009/08/danny-simpson-1239-400x163.jpg)
+### Simpson - Only arrival this summer
 
 Danny Simpson's arrival from Manchester United a while back has been Newcastle's only 'signing' of the summer, so far. Mind you, it's only a loan deal and lasts to January, which is pretty poor if you ask me. I can't see why Newcastle don't look to loan Macheda, or Fabio or indeed  his brother Rafael.
 

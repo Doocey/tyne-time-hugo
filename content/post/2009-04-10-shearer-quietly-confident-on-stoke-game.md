@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Shearer - Hoping to get off to a flyer at Stoke](http://pictures.directnews.co.uk/liveimages/Alan+Shearer_1141_18421251_0_0_15270_300.jpg)
+### Shearer - Hoping to get off to a flyer at Stoke
 
 Alan Shearer today spoke to the local newspapers and talked about what he will implement for the upcoming Stoke game. Shearer said that he hopes what the lads have practiced in training can be replicated at the Britannia on Saturday afternoon. It seems Shearer is confident and that the players are performing well at training for him but there is one place and one place only we need their best performances and that's on the pitch. It's been a long time since we've been in a position that we are in now and I'm hoping with all other Newcastle fans that this will be the last time for many years to come. We deserve to be a Premier League team, without a doubt.
 

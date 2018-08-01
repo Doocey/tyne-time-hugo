@@ -13,7 +13,7 @@ tags:
   - Mike Ashley
 
 ---
-![Kinnear - Wont be returning as Newcastle manager](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/13/1231872130025/Joe-Kinnear-001.jpg)
+![Kinnear - Wont be returning as Newcastle manager](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/13/1231872130025/Joe-Kinnear-001.jpg)
 
 Newcastle United have announced , yes announced! that Joe Kinnear won't be returning as manager of the club. In a statement they said talks were ongoing with prospective consortia and that a sale was still in the pipeline. What I can't understand is why, they haven't included in that statement a statement of intent and of what exactly was going on a club. Where the sale was , regarding progress and any time-scale although their predicted times when the deal would be finalised was less than accurate. The players are getting sick of it and you can't blame them, does Mike Ashley spare any consideration for the fans? The people who inevitably keep the club going?
 

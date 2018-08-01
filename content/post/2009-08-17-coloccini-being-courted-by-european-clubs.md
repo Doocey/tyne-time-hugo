@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Coloccini - Spanish clubs ready to pounce](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/07/FabricioColocciniEmPATonyMarshall1.jpg)
+![Coloccini - Spanish clubs ready to pounce](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/07/FabricioColocciniEmPATonyMarshall1.jpg)
 
 Fabricio Coloccini is being touted for a return to Spain after a number of clubs have show interest in the Argentinian centre back. Arriving from Deportivo for a staggering £10.3m, Colo never settled and his game under Kevin Keegan (yes, Kevin Keegan) against Manchester United was arguably his best one. We saw glimpses of the old Coloccini against reading on Saturday but it all has to do with confidence. If we get an offer of half the mount we paid to Fabricio I think that it may well be accepted. And thing on £7m plus would be daylight robbery. I think that Coloccini will be a very neat player when he moves like everyone else who has left us, and he may well come back to haunt us, in some fashion, the hair maybe?
 

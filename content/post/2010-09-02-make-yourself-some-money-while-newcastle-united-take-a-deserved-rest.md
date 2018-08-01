@@ -28,7 +28,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll has been in great form for Newcastle United this season so far](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2010/8/22/1282487896706/Andy-Carroll-006.jpg "Andy Carroll")
+![Andy Carroll has been in great form for Newcastle United this season so far](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2010/8/22/1282487896706/Andy-Carroll-006.jpg "Andy Carroll")
 
 #### Carroll - Misses out on the Portuguese encounter tomorrow due to injury
 

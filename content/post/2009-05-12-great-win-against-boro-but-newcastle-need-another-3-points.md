@@ -22,7 +22,7 @@ tags:
   - tynetime
 
 ---
-![Taylor - Scored a great header yesterday](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/11/1242074097885/Steven-Taylor-001.jpg)
+![Taylor - Scored a great header yesterday](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/11/1242074097885/Steven-Taylor-001.jpg)
 
 Finally we've managed it, after a long wait, about 18 games to precise, we've got our first win and our first three points under Alan Shearer's guidance. After wrecking our chance against Pompey at St.James' the lads were determined that it wouldn't happen again. However after 3 minutes you couldn't help but wonder if we were in for the same rigmarole but when Danny Guthrie's great corner was met by an even better header by local lad Steven Taylor you just got the feeling it had to be our night.
 

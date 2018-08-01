@@ -8,7 +8,7 @@ categories:
   - Newcastle United News
 
 ---
-![Dowie - Believes Newcastle can get a result](http://images.rivals.net/08/05/460x238/Iain-Dowie-face-2_873390.jpg)
+### Dowie - Believes Newcastle can get a result
 
 Iain Dowie has come out today and talked about the important game at Stoke and the approach that the Magpies will take to it. Dowie knows the importance of the game itself and what either a win or loss could do to Newcastle United and it's Premier League survival hopes. Many pundits have fancied us to go down but Dowie believes himself and Alan can lead the Magpies to safety. It's been a big change in things with the club but I think Ashley has made a good decision in appointing Shearer and it seems that he'll allow Big Al to do it the way he wants.
 

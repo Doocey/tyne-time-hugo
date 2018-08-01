@@ -16,7 +16,7 @@ tags:
   - Tyne Time
 
 ---
-![Fans - Showed why they were the best in England, again](http://2.bp.blogspot.com/_TfpitcoG90I/SMBUhpdFKpI/AAAAAAAAA8I/6wnm7sQ-yU8/s320/2931647111-soccer-barclays-premier-league-aston-villa-v-newcastle-united-villa.jpg)
+![Fans - Showed why they were the best in England, again](https://2.bp.blogspot.com/_TfpitcoG90I/SMBUhpdFKpI/AAAAAAAAA8I/6wnm7sQ-yU8/s320/2931647111-soccer-barclays-premier-league-aston-villa-v-newcastle-united-villa.jpg)
 
 16 years. Top spot finishes consistently. 5-0 victories v Manchester United. Goal fests against the other top 3. But now, were not even in the same divsion as them, Come August we'll be playing in the Coca Cola Championship or as they call it, 'The Fizzy Pop League'. It's been a fatal season for Newcastle this year. 4 different  managers, different team each week, constant injuries and an owner who thought NUFC was a toy he could simply toss from his cradle. The moment Kevin Keegan resigned, troubled loomed. We appointed Joe Kinnear as 'temporary' then permanent and then he had a serious health problem which left the reigns at the feet of Chris Hughton. After poor results and on April Fool's day local hero Alan Shearer was appointed as manager. You can now see why Newcastle were relegated at Villa Park on the 25th of May 2009.
 

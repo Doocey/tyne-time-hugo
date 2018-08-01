@@ -15,7 +15,7 @@ tags:
   - Sebastien Bassong
 
 ---
-![Bassong - In high demand as expected](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/18/1242661508982/sebastien-bassong-001.jpg)
+![Bassong - In high demand as expected](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/5/18/1242661508982/sebastien-bassong-001.jpg)
 
 News has broke today that Sebastien Bassong, Newcastle's best player last season by far is on the verge of  joining Tottenham. Well no really but apparently Spurs are leading the chase to sign the Cameroonian international. We expected high demand for this player and we would be surprised if Arsenal didn't come in and make a suitable offer. Indeed we know Seb wants to leave but how much will he go for is another thing. Hopefully in the region of £8-10m if he does have to leave.
 

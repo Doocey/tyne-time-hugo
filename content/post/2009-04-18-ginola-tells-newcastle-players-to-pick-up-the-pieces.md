@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Ginola - Issues warning to Newcastle players](http://farm4.static.flickr.com/3069/2925405162_b06f1125a3.jpg)
+![Ginola - Issues warning to Newcastle players](https://farm4.static.flickr.com/3069/2925405162_b06f1125a3.jpg)
 
 Former Newcastle great David Ginola has today came out and said that the Newcastle players need to pick up the pieces and quickly if they're to survive in the Premier League this year. Ginola has watched from a distance as his once mighty Toon Army have dropped to a terrible state. He thinks that Shearer can keep them up and he's not the only person to say so. It seems everyone believes Shearer can keep them up as do we, but it will be a very tough task if we manage to stay in the Premier League. Shearer has nothing to lose taking this job and everything to gain, let's hope he keeps us up though.
 

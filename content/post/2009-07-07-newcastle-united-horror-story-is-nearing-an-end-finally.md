@@ -18,7 +18,7 @@ tags:
   - Profitable Group
 
 ---
-![Ashley - A terrible tenure at Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/28/1230487059052/mike-ashley-001.jpg)
+![Ashley - A terrible tenure at Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/28/1230487059052/mike-ashley-001.jpg)
 
 Finally we're nearly there  ,  Mike Ashley is ready to sell Newcastle United and there are three very willing buyers from what we hear. Apparently there are two from Asia and one from America but I'm pretty sure, it's one from Malaysia, one from Singapore and the other from America. The American interest could well be the man I reported on a couple of articles down, or maybe it's not. The identities are yet to be unveiled but we're more worried about how long it'll take. According to reports , three bids have been made, and the banks will recommend a buyer to Mike Ashley, on behalf of Seymour Pierce. You'd expect Ashley to accept the highest bidder but that's the question, has it gone to an auction style sale?
 

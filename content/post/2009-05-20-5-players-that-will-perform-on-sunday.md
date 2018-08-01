@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Duff - Wholl ever forget that last minute winner v Spurs?](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/21/1229879130696/Damien-Duff-001.jpg)
+![Duff - Wholl ever forget that last minute winner v Spurs?](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/21/1229879130696/Damien-Duff-001.jpg)
 
 It all comes down to Sunday, when every team goes into the final games of the season, that will decide the next 2 years of their footballing careers. Tottenham Hotspurs have done really well to come from the bottom of the PL table and challenge for a European spot, however that really shows what the Premier League campaign has been like this season. Blackburn are another team that have saved their status after a managerial change. Both Spurs, Blackburn, West Ham, Sunderland and Pompey have all taken managerial changes this season and for the majority it has ended up  in success. Even after
 
@@ -46,7 +46,7 @@ _He's waited a long long time for his full time role between the sticks but he's
 
 **Kevin Nolan**
 
-![Kevin Nolan](http://i.dailymail.co.uk/i/pix/2009/02/03/article-0-03438AD0000005DC-281_468x401.jpg)
+![Kevin Nolan](https://i.dailymail.co.uk/i/pix/2009/02/03/article-0-03438AD0000005DC-281_468x401.jpg)
 
 _Kevin Nolan has been here with Bolton before and has the experience although he mightn't show it. Most people were shocked when he arrived from Bolton for £4m but we took him all the same. He didn't show his real ability in his first few games, especially when he was sent off after a horrible tackle on Victor Anichebe. Since then he's improved and assisted Peter Lovenkrands for an extremely important goal v Boro. We can expect thriving runs from Kevin and spending a lot of the time going forward. I'd expect this but then again it could be a different Nolan that shows up on Sunday!_
 

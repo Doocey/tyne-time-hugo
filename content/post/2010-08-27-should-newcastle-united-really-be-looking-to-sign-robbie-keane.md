@@ -42,7 +42,7 @@ tags:
   - World Cup 2002
 
 ---
-![Robbie Keane has been linked with a move to Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/8/27/1282896163944/Robbie-Keane-006.jpg "Robbie Keane")
+![Robbie Keane has been linked with a move to Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/8/27/1282896163944/Robbie-Keane-006.jpg "Robbie Keane")
 
 #### Keane - Can you see him playing his football at St.James' Park this season?
 

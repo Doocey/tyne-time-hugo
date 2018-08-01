@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Keegan- Set for compensation but does he really need it?](http://blogs.reuters.com/soccer/files/2008/02/rtr1wg661keegan-2.jpg)
+![Keegan- Set for compensation but does he really need it?](https://blogs.reuters.com/soccer/files/2008/02/rtr1wg661keegan-2.jpg)
 
 News from LLambias has revealed that Newcastle are set to muster up £10m of Ashley money to pay off Keegan and to pay Real Mallorca for Jonas Gutierrez. Some confusion surrounds Jonas's story as it seamed we had done so sleek business by snatching him however no it seems the Toon may be regretting something and are willing a rumoured fee of £4m for the Argentine, still goods business if you ask me!
 

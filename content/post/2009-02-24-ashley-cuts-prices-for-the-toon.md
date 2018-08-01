@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Ashley - Cutting ticket prices to bring buzz back](http://i.telegraph.co.uk/telegraph/multimedia/archive/01349/mike_ashley_1349947c.jpg)
+![Ashley - Cutting ticket prices to bring buzz back](https://i.telegraph.co.uk/telegraph/multimedia/archive/01349/mike_ashley_1349947c.jpg)
 
 Good news today for Toon fans as Mike Ashley has decided to cut Newcastle's ticket prices by up to 9%. A change in price has been inevitable and receives a warm welcome to the loyal Toon fans. The fans of NUFC has been brilliant and I speak as an Irish man who sees St.James' beaming with Black and White, it's a great great sight and the players respect it so much. Although some can turn on the ownership or team, it is only because of the welfare of the club, lets be honest, we all want to see Newcastle United Football Club thrive.
 

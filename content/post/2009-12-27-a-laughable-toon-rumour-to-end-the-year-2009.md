@@ -22,7 +22,7 @@ tags:
   - Sunday Sun
 
 ---
-![Fabricio Coloccini - Newcastle](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/9/13/1252855277993/Fabrizio-Coloccini-Newcas-001.jpg)
+![Fabricio Coloccini - Newcastle](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/9/13/1252855277993/Fabrizio-Coloccini-Newcas-001.jpg)
 
 The Sunday Sun are reporting that Real Madrid could well be lining up a move for Newcastle's Fabricio Coloccini after Pepe's injury has proven to be a serious one, and will keep the Portuguese international out of action for months to come. In fairness to Coloccini, he's being doing well this season as you'd expect, especially from a £10.3m signing who played in the Champions  League only a few years back. However, yesterday we saw glimpses of uncertainty in the Argentine's play but nothing too serious, as he wasn't at fault for anything major.
 

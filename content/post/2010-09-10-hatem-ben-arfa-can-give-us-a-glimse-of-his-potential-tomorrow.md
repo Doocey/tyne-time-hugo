@@ -33,7 +33,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa can give us a glimpse of what we haggled for tomorrow](http://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
+![Hatem Ben Arfa can give us a glimpse of what we haggled for tomorrow](https://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
 
 After weeks of haggling, and negotiations, Newcastle United finally managed to bring Hatem Ben Arfa to St.James' Park and indeed tomorrow the Frenchman will make his début for the Toon. At home to Blackpool, the scene is set for Ben Arfa to do the business alongside his teammate Cheick Tioté who also joined from Dutch side FC Twente. We can't really expect goals upon  goals from either, but hopefully tomorrow, we'll get a glimpse of what they can both do, and Ben Arfa in particular.
 

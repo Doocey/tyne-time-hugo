@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![Andy Carroll forsees his future in football on Tyneside with Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/12/1239544535228/andy-carroll-001.jpg)
+![Andy Carroll forsees his future in football on Tyneside with Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/4/12/1239544535228/andy-carroll-001.jpg)
 
 #### Carroll - Committed to Newcastle United and our Premier League survival bid
 

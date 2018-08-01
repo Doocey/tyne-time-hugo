@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Barton - Now likely to miss the Pompey game](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/22/JoeyBarton460.jpg)
+![Barton - Now likely to miss the Pompey game](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/10/22/JoeyBarton460.jpg)
 
 Unfortunately it seems Joey Barton will not make a return for Newcastle on Monday as he has not yet regained his full fitness. He failed to show up for a reserves match yesterday, not because he decided not to go, but because he wasn't physically able. Joey is a massive player for us because he knows us for sticking by him. He has said many times that he wants to repay us for the faith kept in him but really you'd have the believe that it was Keegan's stance that did eventually keep the controversial midfielder at Newcastle.As we approach the biggest stage of the season, in many a year Joey is the type of players we need.
 

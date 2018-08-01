@@ -19,7 +19,7 @@ tags:
   - Relegation
 
 ---
-![Viduka - Would be suiting if he scored a couple on Monday](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2008/11/29/1227989980327/Mark-Viduka-001.jpg)
+![Viduka - Would be suiting if he scored a couple on Monday](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2008/11/29/1227989980327/Mark-Viduka-001.jpg)
 
 How suiting it would be should Mark Viduka score the winner or at least play a major role on Monday as Newcastle face their lesser rivals in a bid to avoid relegation. Viduka hasn't been the most consistent performer this season with very little performances but since his comeback against Tottenham, he has looked quiet decent indeed. There is no doubt that Viduka can score goals as well as use his best skill, holding up play to boost Newcastle's chances come Monday. Viduka scored in his first game against Boro last season and Shearer thinks he's well able to do it again.
 

@@ -26,7 +26,7 @@ tags:
   - Steven Taylor
 
 ---
-![Taylor - About to leave his boyhood club?](http://www1.pictures.gi.zimbio.com/Newcastle+United+v+Fulham+Premier+League+j5YMyy_9LlBl.jpg)
+![Taylor - About to leave his boyhood club?](https://www1.pictures.gi.zimbio.com/Newcastle+United+v+Fulham+Premier+League+j5YMyy_9LlBl.jpg)
 
 It's sad when it has come to this, a Newcastle United player, brought through the ranks, and having becoming a Newcastle United first team member, looking for the exit door at St.James' Park. Sky Sports News  (who else?) are reporting that the local lad, could be set for a move to David Moyes's Everton side who are fighting a losing battle with their own English centre back, Joleon Lescott. If this news is true, which we hope it's not, then it'll really put gas to the fire and the frustration will be taken out on Mike Ashley more than ever before. It's sad to see the likes of Bassong and Beye leave, and indeed Damien Duff, but to see a lad who's dream it was to play for NUFC, on his way out, really shows you how much we have fallen.
 

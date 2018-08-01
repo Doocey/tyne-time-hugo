@@ -37,7 +37,7 @@ tags:
   - tynetime
 
 ---
-![Shola Ameobi has been pretty good for Newcastle United all season](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/28/1262029838268/Shola-Ameobi-001.jpg)
+![Shola Ameobi has been pretty good for Newcastle United all season](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/12/28/1262029838268/Shola-Ameobi-001.jpg)
 
 Born in Nigeria but an English international at a young age, Shola Ameobi has been at Newcastle United for quite some time now. He was there for Shearer's later glory days at the start of the new millennium and now he himself, has been playing pretty well in a Newcastle shirt of late. A lot of people regard Ameobi as a clumsy, lanky striker and some people have attributed the nick name 'Stumbling Bambi' to the Toon striker as well. This a little harsh really considering Ameobi has pretty much scored any time he's played for Newcastle United this season.
 

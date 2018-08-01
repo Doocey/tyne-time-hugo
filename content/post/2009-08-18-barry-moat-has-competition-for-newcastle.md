@@ -22,7 +22,8 @@ tags:
   - NUFC Blog
 
 ---
-![Moat - Has secured backing from Barclays](http://www.nufcblog.com/wp-content/uploads/2009/08/mike-ashley-and-barry-moat-400x271.jpg)
+
+### Moat - Has secured backing from Barclays
 
 Derek Llambias today confirmed to Sky Sports News that Barry Moat has indeed begun talks with the clubs hierarchy over the sale of the beleaguered club. Moat was present at our 3-0 win over Reading in which was one of  the finest games the lads have played in St.James' Park in a long time. At the final whistle, Moat was seen shaking hands with Mike Ashley, perhaps just a business style fashion but it could be interpreted as agreeing on the sale of the club in principle. Although Moat is in tentative discussions with the club Llambias confirmed that he wasn't the only one and that there were other interested parties in talks as well.
 

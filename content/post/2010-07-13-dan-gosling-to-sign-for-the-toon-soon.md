@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![Dan Gosling is all but set for a move to the North East, Newcastle.](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2010/7/12/1278952409214/Dan-Gosling-006.jpg)
+![Dan Gosling is all but set for a move to the North East, Newcastle.](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2010/7/12/1278952409214/Dan-Gosling-006.jpg)
 
 #### Gosling - Newcastle await an Evertonian appeal about the players exit
 

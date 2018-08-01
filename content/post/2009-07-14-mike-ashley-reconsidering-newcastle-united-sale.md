@@ -18,7 +18,7 @@ tags:
   - Tyne Time
 
 ---
-![Ashley - Could end up staying as owner](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/2/10/1234306076176/Mike-Ashley-001.jpg)
+![Ashley - Could end up staying as owner](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/2/10/1234306076176/Mike-Ashley-001.jpg)
 
 The worst has really come  , Mike Ashley is reportedly reconsidering his selling position (for the second time) and may well take Newcastle United off the for sale list. This comes as all parties interested in buying have expressed a concern at the finance books at Newcastle and indeed you'd expect that. There are so many financial problems at the club, now that we're a Championship Club. Reports indicate that Ashley will remain as owner and Llambias as MD still, however a new Public Relations figure who we don't know just yet. Indeed you've probably saw this on various sites but it's quite possible that it'll happen.
 

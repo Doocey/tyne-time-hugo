@@ -18,7 +18,7 @@ tags:
   - Tyne Time
 
 ---
-![Krishnan - Expected to gain control today or tomorrow](http://images.forbes.com/media/lists/84/2007/YK1N.jpg)
+![Krishnan - Expected to gain control today or tomorrow](https://images.forbes.com/media/lists/84/2007/YK1N.jpg)
 
 The debacle seems to continue  on for ever but Mike Ashley is leaving, it's official, although we already knew that, it's going to happen in the next couple of days with Ananda Krishnan completing the buyout. indeed £100m isn't too much to the billionaire that is worth just under $8bn and I'm sure a £20m transfer budget wouldn't be stretching the bank either 😀 We're expecting a press conference soon about the announcement as the Malaysians are putting the finishing touches to the deal. They paid a second visit to Benton HQ yesterday and they weren't doing it for the scenery.
 

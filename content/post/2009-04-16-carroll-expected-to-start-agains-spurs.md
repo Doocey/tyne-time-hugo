@@ -8,7 +8,7 @@ categories:
   - Newcastle United News
 
 ---
-![Carroll - Ready for Tottenham game on Sunday](http://images.teamtalk.com/09/03/330/Carroll_1992660.jpg)
+### Carroll - Ready for Tottenham game on Sunday
 
 After a great header on Saturday last against Stoke, Big Andy is ready to start against Tottenham and hopefully score a couple of goals. We need all three points but then again, that's been the story of our season so far. We have finally reached the 30 point mark but Boro are level with us. They have a home game against Fulham and you'd nearly fancy Middlesbrough for that one despite Fulham's good away form. Fulham beat Man City at Eastlands on Sunday and you have to salute them on that, a very good win indeed. Fulham themselves were in a similar situation to us, and secured safety on the last day, tagged as a miracle. I certainly hope it won't come down to the last day for us and that we'll be safe before the last day.
 

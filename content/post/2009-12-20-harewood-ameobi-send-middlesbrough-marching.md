@@ -24,7 +24,7 @@ tags:
   - Shola Ameobi
 
 ---
-![Shola Ameobi - Newcastle](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/12/20/1261326904548/Shola-Ameobi-001.jpg)
+![Shola Ameobi - Newcastle](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/12/20/1261326904548/Shola-Ameobi-001.jpg)
 
 Another three points and another win against Middlesbrough. Well done Chris Hughton and well done the lads. In rather chilly conditions in St.James' Park, Marlon Harewood & Shola Ameobi both netted to ensure that we will have a happy Christmas period with a ten point gap between ourselves and West Bromich Albion. Although the game started quite slowly and perhaps  Boro having the better spell of possession, it was Marlon Harewood who latched on to a Shola Ameobi knock-down to slide the ball home and bring his tally to 5 this season.
 

@@ -39,7 +39,7 @@ tags:
   - Xisco
 
 ---
-![Xisco will depart Tyneside this Summer](http://i.telegraph.co.uk/telegraph/multimedia/archive/00979/xisco_979491c.jpg)
+![Xisco will depart Tyneside this Summer](https://i.telegraph.co.uk/telegraph/multimedia/archive/00979/xisco_979491c.jpg)
 
 First of all, a huge congratulations to Newcastle United for winning the Coca Cola Championship and indeed lifting it at St.James' Park today in front of a massive 52,000 fans. The attendance puts Sunderland's and indeed many more Premier League club's to shame and just shows what a footballing town Newcastle Upon-Tyne really is. Before the match, Chris Hughton  announced that Xisco would not be in his plans for the upcoming Premier League campaign and he indeed expects the Spaniard to move on.
 

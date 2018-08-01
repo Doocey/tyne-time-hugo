@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Hatem Ben Arfa finally set for Newcastle United it seems](http://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
+![Hatem Ben Arfa finally set for Newcastle United it seems](https://static.guim.co.uk/sys-images/Admin/BkFill/Default_image_group/2010/8/8/1281280948258/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
 
 #### Ben Arfa - Will fly to Newcastle United to complete the loan move
 

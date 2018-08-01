@@ -17,7 +17,7 @@ tags:
   - Tyne Time
 
 ---
-![Ashley - Looking to sell Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/6/1231281550034/Mike-Ashley-001.jpg)
+![Ashley - Looking to sell Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/1/6/1231281550034/Mike-Ashley-001.jpg)
 
 News has broken today, that Mike Ashley and his leading men are in talks with an unnamed consortium over the possible takeover of Newcastle United Football Club. After a dreadful season and the worst the club could suffer, relegation Mike Ashley yesterday apologized to the Newcastle faithful for his terrible ownership and today
 

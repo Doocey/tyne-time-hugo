@@ -38,7 +38,7 @@ tags:
   - Tyne Time
 
 ---
-![Fitz Hall could sign permanently at St.James' Park this Summer](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2010/1/29/1264762943666/Fitz-Hall-001.jpg)
+![Fitz Hall could sign permanently at St.James' Park this Summer](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2010/1/29/1264762943666/Fitz-Hall-001.jpg)
 
 There are reports flying about the place in the last couple of days that Fitz Hall could be arriving on Tyneside on a permanent basis once the transfer window reopens. The defender, on-loan from Queens Park Rangers has seen a turbulent time at Loftus Road and indeed has seen the club dig their way through more than 3 managers this season. Their current manager in Neil Warnock  could well have very different plans for the back four he wants next season and indeed Hall may not be included in them.
 

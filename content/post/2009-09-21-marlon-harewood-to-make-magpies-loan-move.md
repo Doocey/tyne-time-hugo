@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Harewood - Will be a good addition](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/3/13/1236946987961/Marlon-Harewood-in-action-001.jpg)
+![Harewood - Will be a good addition](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/3/13/1236946987961/Marlon-Harewood-in-action-001.jpg)
 
 Marlon Harewood's agent today confirmed that the Villa striker was very close to a loan move to Newcastle. The Villa forward, who has been out of action for a considerable amount of time now was being tracked by Chris Hughton since August and after Harewood overcame his injury, Hughton was once again in for his services. As you all know, Harewood is quite a beast or  physical player on the ball, he also has the ability to score quite a few goals and we'd expect a fair share of them, in his stunt on Tyneside.
 

@@ -34,7 +34,7 @@ tags:
   - Tyne Time
 
 ---
-![Ricky van Wolfswinkel has been linked with a switch to Newcastle United](http://www.voetbalplus.nl/online/iCMS/admin/inhoud/upload_afbeeldingen/Vitesse/Ricky_VanWolfswinkel_Claudemir.gif "Ricky van Wolfswinkel")
+![Ricky van Wolfswinkel has been linked with a switch to Newcastle United](https://www.voetbalplus.nl/online/iCMS/admin/inhoud/upload_afbeeldingen/Vitesse/Ricky_VanWolfswinkel_Claudemir.gif "Ricky van Wolfswinkel")
 
 What a name, what a name. Ricky van Wolfswinkel has today been linked with a move to Newcastle United just before the window slams shut for this summer. The Daily Mail have an article about it, but there's discussion in volumes throughout Dutch forums about his proposed move to Newcastle and it seems as if the Utrecht fans expect him to leave for St.James' in  the next day or so. The only time I've seen this guy play is when he destroyed Celtic with a hat-trick and I was very impressed by his finishing and overall play.
 

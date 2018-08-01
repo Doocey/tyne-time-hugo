@@ -16,7 +16,7 @@ tags:
   - Newcastle United Take Over
 
 ---
-![Ananda Krishnan - The mystery bidder fior Newcastle?](http://images.forbes.com/media/lists/10/2008/YK1N.jpg)
+![Ananda Krishnan - The mystery bidder fior Newcastle?](https://images.forbes.com/media/lists/10/2008/YK1N.jpg)
 
 There is more news about the mystery Malaysian bidder today, and his  name is believed to be Ananda Krishnan a rich foreigner that is worth $7.5bn, a little less than Robert Kuok but certainly a very wealthy man. Reports are surfacing, especially in
 

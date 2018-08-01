@@ -30,7 +30,7 @@ tags:
   - Tyne Time
 
 ---
-![Peter Lovenkrands scoring a nice amount of goals for Newcastle United this season](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/1/13/1263418648705/Peter-Lovenkrands-001.jpg "Loven - Doing well in the Championship and rewarding Chris Hughton's faith")  
+![Peter Lovenkrands scoring a nice amount of goals for Newcastle United this season](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/1/13/1263418648705/Peter-Lovenkrands-001.jpg "Loven - Doing well in the Championship and rewarding Chris Hughton's faith")  
 
 When Newcastle United in January 2009 confirmed that Peter Lovenkrands would indeed be staying until the end of the season under Joe Kinnear, there were a lot of unhappy Ton fans out there. In a dismal January transfer window which in a way sent us down from the Premier League, Lovenkrands was 1 of a mere 3 faces that arrived on a relegation threatened club at the time . He tried his best at Newcastle and score some important goals, like his goal away at West Brom and indeed sealing all 3 points in St.James' Park in Alan Shearer's first and only win if my memory serves me correctly.
 

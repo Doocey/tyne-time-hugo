@@ -20,7 +20,7 @@ tags:
   - Tom Cleverley
 
 ---
-![Cleverley - Being linked with Newcastle switch](http://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/8/18/1250585475913/Tom-Cleverley-001.jpg)
+![Cleverley - Being linked with Newcastle switch](https://static.guim.co.uk/sys-images/Football/Clubs/Club_Home/2009/8/18/1250585475913/Tom-Cleverley-001.jpg)
 
 Reports today claim that Chris Hughton is looking at Manchester United's Tom Cleverley. It's no surprise that the tabloids combined have managed nearly five articles on Newcastle alone but if I'm honest, I wouldn't mind if this rumour is true. Cleverly who is on loan with Watford has showed glimpses of why he is indeed with Manchester United. So far, he's played 14 games, scored  5 goals and had 4 assists. For any midfielder, that's an impressive record, and even better when you're twenty years of age.
 

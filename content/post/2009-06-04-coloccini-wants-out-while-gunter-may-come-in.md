@@ -22,7 +22,7 @@ tags:
   - Tyne Time
 
 ---
-![Coloccini - One of Newcastles biggest flops ever?](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/2/13/1234535509436/Fabricio-Coloccini-001.jpg)
+![Coloccini - One of Newcastles biggest flops ever?](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/2/13/1234535509436/Fabricio-Coloccini-001.jpg)
 
 I honestly think that Coloccini is still a good player and will refind his form he once had at Deportivo should he leave or stay. With that aside, if Colo leaves he will surely be one of Newcastle's biggest flops in history? He was terrible for the majority of the season, his two best games were  the first game of the season v Manchester United and the last game of the season v Aston Villa. However, Fabricio has been at fault for so many goals that we conceded this season. Now it seems he wants to abandon ship, and fly back to Spain or indeed a different league, to ply his trade.
 

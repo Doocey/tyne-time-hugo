@@ -40,7 +40,7 @@ tags:
   - Tyne Time
 
 ---
-![Kamil Zayatte & Hatem Ben Arfa are being linked with the Toon](http://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/2/14/1234627442399/Kamil-Zayatte-Sheffield-U-001.jpg "Kamil Zayatte")
+![Kamil Zayatte & Hatem Ben Arfa are being linked with the Toon](https://static.guim.co.uk/sys-images/Football/Clubs/Club%20Home/2009/2/14/1234627442399/Kamil-Zayatte-Sheffield-U-001.jpg "Kamil Zayatte")
 
 At this stage, no one really takes too much heed or notice of Marseille president Jean-Claude Dassier and his constant statements to the French media, however we could well be nearing the end of the the whole Ben Arfa saga. Today the Frenchman (Dassier) claimed that a deal had been agreed between both parties and Ben Arfa could well be heading to St.James' Park. In fact,  he has already travelled to Newcastle by himself, however to no avail as he was recalled before any talks with Chris Hughton and co. could take place.
 

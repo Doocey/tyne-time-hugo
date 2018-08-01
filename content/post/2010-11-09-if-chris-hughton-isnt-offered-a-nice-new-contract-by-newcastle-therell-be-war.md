@@ -40,7 +40,7 @@ tags:
   - Tyne Time
 
 ---
-![Hughton - Looking for a respectable deal from Newcastle United](http://i.telegraph.co.uk/telegraph/multimedia/archive/01756/hughton_1756622c.jpg "Chris Hughton")
+![Hughton - Looking for a respectable deal from Newcastle United](https://i.telegraph.co.uk/telegraph/multimedia/archive/01756/hughton_1756622c.jpg "Chris Hughton")
 
 #### Hughton - Has done a fantastic job since taking over a sinking ship
 

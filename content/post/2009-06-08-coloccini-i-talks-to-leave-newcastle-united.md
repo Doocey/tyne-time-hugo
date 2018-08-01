@@ -20,7 +20,7 @@ tags:
   - Tyne Time
 
 ---
-![Coloccini - Set to move back to Spain](http://static.hugedomains.com/images/logo_huge_domains.gif)
+### Coloccini - Set to move back to Spain
 
 It might be music to some Toon fans ears, or maybe all but Fabricio Coloccini is set for a move away from Newcastle. The Argie arrived from Deportivo for a staggering fee of £10.3m in the summer when Kevin Keegan was at the helm but with  turmoil on and off the pitch Coloccini couldn't handle English top flight football and suffered, badly. There is no doubt that Coloccini is a very good defender in his own right but in fairness to him, the nonsense on and off the pitch was enough to wreck his first Premier League season.
 

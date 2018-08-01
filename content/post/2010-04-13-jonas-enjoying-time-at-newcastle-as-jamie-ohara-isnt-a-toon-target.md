@@ -35,7 +35,7 @@ tags:
   - Tyne Time
 
 ---
-![Jonas Gutiierrez doing very well for Newcastle United so far this season](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/8/1257687255451/Jonas-Gutierrez-celebrate-001.jpg)
+![Jonas Gutiierrez doing very well for Newcastle United so far this season](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/11/8/1257687255451/Jonas-Gutierrez-celebrate-001.jpg)
 
 ### Jonas - Doing well on Tyneside this season and has scored a few goals
 

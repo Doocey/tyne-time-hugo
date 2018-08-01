@@ -9,7 +9,7 @@ categories:
 
 ---
 
-![Southgate - Has a very tough task on his hands](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/12/1229090965879/Gareth-Southgate-001.jpg)
+![Southgate - Has a very tough task on his hands](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/12/12/1229090965879/Gareth-Southgate-001.jpg)
 
 We might be in a bad position but there are nearly always teams worse than us. It is the case this year again but there isn't much in the difference really. As it stands 17,18 and 19th position are occupied by all Northern English teams. Sunderland, Newcastle and Middesbrough. it doesn't say much for the football up North but in fairness none of the above teams should be where they are. Although we're rivals I carry a little sympathy for Gareth Southgate and the troubles he faces. He's been very unlucky this season, a late Gerrard goal to win it for Liverpool and other decisions that haven't went his way, but that's football.
 

@@ -19,7 +19,7 @@ tags:
   - NUFC Blog
 
 ---
-![Barton - Says hes learned - Prove it](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/5/1241516492586/-Joey-Barton-is-sent-off--001.jpg)
+![Barton - Says hes learned - Prove it](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/5/1241516492586/-Joey-Barton-is-sent-off--001.jpg)
 
 We all remember Joey Barton don't we? The guy who has played a few games for us and picks up a cool 65k a week, even when he was in prison last year. I think the name rings a bell. Well he;s injured again and taking time out he spoke to Sky Sports at length, confessing to bust-up's with Chris Hughton and Alan Shearer, Kinnear the only one he didn't have a tattle with it seems.  As well as this he says he's ready to put the past behind him and get down to work, coming back from injury and bringing Newcastle United back to the Premier League.
 

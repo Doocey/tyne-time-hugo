@@ -12,7 +12,7 @@ tags:
   - Steve McMahon
 
 ---
-![McMahon - Confirmed Newcastle bid](http://www.nufcblog.org/wp-content/uploads/2009/06/profitable_group.gif)
+### McMahon - Confirmed Newcastle bid
 
 The Shields Gazette is today reporting  that Profitable Group, headed by Steve McMahon had made an official bid for Newcastle United Football Club and that possibly they are the front runners to gain control. Speaking today to another newspaper, called The Strait Times that the bid has been made and it would be a very good outcome for all parties concerned. As you know McMahon is a former footballer himself and obviously knows the ropes, or so we hope.
 

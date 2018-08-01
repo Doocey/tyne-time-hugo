@@ -26,7 +26,7 @@ tags:
   - Xisco
 
 ---
-![Xisco worth recalling for January promotion push?](http://i.telegraph.co.uk/telegraph/multimedia/archive/00979/xisco_979491c.jpg)
+![Xisco worth recalling for January promotion push?](https://i.telegraph.co.uk/telegraph/multimedia/archive/00979/xisco_979491c.jpg)
 
 One of our readers asked the question whether recalling Francisco Jiménez Tejada or more commonly known as Xisco, could solve Newcastle's continuing forward problems. We've been constantly linked with Jermaine Beckford but most have forgotten our own player Xisco, who is still on the books at Newcastle United. Although on loan at Racing Santander at the minute, I'd be  pretty confident there's a clause in his contract which allows us to recall him at anytime from his loan in Spain. He did cost £5.75m after all and it's fair to say that we haven't got any value for money just yet.
 

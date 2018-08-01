@@ -19,7 +19,7 @@ tags:
   - Sebastien Bassong
 
 ---
-![Bassong - Cant blame him for wanting to leave](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/19/1242748372868/S-bastien-Bassong-of-Newc-001.jpg)
+![Bassong - Cant blame him for wanting to leave](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2009/5/19/1242748372868/S-bastien-Bassong-of-Newc-001.jpg)
 
 As the rumours get the hopes up on Tyneside we are let down again , this time the Chronicle are claiming that the club will more than likely be under the control of Mike Ashley. We've had Malaysians, Singaporeans , Americans, Irish, Chinese, Dubai, Iranians, Nigerians, Englishmen and Sunderland fans hoaxes throughout our takeover journey. We hoped that after relegation things would've picked up and maybe with Shearer appointed as manager and new owners we could just make the play-offs but now, there's not much chance of this happening.
 

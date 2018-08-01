@@ -19,7 +19,7 @@ tags:
   - NUFC Blog
 
 ---
-![Jonas - Back for QPR test](http://www2.pictures.zimbio.com/gi/Newcastle+United+v+Sheffield+Wednesday+Vx4-b96pvkom.jpg)
+![Jonas - Back for QPR test](https://www2.pictures.zimbio.com/gi/Newcastle+United+v+Sheffield+Wednesday+Vx4-b96pvkom.jpg)
 
 Jonas Gutierrez is back for tonight's encounter with QPR at St.James' Park following his absence due to injury. The Argentine, who has pledged his allegiance to Newcastle and to his country to bring both of them to where they belong, Argentina to the World Cup and the more important one, Newcastle United back to the Premier League. It will good to welcome back  Jonas who will be more than an asset in the Coca Cola Championship, and just as he was getting into his stride, injury struck vs Huddersfield, in the same game as Shola Ameobi limped off.
 

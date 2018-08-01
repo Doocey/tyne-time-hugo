@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Vuckic - Becoming a target for big European teams](http://i25.tinypic.com/ap8m6x.jpg)
+### Vuckic - Becoming a target for big European teams
 
 As I've said many times before, and it's been emphasised quite a lot elsewhere is the youth setup Newcastle United have at the minute and indeed the fruit we are bearing from it. It's without a doubt the best thing Mike Ashley implemented on Tyneside during his torrid tenure but I'm speaking as if he's gone, unfortunately he's not, just yet. A man who is attracting a lot of interest at just 17 is  Haris Vu?ki?, the Slovenian attacking midfielder. Newcastle completed a major coup when sealing his signature from NK Domžale and his dazzling performances in youth and reserve games hasn't gone unnoticed.
 

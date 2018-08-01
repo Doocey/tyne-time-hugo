@@ -19,7 +19,7 @@ tags:
   - Steve McMahon
 
 ---
-![McMahon - Serious about buying Newcastle United](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/07/mcmahon476.jpg)
+![McMahon - Serious about buying Newcastle United](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2008/08/07/mcmahon476.jpg)
 
 The main news  today regarding the takeover is that Profitable Group have upped their bid for Newcastle United. The last bit we had heard for these was , that they were waiting on a reply about their initial bid which is unknown. However the bid was insufficient and today, they were meant to have bid again, the bid is understood to be less than £100m but indeed covering that price in clauses and installments. We're still in the dark over what's going on and there's a transfer embargo on the club whilst its ownership is being discussed. Meaning no players can come in or out of the club while the talks continue.
 

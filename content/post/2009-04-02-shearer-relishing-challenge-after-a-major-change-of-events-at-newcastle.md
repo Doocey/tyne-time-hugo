@@ -10,7 +10,7 @@ categories:
   - Newcastle United News
 
 ---
-![Shearer - Now boss and how happy we are to have him](http://newsimg.bbc.co.uk/media/images/40808000/jpg/_40808456_shearer_getty.jpg)
+![Shearer - Now boss and how happy we are to have him](https://newsimg.bbc.co.uk/media/images/40808000/jpg/_40808456_shearer_getty.jpg)
 
 Well, what a change to Newcastle United in less than 48 hours. We were all concentrating on the Chelsea match hoping for Chris Hughton's first win, excluding Joe Kinnear's absence at West Brom. However now, less than 2 days away from that big game we have Alan Shearer as manager , Ian Dowie as assistant and Dennis Wise is no longer. What a change! In my opinion it's for the best and if Big Al can't save us, no one can. Joe Kinnear will surely have an influence too with Hughton gone back to coaching.
 

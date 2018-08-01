@@ -22,7 +22,7 @@ tags:
   - Relegation
 
 ---
-![Newcastle - What is in store in Villa Park?](http://www3.pictures.gi.zimbio.com/Alan+Shearer+Takes+Over+Newcastle+United+Manager+Gkc4swu7cYBl.jpg)
+### Newcastle - What is in store in Villa Park?
 
 The demise of Newcastle United is a sad story and very sad one indeed. Once an extremely powerful force in English Football, the Magpies have plundered to the lowest of the low, occupying an automatic relegation seat, and only one game left in the entire season to save it. I'm sick of the constant nonsense that has happened with Newcastle, the ownership, the poor performances and the instability. We've had our chances to get safe, Stoke away, Pompey at home, and recently Fulham at home. We managed to beat Middlesbrough 3-1 and we hoped for some of the same against the Cottagers, however, some poor refereeing decisions and luck prised away from any share of the spoils.
 

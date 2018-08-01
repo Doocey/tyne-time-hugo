@@ -21,7 +21,7 @@ tags:
   - Shola Ameobi
 
 ---
-![Ameobi - A big threat to the Championship](http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/8/15/1250363282917/Shola-Ameobi-scores-his-t-001.jpg)
+![Ameobi - A big threat to the Championship](https://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/8/15/1250363282917/Shola-Ameobi-scores-his-t-001.jpg)
 
 Who would've thought or indeed would've said, a year ago, that Shola Ameobi would be a huge loss to Newcastle United's strike force? Ameobi, who is Nigerian by birth is starting to show, this season at least, some of the quality the famous Nigerian strikers had. Bagging a hattrick against Reading, scoring the winner v Sheffield Wednesday and adding to his tally in the  Carling Cup vs Huddersfield, Shola has established himself as a real threat to Championship defences this season.
 

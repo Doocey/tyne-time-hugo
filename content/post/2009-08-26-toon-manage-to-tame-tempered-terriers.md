@@ -23,7 +23,7 @@ tags:
   - NUFC Blog
 
 ---
-![Players - Doing us proud at the minute](http://i.telegraph.co.uk/telegraph/multimedia/archive/01470/kevin-nolan_1470069c.jpg)
+![Players - Doing us proud at the minute](https://i.telegraph.co.uk/telegraph/multimedia/archive/01470/kevin-nolan_1470069c.jpg)
 
 Well in what was quiet an exciting game to say the least, Newcastle United managed to overcome Huddersfield Town. Goals from Shola Ameobi, Danny Guthrie, Geremi (I know 😮 ) and Kevin Nolan sealed a great comeback for the hard-working lads. Indeed that's  what they did, they worked. Although we had to introduce our first teamers, it was quiet a good performance all round by the little Newcastle squad. The much talked about, Nile Ranger played the game and did quiet well in what seemed to be a 4-5-1 formation from stand in boss, Chris Hughton.
 

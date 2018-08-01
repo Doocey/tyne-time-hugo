@@ -21,7 +21,7 @@ tags:
   - NUFC Blog
 
 ---
-![Ranger - Volleyed home last night in Coventry](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/8/6/1249580886043/Nile-Ranger-001.jpg)
+![Ranger - Volleyed home last night in Coventry](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/8/6/1249580886043/Nile-Ranger-001.jpg)
 
 In a good display from Newcastle United last night, Nile Ranger at long last got his first senior goal for the Toon Army and the travelling fans. The icing on the cake came with only a few minutes remaining, Enrique crossing for his second assist of the evening before Ranger, between two defenders prodded it home. Hopefully this goal, which has been a long time coming, will spur  on a huge goal fest. Also, the return of Shola Ameobi saw him grab one straight away after taking a prolonged break due to injury. The Nigerian striker from 12 yards pelted it in to the top corner.
 

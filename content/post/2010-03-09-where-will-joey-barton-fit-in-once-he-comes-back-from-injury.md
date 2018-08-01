@@ -27,7 +27,7 @@ tags:
   - Tyne Time
 
 ---
-![Joey Barton could be like a new signing for Newcastle United when he returns.](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/1/1/1262352528570/Joey-Barton-001.jpg)
+![Joey Barton could be like a new signing for Newcastle United when he returns.](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/1/1/1262352528570/Joey-Barton-001.jpg)
 
 The recent performances of Danny Guthrie have been nothing short of fantastic as the former Liverpool midfielder continues to prove that he's more of an asset in centre midfield. Guthrie scored twice on Saturday and both were from distance. He's also got important goals this seasons like our home tie against West Brom, in the 2-2 draw. The forlorn figure of Joey Barton will  reappear from Newcastle United's dressing-room in the next week or so but I can't see him breaking into the Toon starting 11 straight away anyway.
 

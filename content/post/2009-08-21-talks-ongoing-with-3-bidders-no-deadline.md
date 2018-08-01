@@ -20,7 +20,7 @@ tags:
   - NUFC Blog
 
 ---
-![Ashley - No deadline has been set for sale](http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/2/25/1235586865322/Mike-Ashley-001.jpg)
+![Ashley - No deadline has been set for sale](https://static.guim.co.uk/sys-images/Sport/Pix/pictures/2009/2/25/1235586865322/Mike-Ashley-001.jpg)
 
 There were reports earlier from who else but the questionable tabloids , that a deadline of 5pm had been set today, for the sale of Newcastle United to be completed. However Sky Sports and their infamous David Craig has been on within the last few minutes to confirm that **no** deadline has been set and wait, they have no intention in selling Steven Taylor. A mixture of good and bad news but we never really expected the news from the tabloids to be very credible. However the fact that they have no intention in selling Steve Taylor can only be regarded as good news, and some other good news, is that Newcastle are reportedly ready to swoop for Icelandic centre back,  Solvi Ottesen.
 

@@ -37,7 +37,7 @@ tags:
   - Tyne Time
 
 ---
-![Ben Arfa was recklessly tackled by Nigel de Jong which resulted in a broken leg](http://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/10/4/1286201923795/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
+![Ben Arfa was recklessly tackled by Nigel de Jong which resulted in a broken leg](https://static.guim.co.uk/sys-images/Football/Pix/pictures/2010/10/4/1286201923795/Hatem-Ben-Arfa-006.jpg "Hatem Ben Arfa")
 
 #### Ben Arfa - Brave fella who wants to play in a Black and White jersey again
 
