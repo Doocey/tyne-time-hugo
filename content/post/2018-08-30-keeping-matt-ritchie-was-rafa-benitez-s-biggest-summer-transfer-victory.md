@@ -1,6 +1,6 @@
 ---
 title: Keeping Matt Ritchie was Rafa Benitez's biggest summer transfer victory
-date: '2018-08-30T10:40:00-04:00'
+date: '2018-08-30T10:41:00-04:00'
 description: >-
   Rafa Benitez didn't get the arrivals he wanted, but it's who didn't leave that
   may mark his biggest victory in the transfer window - one being Matt Ritchie.
