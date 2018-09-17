@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ partialCached "nav.html" . }}
+
+<main class="w-100 center bg-near-white">
+	<header class="tc ph4 bg-light-gray">
+		<h1 class="f3 f2-m f1-l fw2 black-90 mv3">
+			{{ .Title }}
+		</h1>
+		<h2 class="f5 f4-m f3-l fw2 black-50 mt0 lh-copy">
+			{{ .Params.location }}
+		</h2>
+	</header>
+</main>
+{{ partialCached "footer.html" . }}
