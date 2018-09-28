@@ -1,6 +1,6 @@
 ---
 title: 'Ayoze: Heavily criticised but highly important to NUFC'
-date: '2018-09-28T11:05:00-04:00'
+date: '2018-09-28T11:08:00-04:00'
 description: >-
   Criticism of Ayoze Perez arrives like clockwork each season, but he is a
   crucial player to Newcastle United whether some NUFC supporters realise it or
