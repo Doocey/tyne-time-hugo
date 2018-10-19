@@ -9,6 +9,11 @@
     {{ .Scratch.Set "realSlug" $semiSlug }}
 {{ end }}
 
+<!-- Let Hugo decide where to show comments option or not -->
+{{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+{{ $ageMonths := div (sub now.Unix .Date.Unix) 2592000 }}
+
+{{ if lt $ageDays 31 }}
 <form class="bb pv4 ph2 black-80 justify-around-ns w-100 w-80-ns center" method="POST" action="https://api.staticman.net/v2/entry/Doocey/tyne-time-hugo/master/comments" netlify-honeypot="bot-field">
   <h4 class="ttu tracked">Comments:</h4>
   <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
@@ -31,7 +36,7 @@
   </div>
   <input type="submit" class="georgia ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" value="Submit Comment">
 </form>
-
+{{ end }}
   {{ range $comments }}
     {{ if eq .Name ($.Scratch.Get "realSlug") }}
       {{ $.Scratch.Add "hasComments" 1 }}
