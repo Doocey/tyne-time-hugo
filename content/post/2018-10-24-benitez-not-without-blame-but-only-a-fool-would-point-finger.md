@@ -1,6 +1,6 @@
 ---
 title: Benitez not without blame but only a fool would point finger
-date: 2018-10-24T15:13:01.157Z
+date: 2018-10-24T16:30:00.000Z
 description: >-
   Newcastle United are struggling and while some share of the blame must fall on
   manager Rafa Benitez only a tool would lay responsibility at his door.
