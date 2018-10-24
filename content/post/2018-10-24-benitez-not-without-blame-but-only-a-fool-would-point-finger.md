@@ -10,8 +10,6 @@ image_alt: Rafa Benitez finds the funny side of things at St. James' Park.
 categories:
   - NUFC Blog
 ---
-# Title
-
 It has been a strange start to the new Premier League campaign at Newcastle United, and by strange, I mean completely predictable. A new season usually brings about a sense of optimism - whether blind or not - and the hope for a year of excitement. One wishes that those cold winter fixtures will have meaning other than merely existing around the lower half of the table. That would be the case for most clubs, but Newcastle United isn't like most other teams. After a downright disgraceful transfer window that saw a relegated forward arrive with the hopes of Tyneside riding on him, he has barely kicked a ball. Rondon did find the back of the net in the league cup to level things up, but in true NUFC style, they went on to concede two goals in a matter of minutes and exited the cup. Since then he has been nursing a knock which has ruled him out of the past few games. The lack of striking options has proven disastrous too, as Rafa Benitez's men sit at the foot of the table with just 2 points from a possible 27 with November fast approaching.
 
 Despite the horrendous start, which, to be fair, has included some very tough fixtures - no team has ever been relegated in the month of November. A manager of Benitez's ilk is more suited to fighting for titles/major trophies, but at NUFC he has been faced with a constant struggle with owner Mike Ashley and an average squad that is showing real weakness so early into the season. It's a worrying situation, make no mistake about it. Benitez knows that too, and despite being a crafty, calm individual, recent comments would suggest that he fears a real relegation battle in 2019.
