@@ -32,4 +32,6 @@ In December of last year I wrote an article about January and how it would [defi
 
 Feel free to vent your frustrations/voice your opinion [@KevinDoocey](https://twitter.com/kevindoocey).
 
+---
+
 In a sidenote, I will be soon launching a new feature on Tyne Time called **Remember The Game** - a completely pointless monthly mini-entry that looks back on a random Newcastle United game from the past 10 years. You might hate it, or you may love it, but it'll certainly jog some memories.
