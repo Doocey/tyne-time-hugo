@@ -32,3 +32,14 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Remember The Game"
+    name: "remember-the-game"
+    widget: "list"
+    fields:
+      - {label: Game, name: game, widget: string, default: "RTG: Newcastle 5-1 Sunderland"}
+      - label: Entry
+        name: the-game
+        widget: object
+        fields:
+          - {label: Action, name: action, widget: string, default: "What happened?"}
+          - {label: Artwork, name: artwork, widget: image, default: "/images/tyne-time-nufc-blog.jpg"}
