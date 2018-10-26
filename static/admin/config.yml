@@ -46,6 +46,6 @@ collections:
         name: "actions"
         widget: "list"
         fields:
+          - {label: "Artwork", name: "artwork", widget: "image"}
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Action", name: "action", widget: "markdown"}
-          - {label: "Artwork", name: "artwork", widget: "image"}
