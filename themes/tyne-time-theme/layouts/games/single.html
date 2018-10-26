@@ -10,6 +10,7 @@
 			{{ .Params.description }}
 		</h2>
 		<h3>{{ .Params.url }}</h3>
+		<pre>{{ printf "%#v" . }}</pre>
 	</header>
 </main>
 {{ partialCached "footer.html" . }}
