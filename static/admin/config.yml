@@ -20,16 +20,6 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: list}
       - label: "Testimonials"
-      - name: "testimonials"
-        widget: "list"
-        fields:
-          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-          - label: Author
-            name: author
-            widget: object
-            fields:
-              - {label: Name, name: name, widget: string, default: "Emmet"}
-              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
@@ -43,3 +33,13 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "testimonials"
+      widget: "list"
+      fields:
+        - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+        - label: Author
+          name: author
+          widget: object
+          fields:
+            - {label: Name, name: name, widget: string, default: "Emmet"}
+            - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
