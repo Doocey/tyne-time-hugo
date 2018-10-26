@@ -7,7 +7,11 @@
 			{{ .Title }}
 		</h1>
 		<h2 class="f5 f4-m f3-l fw2 black-50 mt0 lh-copy">
-			{{ .Content }}
+			{{ range .Params.action }}
+			<li class="dib mr1 mb2">
+						{{ . }}
+			</li>
+			{{ end }}
 		</h2>
 	</header>
 </main>
