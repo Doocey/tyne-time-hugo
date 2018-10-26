@@ -19,7 +19,6 @@ collections:
       - {label: "Image Alt", name: "image_alt", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: list}
-      - label: "Testimonials"
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
@@ -33,13 +32,27 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "testimonials"
-    widget: "list"
-    fields:
-      - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-      - label: Author
-        name: author
-        widget: object
+  - name: "Remember The Game" # Used in routes, e.g., /admin/collections/blog
+    label: "Remeber The Game" # Used in the UI
+    folder: "content/games" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "SEO Description", name: "description", widget: "text"}
+      - {label: "URL", name: "url", widget: "string"}
+      - label: "List"
+        name: "list"
+        widget: "list"
         fields:
-          - {label: Name, name: name, widget: string, default: "Emmet"}
-          - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+          - {label: "String", name: "string", widget: "string"}
+          - {label: "Boolean", name: "boolean", widget: "boolean"}
+          - {label: "Text", name: "text", widget: "text"}
+          - {label: "Number", name: "number", widget: "number"}
+          - {label: "Markdown", name: "markdown", widget: "markdown"}
+          - {label: "Datetime", name: "datetime", widget: "datetime"}
+          - {label: "Date", name: "date", widget: "date"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "File", name: "file", widget: "file"}
+          - {label: "Select", name: "select", widget: "select", options: ["a", "b", "c"]}
