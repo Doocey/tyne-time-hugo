@@ -7,8 +7,9 @@
 			{{ .Title }}
 		</h1>
 		<h2 class="f5 f4-m f3-l fw2 black-50 mt0 lh-copy">
-			{{ .Params.actions.action}}
+			{{ .Params.description }}
 		</h2>
+		<h3>{{ .Params.url }}</h3>
 	</header>
 </main>
 {{ partialCached "footer.html" . }}
