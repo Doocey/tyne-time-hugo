@@ -4,7 +4,7 @@ date: 2019-01-31T17:46:00.000Z
 description: >-
   Things are often bleak at Newcastle United, but just when you're out - they
   reel you back in. Miguel Almiron, Manchester City & NUFC madness.
-url: /2019/01/31/city-miguel-almiron-madness-at-newcastle-united
+url: /2019/01/31/city-miguel-almiron-madness-at-newcastle-united/
 image: /images/miguel-almiron-newcastle-united.png
 image_alt: Miguel Almiron signs for Newcastle United for a club record fee.
 categories:
