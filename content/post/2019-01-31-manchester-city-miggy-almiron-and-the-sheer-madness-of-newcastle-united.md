@@ -1,5 +1,5 @@
 ---
-title: 'Manchester City, Miggy Almiron and the sheer madness of Newcastle United'
+title: 'Manchester City, Miggy Almirón and the sheer madness of Newcastle United'
 date: 2019-01-31T17:46:00.000Z
 description: >-
   Things are often bleak at Newcastle United, but just when you're out - they
