@@ -1,7 +1,6 @@
 baseURL: "https://www.tynetime.com"
 languageCode: "en-GB"
 theme: "tyne-time-theme"
-googleAnalytics: "UA-7993164-1"
 # Ensure new permalink structure for future posts
 permalinks:
   post: /:year/:month/:title/
