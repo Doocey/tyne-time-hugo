@@ -1,6 +1,6 @@
 ---
 title: Benitez & NUFC's transfer policy can work - with just a little compromise
-date: 2019-03-21T15:21:43.422Z
+date: 2019-03-21T16:26:00.000Z
 description: >-
   Newcastle United's infamous transfer policy of buying players under the age of
   26 has caused friction in the past, but Rafa Benitez can make it work, with
