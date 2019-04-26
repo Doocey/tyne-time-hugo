@@ -30,8 +30,6 @@ Having signed Jack Colback, Ayoze Perez, and indeed Siem de Jong, the prospect o
 
 The ever reputable Mark Douglas of The Journal, and The Chronicle has said that he is confident that NUFC will manage - or rather plan to sign - 3 before they jet-off for pre-season in New Zealand. Cabella looks as if he is the first on that list and the news today backs up such reports.
 
-Anyway, back to the breaking news today, here is a tweet from the pretty reliable Julien Laurens:
-
-{{< tweet 487624407087874048 >}}
+Anyway, back to the breaking news today, here is a tweet from the pretty reliable Julien Laurens
 
 More to follow on this of course once everything becomes official, but it does seem as if **we've got Cabella**. Feel free to leave yours thoughts in the comments box provided below, and make sure to follow myself on Twitter [@KevinDoocey](https://twitter.com/kevindoocey "doocey twitter").

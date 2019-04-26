@@ -34,8 +34,6 @@ Since then, however, I think it is fair to say that his commitment and performan
 
 According to the ever reliable George Caulkin from _The Times_, new manager Steve McClaren told him that Fabricio Coloccini informed the boss that he wants to **remain at Newcastle United for the rest of his career**.
 
-{{< tweet 628158757172854785 >}}
-
 With that said, Coloccini has only one year left to run on his contract, but informing McClaren that he plans on seeing out his career on Tyneside would suggest that he either wants a minor extension to his current deal, or that he will retire from football within 18 months. I'll let you decide.
 
 Of course while it is unlikely that Coloccini would be offered any new, long-term deal it wouldn't surprise me if he got another year come June 2016. Now perhaps McClaren has told George absolute waffle to dampen any rumours of an imminent departure, but so far Steve comes across as a pretty genuine, straight-up fella. To hear that Coloccini wants to stays _for the rest of his career_ makes for very interesting reading - or so I think at least.
