@@ -18,4 +18,4 @@ For now we wave goodbye to a man of character, class and principle. It brings to
 
 Thanks for allowing us to believe, Rafa. ⚫️⚪️
 
-[Rafa celebrates winning the Championship](https://www.tynetime.com/assets/images/rafa-wins-championship-nufc.jpg)
+![Rafa celebrates winning the Championship](https://www.tynetime.com/images/rafa-wins-championship-nufc.jpg)
