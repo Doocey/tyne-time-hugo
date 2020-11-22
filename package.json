@@ -1,0 +1,27 @@
+{
+  "name": "tyne-time-hugo",
+  "version": "1.0.0",
+  "description": "![Tyne Time](https://www.tynetime.com/tyne-time-nufc-blog.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doocey/tyne-time-hugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doocey/tyne-time-hugo/issues"
+  },
+  "homepage": "https://github.com/Doocey/tyne-time-hugo#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.9",
+    "postcss-cli": "^8.3.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0"
+  }
+}

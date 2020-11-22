@@ -15,8 +15,6 @@
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="preload" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css" as="stylesheet">
-		<link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
 		<link rel="preload" href="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js" as="script">
 		<!-- Lazy Load For Images -->
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
@@ -38,6 +36,10 @@
 		<!-- OG -->
 		{{ partial "meta/open-graph.html" . }}
 		<!-- Twitter Cards -->
+		{{ $styles := resources.Get "css/style.css" | postCSS | minify }}
+		<style>
+			{{- $styles.Content | safeCSS -}}
+		</style>
 	</head>
 
 	<body class="baskerville sans-serif bg-near-white">
