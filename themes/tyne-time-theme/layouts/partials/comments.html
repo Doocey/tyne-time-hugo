@@ -1,4 +1,4 @@
-{{ $comments := readDir "data/comments" }}
+<!-- {{ $comments := readDir "data/comments" }}
 {{ $.Scratch.Add "hasComments" 0 }}
 {{ $slug := substr .Params.url 12 -1}}
 {{ $semiSlug := substr .Params.url 9 -1}}
@@ -10,7 +10,7 @@
 {{ end }}
 
 <!-- Let Hugo decide where to show comments option or not -->
-{{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+<!-- {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
 {{ $ageMonths := div (sub now.Unix .Date.Unix) 2592000 }}
 
 {{ if lt $ageDays 31 }}
@@ -58,3 +58,4 @@
   {{ if eq ($.Scratch.Get "hasComments") 0 }}
     <p class="tc">Nothing yet, maybe you'll change that..</p>
   {{ end }}
+    -->
