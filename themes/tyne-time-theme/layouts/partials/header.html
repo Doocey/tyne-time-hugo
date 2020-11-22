@@ -36,7 +36,7 @@
 		<!-- OG -->
 		{{ partial "meta/open-graph.html" . }}
 		<!-- Twitter Cards -->
-		{{ $styles := resources.Get "css/style.css" | toCSS | postCSS | minify }}
+		{{ $styles := resources.Get "css/style.css" postCSS | minify }}
 		<style>
 			{{- $styles.Content | safeCSS -}}
 		</style>
