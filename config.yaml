@@ -3,7 +3,7 @@ languageCode: "en-GB"
 theme: "tyne-time-theme"
 # Ensure new permalink structure for future posts
 permalinks:
-  posts: /:year/:month/:title/
+  post: /:year/:month/:title/
 # metadata
 metaDataFormat: "yaml"
 # taxonomies
