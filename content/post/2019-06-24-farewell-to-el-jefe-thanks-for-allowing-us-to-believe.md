@@ -9,6 +9,7 @@ image: /images/rafa-benitez-leaves-nufc.jpg
 image_alt: A banner of support for Rafa Benitez.
 categories:
   - NUFC Blog
+type: post
 ---
 Monday, June 24th 2019 is a day that will live long in the memory of Newcastle United supporters, for all the wrong reasons. It marked the announcement of Rafa Benitez's departure from NUFC, after three classy years on Tyneside. Mike Ashley decided to pull the plug on negotiations after the Spaniard all but confirmed his intentions to turn down the contract renewal on offer via various media outlets over the past two days.
 

@@ -12,6 +12,7 @@ image_alt: >-
   Everton.
 categories:
   - NUFC Blog
+type: post
 ---
 As each day passes, the contract of Rafa Benitez ticks down little by little. Three years after taking the reins at St. James' Park, Newcastle United as a club has felt a renewed sense of energy, a feeling of pride in their team, and a unusual sense of hope that has been vacant for quite some time. Yet, despite all that, as NUFC fans, we are brought back to reality when we remember who owns this football club. In a ten year era that spans broken promises, unscrupulous decisions at boardroom level, and outright lies - Toon fans are rightly weary of getting their hopes up even a smidgen. It is compounded by the fact that the one man who has done his utmost to lead the club out of the fog into the light is likely to leave in a matter of months, and leave behind him the biggest missed opportunity that Tyneside has harbored in as long as I can remember. 
 

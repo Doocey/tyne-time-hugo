@@ -2,6 +2,7 @@
 title: March Madness and the mysterious case of Mikel Merino
 date: '2018-03-07T12:00:00-05:00'
 author: "Kevin Doocey"
+type: post
 creator: "Kevin Doocey"
 description: >-
   Just two league fixtures in March may well define Newcastle United's survival

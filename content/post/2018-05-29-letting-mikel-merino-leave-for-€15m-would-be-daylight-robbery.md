@@ -1,6 +1,7 @@
 ---
 title: 'Letting Mikel Merino leave for €15m would be daylight robbery '
 date: '2018-05-29T12:09:58-04:00'
+type: post
 description: >-
   Newcastle United's talented midfielder Mikel Merino could be readying a return
   to Spain for a measly & downright disgraceful €15m, according to reports.

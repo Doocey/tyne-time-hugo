@@ -9,6 +9,7 @@ image: /images/miguel-almiron-newcastle-united.png
 image_alt: Miguel Almiron signs for Newcastle United for a club record fee.
 categories:
   - NUFC Blog
+type: post  
 ---
 There was nothing unusual to the start of week at Newcastle United. It followed the same pattern as most others this season, constant rumours that Rafa Benitez was close to the exit door, and the trickle of transfer talk as January came to a conclusion. Murmurs of Benitez's departure intensified as he gave the strongest indicator to date that he could walk away before the end of the season. It was a frank answer, and hardly unexpected, but it started the ball rolling for a pretty mental few days on Tyneside, even by North East standards. All the while the Spaniard was prepping his players for the visit of defending champions, Manchester City. With a title race beginning to swing into full motion, Guardiola's men arrived at St. James' Park with an expectation of comfortable victory. Odds of 16/1 on Newcastle United winning the game confirmed sentiment. Coupled with a planned protest & an injury plagued midfield, it looked to be one of the bleakest nights on Tyneside for a while. But the madness had only begun.
 

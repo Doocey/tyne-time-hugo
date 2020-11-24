@@ -12,6 +12,7 @@ image_alt: >-
   League.
 categories:
   - NUFC Blog
+type: post
 ---
 Every summer over the past 10 years has produced nothing but frustration as a Newcastle United supporter. Mike Ashley's ownership has numbed any real expectation of big-name signings, or the dare to dream. His tenure has been nothing short of a disaster, yet somehow, he finds himself with the most decorated manager the club will likely ever appoint - you'd think it'd make sense to back him financially, having witnessed the considerable success since being appointed on a new three-year deal back in 2016. But why would he do that? The club surivived the threat of relegation last season without considerable spend, meaning, in Ashley's eyes, they will do the same this year again without the need for a respectible transfer budget. As things stand, Newcastle United and Rafa Benitez will be parting ways when the Spaniard's contract expires next season. It is incredible that - even by his own standards - Ashley would let such a disastrous situation materialise. Yet, here we are, just weeks out from the transfer window closing and Newcastle's squad is illprepared for the upcoming domestic season. 
 

@@ -1,6 +1,7 @@
 ---
 title: Diligent and Dedicated - DeAndre Yedlin helps deliver NUFC from the drop
 date: '2018-04-19T11:25:10-04:00'
+type: post
 description: >-
   Ayoze Perez & Jonjo Shelvey have grabbed recent headlines at Newcastle United,
   but spoken softly is the name of DeAndre Yedlin who has been equally crucial.

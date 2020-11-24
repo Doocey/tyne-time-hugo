@@ -9,6 +9,7 @@ image: /images/matt-ritchie-newcastle-chelsea.jpg
 image_alt: Matt Ritchie in action for Newcastle against Chelsea at St. James' Park.
 categories:
   - NUFC Blog
+type: post
 ---
 Another predictably underwhelming transfer window for Rafa Benitez & Newcastle United -  who would have thought? Despite the handful of defensive arrivals, and of Salomon Rondon, the squad is nowhere near the standards required by Rafa and his staff. In fact, if you were to hand this squad to any of our former managers, I think they'd likely struggle to keep us afloat in the Premier League. Of course, it remains to be seen whether Benitez can secure safety with this lot, but he simply isn't the type of manager to suffer relegation; he is almost completely foreign to the idea of dropping down a division given the clubs he has guided in the past. 
 

@@ -9,6 +9,7 @@ image: /images/rondon-newcastle-benitez.jpg
 image_alt: Salomon Rondon embraces Newcastle United manager Rafa Benitez.
 categories:
   - NUFC Blog
+type: post
 ---
 Almost exactly a year ago today, I wrote about a possible takeover of Newcastle United. It was all over the news. Amanda Staveley was apparently closing in on the purchase of NUFC. As we know, it all fell through. Staveley didn't have the financial backing, and Ashley lost patience. The Spaniard at the centre of it all, Rafa Benitez, managed to overachieve with a 10th place finish and hopes for a new owner over the summer grew taller. Despite that, here we are again - approaching a January transfer window with takeover talk, transfer plans in tatters, and sheer confusion around Tyneside. Things haven't been much better on the pitch either, as Rafa's men hover above the relegation zone with what you feel is already an overpeforming squad of players. 
 

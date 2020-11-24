@@ -12,6 +12,7 @@ image_alt: >-
   Premier League.
 categories:
   - NUFC Blog
+type: post
 ---
 There are three guarantees in life; taxes, death, and the annual criticism of Newcastle United striker Ayoze Perez. The slick-haired Spaniard arrived from the beautiful Tenerifé in 2014, with the plan of being introduced to the NUFC development squad. He was a highly sought after talent, with FC Porto and even Barcelona admitting to interest in signing him. Perez quickly impressed on Tyneside, and gained a starting role before too long. He netted seven crucial goals in his opening season, in what was a pretty disappointing campaign under Alan Pardew. He also nabbed 6 in the relegation season of 2015-16, before grinding out a return of 9 in 36 in a grueling Championship campaign. Rafa Benitez has ensured that his fellow countryman continues to develop, both physically and mentally, yet, even after all of these years, to say he has nailed down exactly where he fits in on the pitch would be a lie. There has been some acceptance of him as a #10 operating behind a lone front man, whilst others argue that he is one of our better finishers and should be playing up top as part of a 2 man strike force. Plenty shout that he should be on the bench, too.
 

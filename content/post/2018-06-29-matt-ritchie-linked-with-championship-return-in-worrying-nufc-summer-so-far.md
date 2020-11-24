@@ -11,6 +11,7 @@ image_alt: >-
   following a Premier League match.
 categories:
   - NUFC Blog
+type: post
 ---
 Rafa Benitez and Lee Charnley have spent the summer so far trying to flog a number of Newcastle United fringe players, to no avail. Chancel Mbemba, Matz Sels and Henri Saivet are three names that make up the brunt of the headlines across local media & abroad. Mbemba seemed set for a move to FC Porto only for it to stall, while Sels is subject to tight Belgian pursestrings as Anderlecht can't afford his fee. All of this has contributed to a lack of movement in terms of incomings, with Benitez working behind the scenes to get the squad ready for a tough second season in the Premier League.
 

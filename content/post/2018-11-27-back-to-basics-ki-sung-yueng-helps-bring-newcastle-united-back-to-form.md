@@ -11,6 +11,7 @@ image_alt: >-
   over Burnley in the Premier League.
 categories:
   - NUFC Blog
+type: post
 ---
 When Ki Sung-yueng arrived on Tyneside in the summer, not too many folks were screaming with enthusiasm. The Korean had severed ties with recently relegated Swansea following an abysmal season in Wales. It ended and perhaps maybe even soured what was a very decent stint with the Swans overall. He followed in the footsteps of quite a few players under Benitez who happened to wear the Black and White of Newcastle, and the red and white stripes of their neighbours, Sunderland. It was an announcement that reinforced what all NUFC fans expected and feared; a free transfer that signaled how little wiggle-room Rafa had in the transfer window. So who would have expected come November 27th and the time of writing this that Ki has helped **transform** the club's fortunes on the field. Following a fantastic 2-1 victory over Bournemouth last night, the Korean has now played a big part in three straight victories for the Magpies, including an assist for Ayoze Perez to set the run rolling in a narrow win over in-form Watford. 
 
