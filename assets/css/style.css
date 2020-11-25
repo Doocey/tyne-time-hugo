@@ -8156,3 +8156,7 @@ footer a:visited {
 article a { 
     color: black;
 }
+
+.w-95 {
+    width: 95%;
+}
